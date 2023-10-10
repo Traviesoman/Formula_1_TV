@@ -1,55 +1,15 @@
 #EXTM3U
-#EXTINF: -1 group-title="F1",|.ES.| M FORMULA 1 FHD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/59818.ts
-#EXTINF:-1 group-title="F1",|.ES.D.| DAZN 1 FHD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/66053.ts
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR F1 HD
+#EXTINF:-1,||ES|| MOVISTAR F1 HD
 http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/3612
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR FORMULA 1 FHD
+#EXTINF:-1,||ES|| MOVISTAR FORMULA 1 FHD
 http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/1931
-#EXTINF:-1 group-title="F1",||UK|| SKY SPORTS F1 HD
+#EXTINF:-1,||UK|| SKY SPORTS F1 HD
 http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/1418
-#EXTINF:-1 group-title="F1",|FR.RP| CANAL+ FORMULA1 HD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/125119.ts
-#EXTINF:-1 group-title="F1",|FR| CANAL+ FORMULA1 FHD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/108538.ts
-#EXTINF:-1 group-title="F1",|SP-M+| DAZN 1 FHD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/139273.ts
-#EXTINF:-1 group-title="F1",|SP-M+| DAZN 1 HD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/139272.ts
-#EXTINF:-1 group-title="F1",|SP-M+| DAZN F1 FHD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/139271.ts
-#EXTINF:-1 group-title="F1",|SP-M+| DAZN F1 HD
-http://ipro.webvps.de:25443/live/6532215493/4566645645/139270.ts
-#EXTINF:-1 group-title="24/7",CANTINFLA 1
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/273153.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/380162.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+#EXTINF:-1,EL CHAPULIN COLORADO
 http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/87396.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 1
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/87395.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL OCHO 2
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/94963.ts
-#EXTINF:-1 group-title="24/7",EL COYOTE & EL CORRECAMINO 2
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/87390.ts
-#EXTINF:-1 group-title="24/7",EL SHOW DEL BIG SHOW
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/65622.ts
-#EXTINF:-1 group-title="24/7",ESTRENOS 2023
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/384561.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 1
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/115359.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 2
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/117797.ts
-#EXTINF:-1 group-title="24/7",24/7 : MALCOLM
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/65638.ts
-#EXTINF:-1 group-title="24/7",24/7 : MISION IMPOSIBLE
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/381027.ts
-#EXTINF:-1 group-title="24/7",24/7 : TRANSFORMERS
-http://tv.dominiotv.xyz:25461/live/cuen23/hX8recoverymf/380956.ts
 #EXTINF:-1,24/7 Bob Esponja
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/7
-#EXTINF:-1 tvg-id="24/7" tvg-name="CANTIFLAS" tvg-logo="https://elcomercio.pe/resizer/SYBXfaksKctZTT0VXhIO22YsA14=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/SHYKPJGWDBE2HH4FW6PJ66MNIE.jpg" group-title="24/7",CANTIFLAS
+#EXTINF:-1,CANTIFLAS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/52035
 #EXTINF:-1,Canal 66 Mexicali
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/155
@@ -61,47 +21,37 @@ http://kp-thebestiptv.com:8080/series/Galindo21/5anJqAHmvb/164006.mkv
 http://kp-thebestiptv.com:8080/series/Galindo21/5anJqAHmvb/164007.mkv
 #EXTINF:-1,Desapariciones Vivos O Muertos? S01 E04
 http://kp-thebestiptv.com:8080/series/Galindo21/5anJqAHmvb/164008.mkv
-#EXTINF:-1 group-title="F1",ES: DAZN FORMULA 1 HD
+#EXTINF:-1,ES: DAZN FORMULA 1 HD
 http://obsfullhd.tv:25461/Tex@epic/aEbP8BkLjw/3612
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 FHD
+#EXTINF:-1,ES: M.FORMULA 1 FHD
 http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139271.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
-http://meumd.com:80/live/5514997070349/gih551499707/238848.m3u8
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
-http://yorkshiredog.xyz:8080/carros/carros/10286
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1566281&extension=ts&play_token=qqsOtnXdu6
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606858.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136127.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136127.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://dayser.info:8080/play/pY9QGb0rBaQuhamv7xOOUyw7Q0GznN6BSloOuYmPYMQ
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
-http://tv.pro-ott.com:25443/live/4998548523/7467896546/139270.ts
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:37:34&stream=55552&extension=ts&play_token=QFOFNItajA&sn2=
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
-http://clienteworld.com:80/isamael17/201910p/13865690.m3u8
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD
+#EXTINF:-1,ES: M.FORMULA 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AF:6E:F1&stream=55551&extension=ts&play_token=vpE16F2DKb&sn2=
-#EXTINF:-1 group-title="F1",ES: M.FORMULA 1 HD 2
+#EXTINF:-1,ES: M.FORMULA 1 HD 2
 http://vip.itvdom.com:25443/live/HAJG6/k7bKPqg05y/139270.ts
-#EXTINF:-1 group-title="F1",ES: Movistar Formula 1
+#EXTINF:-1,ES: Movistar Formula 1
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/47
-#EXTINF:-1 group-title="F1",ES: PEREZFormula 3
+#EXTINF:-1,ES: PEREZFormula 3
 http://dayser.info:8080/play/MpXfUnFf9SqIJ4kAKYqcI8v149vMplyDvvyUJQqTImo
-#EXTINF:-1 group-title="F1",ES: PEREZFormula 4
+#EXTINF:-1,ES: PEREZFormula 4
 http://dayser.info:8080/play/MpXfUnFf9SqIJ4kAKYqcI-4AmklIB8oFoF4IValbUNA
-#EXTINF:-1 group-title="F1",F1 | Formula 1 ESP
+#EXTINF:-1,F1 | Formula 1 ESP
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/158464
-#EXTINF:-1 group-title="F1",F1 | Movistar Formula 1 España
+#EXTINF:-1,F1 | Movistar Formula 1 España
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/158463
-#EXTINF:-1 group-title="F1",F1 | Sky Sports Formula 1
+#EXTINF:-1,F1 | Sky Sports Formula 1
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/163920
 #EXTINF:-1,Fail Army
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143776
@@ -109,7 +59,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143776
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143212
 #EXTINF:-1,Fight Time
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/54922
-#EXTINF:-1 group-title="F1",FORMULA 1 ESP
+#EXTINF:-1,FORMULA 1 ESP
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/122849
 #EXTINF:-1,Funny Videos
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143214
@@ -143,7 +93,7 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/115944
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/115934
 #EXTINF:-1,Sala de Emergencias
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143690
-#EXTINF:-1 group-title="F1",SKY SPORTS FORMULA 1
+#EXTINF:-1,SKY SPORTS FORMULA 1
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/163868
 #EXTINF:-1,Supersport WWE
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/132699
@@ -157,16 +107,10 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143713
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/143715
 #EXTINF:-1,WWE Network
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55408
-#EXTINF:-1 group-title="F1",D| Movistar F1
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/158473
-#EXTINF:-1 group-title="F1",D| Movistar F1 HD
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/170225
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR FORMULA 1 FHD
+#EXTINF:-1,||ES|| MOVISTAR FORMULA 1 FHD
 http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1931
 #EXTINF:-1,||BE|| VOO SPORT 1 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/51531
-#EXTINF:-1,||BE|| VOO SPORT 1 HD.
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/5267
 #EXTINF:-1,||BE|| VOO SPORT 1 HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43370
 #EXTINF:-1,||BE|| VOO SPORT 2 FHD.
@@ -179,26 +123,16 @@ http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43371
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/5269
 #EXTINF:-1,||BE|| VOO SPORT WORLD 1 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43372
-#EXTINF:-1,||BE|| VOO SPORT WORLD 2 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43373
 #EXTINF:-1,||BE|| VOO SPORT WORLD 3 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/51533
 #EXTINF:-1,||BE|| VOO SPORT WORLD 1 FHD (backup)
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/55119
-#EXTINF:-1,||BE|| VOO SPORT WORLD 2 FHD (backup)
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/55120
-#EXTINF:-1,||BE|| VOO SPORT WORLD 3 FHD (backup)
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/55121
 #EXTINF:-1,||BE|| ELEVEN SPORTS 1 HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/5270
 #EXTINF:-1,||BE|| ELEVEN SPORTS 1 HD+
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/64903
-#EXTINF:-1,||BE|| ELEVEN SPORTS 2 HD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/5271
 #EXTINF:-1,||BE|| ELEVENSPORT 1 (NL)
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43351
-#EXTINF:-1,||BE|| ELEVENSPORT 1 (FR)
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43352
 #EXTINF:-1,||BE|| ELEVENSPORT 2 (FR)
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43354
 #EXTINF:-1,||BE|| ELEVENSPORT 3 (NL)
@@ -241,8 +175,6 @@ http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43361
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43362
 #EXTINF:-1,||BE|| PLAY SPORTS 3 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/43363
-#EXTINF:-1,||BE|| PLAY SPORTS 4 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/51536
 #EXTINF:-1,||BE|| PLAY SPORTS 5 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/51535
 #EXTINF:-1,||PT|| ELEVEN SPORTS 1 FHD
@@ -261,8 +193,6 @@ http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9748
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9749
 #EXTINF:-1,||PT|| ELEVEN SPORTS 3 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9750
-#EXTINF:-1,||PT|| ELEVEN SPORTS 4 SD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9798
 #EXTINF:-1,||PT|| ELEVENS SPORTS 4 HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9799
 #EXTINF:-1,||PT|| ELEVENS SPORTS 4 FHD
@@ -271,8 +201,6 @@ http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9800
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9796
 #EXTINF:-1,||PT|| ELEVEN SPORTS 5 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9797
-#EXTINF:-1,||PT|| ELEVEN SPORTS 6 SD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9793
 #EXTINF:-1,||PT|| ELEVEN SPORTS 6 HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9794
 #EXTINF:-1,||PT|| ELEVEN SPORTS 6 FHD
@@ -293,298 +221,224 @@ http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9789
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9784
 #EXTINF:-1,||PT|| KOMBAT SPORT
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9783
-#EXTINF:-1,||PT|| NBA TV
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9782
 #EXTINF:-1,||PT|| A BOLA TV
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/9785
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR FORMULA 1 FHD
+#EXTINF:-1,||ES|| MOVISTAR FORMULA 1 FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/1931
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR F1 HD
+#EXTINF:-1,||ES|| MOVISTAR F1 HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/3612
-#EXTINF:-1 group-title="F1",||ES|| MOVISTAR FUTBOL HD
+#EXTINF:-1,||ES|| MOVISTAR FUTBOL HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/3613
 #EXTINF:-1,||UK|| SKY SPORTS MAIN EVENT FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2091
 #EXTINF:-1,||UK|| SKY SPORTS ACTION FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2095
-#EXTINF:-1,||UK|| SKY SPORTS ARENA FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2096
 #EXTINF:-1,||UK|| SKY SPORTS CRICKET FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2097
-#EXTINF:-1 group-title="F1",||UK|| SKY SPORTS F1 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2098
-#EXTINF:-1,||UK|| SKY SPORTS GOLF FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2100
 #EXTINF:-1,||UK|| SKY SPORTS MIX FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2102
 #EXTINF:-1,||UK|| SKY SPORTS PREMIER LEAGUE FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2103
-#EXTINF:-1 group-title="F1",||UK|| SKY SPORTS RACING FHD
+#EXTINF:-1,||UK|| SKY SPORTS RACING FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2104
-#EXTINF:-1,||UK|| BT SPORT 3 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2105
-#EXTINF:-1,||UK|| BT SPORT 2 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2106
-#EXTINF:-1,||UK|| BT SPORT 1 FHD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2107
 #EXTINF:-1,||UK|| PARAMOUNT FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2108
 #EXTINF:-1,||UK|| SKY SPORTS NEWS FHD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/2109
-#EXTINF:-1 group-title="F1",||UK|| RACING UK HD
+#EXTINF:-1,||UK|| RACING UK HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/1437
 #EXTINF:-1,||UK|| BOX NATION HD
 http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/1439
-#EXTINF:-1,||UK|| FIGHTBOX HD
-http://obshd.tv:25461/Exc@UnableX/hpxmztZfcd7t/1440
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E01 - ABD
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E01 - ABD
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272366.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E02 - Abu Dabi
-http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272367.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E03 - Avusturya
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E03 - Avusturya
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272368.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E04 - Azerbaycan
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E04 - Azerbaycan
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272369.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E05 - Brezilya
-http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272370.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E06 - Britanya
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E06 - Britanya
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272371.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E07 - Catalunya
-http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272372.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E08 - Italya
-http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272373.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E09 - Italya Imola Sprint Yarışı
-http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272374.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E10 - Japonya
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E10 - Japonya
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272375.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E11 - Kanada
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E11 - Kanada
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272376.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E12 - Macaristan
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E12 - Macaristan
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272377.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2022 S01 Formula 1: 2022 - S01E13 -  Monaco
+#EXTINF:-1,Formula 1: 2022 S01 Formula 1: 2022 - S01E13 -  Monaco
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272378.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E01 - Bahreyn
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E01 - Bahreyn
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272381.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E41 - Canadian.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E41 - Canadian.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/325948.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E02 - Sudi Arabistan
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E02 - Sudi Arabistan
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/272382.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E03 - Avusturya Antrenman Turları 1
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E03 - Avusturya Antrenman Turları 1
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276057.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E04 - Avusturya Antrenman Turları 2
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E04 - Avusturya Antrenman Turları 2
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276058.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E05 - Avusturya Antrenman Turları 3
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E05 - Avusturya Antrenman Turları 3
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276083.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E06 - Avusturya Sıralama Turları
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E06 - Avusturya Sıralama Turları
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276084.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E07 - Australian Grand Prix 1 02.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E07 - Australian Grand Prix 1 02.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276181.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E08 - Australian Grand Prix 2 02.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E08 - Australian Grand Prix 2 02.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276182.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E09 - Australian Grand Prix 3 02.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E09 - Australian Grand Prix 3 02.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/276183.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E10 - Azerbaycan Antrenman Turları
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E10 - Azerbaycan Antrenman Turları
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/278961.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E11 - Azerbaycan Sıralama Turları
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E11 - Azerbaycan Sıralama Turları
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/278962.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E12 - Sprint Shootout Azerbaycan 29.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E12 - Sprint Shootout Azerbaycan 29.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279074.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E13 - Azerbaycan Grand Prix
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E13 - Azerbaycan Grand Prix
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279113.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E14 - Sprint Azerbaycan 29.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E14 - Sprint Azerbaycan 29.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279114.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E15 - Yarış 1 Azerbaycan 30.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E15 - Yarış 1 Azerbaycan 30.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279115.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E16 - Yarış 2 Azerbaycan 30.04.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E16 - Yarış 2 Azerbaycan 30.04.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279116.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E17 - Miami.GP.1.Antrenman.Turlari.05.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E17 - Miami.GP.1.Antrenman.Turlari.05.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279630.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E18 - Miami.GP.2.Antrenman.Turlari.05.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E18 - Miami.GP.2.Antrenman.Turlari.05.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279631.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E19 - Miami.GP.3.Antrenman.Turlari.06.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E19 - Miami.GP.3.Antrenman.Turlari.06.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279660.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E20 - Miami GP Siralama Turlari (06.05.2023)
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E20 - Miami GP Siralama Turlari (06.05.2023)
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279741.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E021 - Miami Grand Prix 07.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E021 - Miami Grand Prix 07.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/279803.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E22 - Monaco.GP.1.Antrenman.Turlari.26.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E22 - Monaco.GP.1.Antrenman.Turlari.26.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/281553.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E23 - Monaco.GP.2.Antrenman.Turlari.26.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E23 - Monaco.GP.2.Antrenman.Turlari.26.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/281554.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E24 - Monaco.GP.3.Antrenman.Turlari.27.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E24 - Monaco.GP.3.Antrenman.Turlari.27.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/281555.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E25 - Monaco.GP.Siralama.Turlari.27.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E25 - Monaco.GP.Siralama.Turlari.27.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/281765.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E26 - Monaco.GP.Yaris 1
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E26 - Monaco.GP.Yaris 1
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/282298.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E27 - Monaco.GP.Yaris 2
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E27 - Monaco.GP.Yaris 2
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/282299.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E28 - Monaco.GP.Yaris.28.05.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E28 - Monaco.GP.Yaris.28.05.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/285313.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E29 - Spain.GP.1.Antrenman.Turlari.02.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E29 - Spain.GP.1.Antrenman.Turlari.02.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288309.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E30 - Spain.GP.2.Antrenman.Turlari.02.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E30 - Spain.GP.2.Antrenman.Turlari.02.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288310.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E31 - Spain.GP.3.Antrenman.Turlari.03.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E31 - Spain.GP.3.Antrenman.Turlari.03.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288504.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E32 - Spain.GP.Siralama.Turlari.03.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E32 - Spain.GP.Siralama.Turlari.03.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288505.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E33 - Spain.GP.Yaris 1 04.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E33 - Spain.GP.Yaris 1 04.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288631.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E34 -  Spain.GP.Yaris 2 04.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E34 -  Spain.GP.Yaris 2 04.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288633.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E35 - Spain.GP.Yaris 3 04.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E35 - Spain.GP.Yaris 3 04.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288634.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E36 -  Spanish.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E36 -  Spanish.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/288632.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E37 - Canada.GP.1.Antrenman.Turlari.16.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E37 - Canada.GP.1.Antrenman.Turlari.16.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/325129.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E38 - Canada.GP.2.Antrenman.Turlari.16.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E38 - Canada.GP.2.Antrenman.Turlari.16.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/325130.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E39 - Canada.GP.3.Antrenman.Turlari.17.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E39 - Canada.GP.3.Antrenman.Turlari.17.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/325431.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E40 - Canada.GP.Siralama.Turlari.17.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E40 - Canada.GP.Siralama.Turlari.17.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/325432.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E42 - Austrian.GP.1.Antrenman.Turlari
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E42 - Austrian.GP.1.Antrenman.Turlari
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/337740.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E43 - Austrian.GP.Siralama.Turlari.30.06.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E43 - Austrian.GP.Siralama.Turlari.30.06.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/337741.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E44 - Austrian.GP.Sprint.01.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E44 - Austrian.GP.Sprint.01.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/337889.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E45 - Austrian.GP.Sprint.Shootout.01.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E45 - Austrian.GP.Sprint.Shootout.01.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/337890.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E46 - Austrian.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E46 - Austrian.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/339596.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E47 - Austrian.GP.Yaris.02.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E47 - Austrian.GP.Yaris.02.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/339597.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E48 - Austrian.GP.Yaris.02.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E48 - Austrian.GP.Yaris.02.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/339598.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E49 - Aramco.British.GP.1.Antrenman.Turlari.07.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E49 - Aramco.British.GP.1.Antrenman.Turlari.07.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340196.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E50 - Aramco.British.GP.2.Antrenman.Turlari.07.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E50 - Aramco.British.GP.2.Antrenman.Turlari.07.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340197.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E51 - Aramco.British.GP.2.Antrenman.Turlari.07.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E51 - Aramco.British.GP.2.Antrenman.Turlari.07.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340397.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E52 - British.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E52 - British.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340398.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E53 - Silverstone.United.Kingdom.GP.Yaris.09.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E53 - Silverstone.United.Kingdom.GP.Yaris.09.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340399.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E54 - Silverstone.United.Kingdom.GP.Yaris.09.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E54 - Silverstone.United.Kingdom.GP.Yaris.09.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/340400.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E55 - Formula.1.Hungary.GP.1.Antrenman.Turlari.21.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E55 - Formula.1.Hungary.GP.1.Antrenman.Turlari.21.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341352.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E56 - Formula.1.Hungary.GP.2.Antrenman.Turlari.21.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E56 - Formula.1.Hungary.GP.2.Antrenman.Turlari.21.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341353.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E57 - Formula.1.Hungary.GP.3.Antrenman.Turlari.22.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E57 - Formula.1.Hungary.GP.3.Antrenman.Turlari.22.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341354.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E58 - Formula.1.Hungary.GP.Siralama.Turlari.22.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E58 - Formula.1.Hungary.GP.Siralama.Turlari.22.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341355.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E59 - Hungarian.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E59 - Hungarian.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341390.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E60 - Budapest.Hungary.GP.Yaris.23.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E60 - Budapest.Hungary.GP.Yaris.23.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341391.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E61 - Budapest.Hungary.GP.Yaris.23.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E61 - Budapest.Hungary.GP.Yaris.23.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341392.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E62 - .Belgium.GP.1.Antrenman.Turlari
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E62 - .Belgium.GP.1.Antrenman.Turlari
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341848.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E63 - .Belgium.GP.Siralama.Turlari.
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E63 - .Belgium.GP.Siralama.Turlari.
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341849.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E64 - Belgium.GP.Sprint.Race.29.07.2023.
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E64 - Belgium.GP.Sprint.Race.29.07.2023.
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341850.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E65 - Belgium.GP.Sprint.Shootout.
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E65 - Belgium.GP.Sprint.Shootout.
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/341851.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E66 - Belgian.Grand.Prix.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E66 - Belgian.Grand.Prix.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/342089.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E67 - Belgium.GP.Yaris.30.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E67 - Belgium.GP.Yaris.30.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/342090.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E68 - Belgium.GP.Yaris.30.07.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E68 - Belgium.GP.Yaris.30.07.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/342091.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E69 - Formula.1.Netherlands.GP.1.Antrenman.Turlari.25.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E69 - Formula.1.Netherlands.GP.1.Antrenman.Turlari.25.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347501.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E70 - Formula.1.Netherlands.GP.2.Antrenman.Turlari.25.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E70 - Formula.1.Netherlands.GP.2.Antrenman.Turlari.25.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347502.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E71 - Formula.1.Netherlands.GP.3.Antrenman.Turlari.26.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E71 - Formula.1.Netherlands.GP.3.Antrenman.Turlari.26.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347503.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E72 - Formula.1.Netherlands.GP.Siralama.Turlari.26.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E72 - Formula.1.Netherlands.GP.Siralama.Turlari.26.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347504.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E73 - Formula.1.Netherlands.GP.Yaris.27.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E73 - Formula.1.Netherlands.GP.Yaris.27.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347505.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E74 - Formula.1.Zandvoort.Netherlands.GP.Yaris.27.08.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E74 - Formula.1.Zandvoort.Netherlands.GP.Yaris.27.08.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/347506.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E75 - Formula.1.Italy.GP.1.Antrenman.Turlari.01.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E75 - Formula.1.Italy.GP.1.Antrenman.Turlari.01.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348254.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E76 - Formula.1.Italy.GP.2.Antrenman.Turlari.01.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E76 - Formula.1.Italy.GP.2.Antrenman.Turlari.01.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348255.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E77 - Formula.1.Italy.GP.3.Antrenman.Turlari.02.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E77 - Formula.1.Italy.GP.3.Antrenman.Turlari.02.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348256.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E78 - Formula.1.Italy.GP.Siralama.Turlari.02.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E78 - Formula.1.Italy.GP.Siralama.Turlari.02.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348257.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E79 - Formula.1.Italy.GP.Yaris.03.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E79 - Formula.1.Italy.GP.Yaris.03.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348335.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E80 - Formula.2.Monza.Italy.Yaris.03.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E80 - Formula.2.Monza.Italy.Yaris.03.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348336.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E81 - Formula.3.Monza.Italy.Yaris.03.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E81 - Formula.3.Monza.Italy.Yaris.03.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/348337.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E82 - Formula.1.Singapore.1.Antrenman.Turlari.15.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E82 - Formula.1.Singapore.1.Antrenman.Turlari.15.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349536.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E83 - Formula.1.Singapore.2.Antrenman.Turlari.15.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E83 - Formula.1.Singapore.2.Antrenman.Turlari.15.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349537.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E84 - Formula.1.Singapore.3.Antrenman.Turlari.15.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E84 - Formula.1.Singapore.3.Antrenman.Turlari.15.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349538.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E85 - Formula.1.Singapore.Siralama.Turlari.16.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E85 - Formula.1.Singapore.Siralama.Turlari.16.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349539.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E86 - Formula.1.Singapore.Yaris.17.09.2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E86 - Formula.1.Singapore.Yaris.17.09.2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349540.mkv
-#EXTINF:-1 group-title="F1",Formula 1: 2023 S01 Formula 1: 2023 - S01E87 - Japanese Grand Prix 2023
+#EXTINF:-1,Formula 1: 2023 S01 Formula 1: 2023 - S01E87 - Japanese Grand Prix 2023
 http://5.march9.xyz:8080/series/4RQgH3mDmmpR/HZ5ZxGRYwrjt/349867.mkv
-#EXTINF:-1,WWE 24
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjE1Lm1wNCIsImlkIjoyMTc2Njl9/fast
-#EXTINF:-1,WWE Crown Jewel 2021 (2021)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vZGFsZXBsYXlwcm8uY29tOjgwODAvbW92aWUvUnJMWjRidExkbnJhL0g1M2ZDZlNaYTNnTC8xODE3MzAubXA0IiwiaWQiOjUyODI4OH0%3D/fast
-#EXTINF:-1,WWE Crown Jewel 2022 (2022)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMjgzMTM3Lm1rdiIsImlkIjoxMzAxMTQwfQ%3D%3D/fast
-#EXTINF:-1,WWE Day 1 2022 (2022)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMjgyNzgwLm1rdiIsImlkIjoxMzAwNzg3fQ%3D%3D/fast
-#EXTINF:-1,WWE Extreme Rules 2019 (2019)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTMyODc1Lm1wNCIsImlkIjoyMTc2NDh9/fast
-#EXTINF:-1,WWE Royal Rumble 2017 (2017)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vdG9kb2VuMS54eXo6ODA4MC9tb3ZpZS85V3ZxRmF1bTRZR1QvS3d0VThTeFA0c0U3LzE3NTMwMC5ta3YiLCJpZCI6Njg0NjJ9/fast
-#EXTINF:-1,WWE SummerSlam 2021 (2021)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vZGFsZXBsYXlwcm8uY29tOjgwODAvbW92aWUvUnJMWjRidExkbnJhL0g1M2ZDZlNaYTNnTC8xODE3MzEubWt2IiwiaWQiOjUyODI4OX0%3D/fast
-#EXTINF:-1,WWE Wrestlemania 26 (2010)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjE3Lm1rdiIsImlkIjoyMTc2NzF9/fast
-#EXTINF:-1,WWE Wrestlemania 27
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjE4Lm1rdiIsImlkIjoyMTc2NzJ9/fast
-#EXTINF:-1,WWE WrestleMania 28 (2012)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjE5Lm1rdiIsImlkIjoyMTc2NzN9/fast
-#EXTINF:-1,WWE WrestleMania 29 (2013)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjIwLm1rdiIsImlkIjoyMTc2NzR9/fast
-#EXTINF:-1,WWE WrestleMania 31 (2015)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjIyLm1rdiIsImlkIjoyMTc2NzZ9/fast
-#EXTINF:-1,WWE WrestleMania 31 (2015).
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vdG9kb2VuMS54eXo6ODA4MC9tb3ZpZS85V3ZxRmF1bTRZR1QvS3d0VThTeFA0c0U3LzE4MzUwNS5ta3YiLCJpZCI6MTY1MjAwNX0%3D/fast
-#EXTINF:-1,WWE WrestleMania 32 (2016)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjIzLm1rdiIsImlkIjoyMTc2Nzd9/fast
-#EXTINF:-1,WWE WrestleMania 33 (2017)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjI0Lm1rdiIsImlkIjoyMTc2Nzh9/fast
-#EXTINF:-1,WWE WrestleMania 38 - Saturday (2022)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vdG9kb2VuMS54eXo6ODA4MC9tb3ZpZS85V3ZxRmF1bTRZR1QvS3d0VThTeFA0c0U3LzE4MzUwMS5ta3YiLCJpZCI6MTY1MjAwMn0%3D/fast
-#EXTINF:-1,WWE WrestleMania 38 - Sunday (2022)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMjgyNzgxLm1rdiIsImlkIjoxMzAwNzg4fQ%3D%3D/fast
-#EXTINF:-1,WWE WrestleMania 38 Sunday Kickoff (2022)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMjgyNzgyLm1rdiIsImlkIjoxMzAwNzg5fQ%3D%3D/fast
-#EXTINF:-1,WWE WrestleMania XXV (2009)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTY3MjE2Lm1rdiIsImlkIjoyMTc2NzB9/fast
-#EXTINF:-1,WWE Wrestlemania XXVI (2010)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vdG9kb2VuMS54eXo6ODA4MC9tb3ZpZS85V3ZxRmF1bTRZR1QvS3d0VThTeFA0c0U3LzE4MzUxMC5ta3YiLCJpZCI6MTY1MjAxMH0%3D/fast
-#EXTINF:-1,WWE WrestleMania XXVII (2011)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vdG9kb2VuMS54eXo6ODA4MC9tb3ZpZS85V3ZxRmF1bTRZR1QvS3d0VThTeFA0c0U3LzE4MzUwOS5ta3YiLCJpZCI6MTY1MjAwOX0%3D/fast
-#EXTINF:-1,WWE WrestleMania XXX (2014)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vY2FzdGxlbXBpcmUuc2l0ZTo4MDgwL21vdmllL05iZTZmWUZ1U1NGTC9RWHlyZEZQNGVBdU0vMTMyODc2Lm1wNCIsImlkIjoyMTE4MTN9/fast
-#EXTINF:-1,WWF Grudge Matches (1986)
-http://xtream-ie.com/movie/DFC3g2K3/HqQYt67H/3eyJ1cmwiOiJodHRwOi8vZGFsZXBsYXlwcm8uY29tOjgwODAvbW92aWUvUnJMWjRidExkbnJhL0g1M2ZDZlNaYTNnTC8yNDU3OTgubWt2IiwiaWQiOjM1NDU4OX0%3D/fast
-#EXTINF:-1,Combate 4K FHDR
-http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/71844.ts
 #EXTINF:-1,Combate FHD
 http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/71842.ts
 #EXTINF:-1,COMBATE FHD
@@ -599,20 +453,12 @@ http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/191319.ts
 http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/71846.ts
 #EXTINF:-1,COMBATE SD
 http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/191318.ts
-#EXTINF:-1,✦ ✦ F1 FORMULA EU ✦ ✦
-http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111409.m3u
-#EXTINF:-1,DE: SKY SPORT F1 HEVC
-http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111402.m3u
 #EXTINF:-1,DE: SKY SPORT F1 FHD
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111403.m3u
 #EXTINF:-1,DE: SKY SPORT F1 HD
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111404.m3u
-#EXTINF:-1,|UK|FHD| SKY SPORTS F1
-http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111405.m3u
 #EXTINF:-1,IT: SKY SPORT F1 HD
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111406.m3u
-#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
-http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/111408.m3u
 #EXTINF:-1,AR: SSC SPORTS 1 HD
 http://club.panelchanel.xyz:8080/live/siverekli35/1903bjk/124669.m3u
 #EXTINF:-1,AR: SSC SPORTS 2 HD
