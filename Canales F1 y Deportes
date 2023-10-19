@@ -1049,3 +1049,27 @@ http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=948397&extensi
 http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=948401&extension=ts&play_token=j2r7n57xvj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",ES F1
 http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=495083&extension=ts&play_token=x5vcarbq8v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY F1
+http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=948397&extension=ts&play_token=jke5d5rrkx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
+http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=948401&extension=ts&play_token=j2r7n57xvj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",ES F1
+http://nexon-tv.org:80/play/live.php?mac=00:1A:79:6F:3F:90&stream=495083&extension=ts&play_token=x5vcarbq8v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",IT F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:22:22:54&stream=56605&extension=ts&play_token=4DCi8WYFhN&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:22:22:54&stream=55563&extension=ts&play_token=WMO1dOSVlp&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:f6:93:5b&stream=55552&extension=ts&play_token=Kbp7a2acEX&sn2=b386cbef-e5f6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",CANAL FORMULA
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:f6:93:5b&stream=457089&extension=ts&play_token=vDLXMEuCds&sn2=b386cbef-e5f6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:b7:7b:0d&stream=55563&extension=ts&play_token=FOiQY1bX7z&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY EXTRA F1 4K
+http://line.tvdsz.cc:80/HXB5KY/Wgk8Mrzd7Y/548076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY F1 TRAINING
+http://line.tvdsz.cc:80/HXB5KY/Wgk8Mrzd7Y/575526
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY F1 SEASON 2023
+http://line.tvdsz.cc:80/HXB5KY/Wgk8Mrzd7Y/575519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",ANT F1
+http://line.tvdsz.cc:80/HXB5KY/Wgk8Mrzd7Y/252836
