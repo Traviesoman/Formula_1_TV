@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,MANA - MTV UNPLUGED (1999)
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621292.mkv&play_token=hpEwCE2952&type=movie&sn2=
+#EXTINF:-1,MICHAEL JACKSON
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=596662&extension=ts&play_token=rsR5mTLAAe&sn2=
+#EXTINF:-1,QUEEN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=596662&extension=ts&play_token=rsR5mTLAAe&sn2=
+#EXTINF:-1,DISCO
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=166777&extension=ts&play_token=cLM3YnvWjF&sn2=
+#EXTINF:-1,THE DOORS
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=166776&extension=ts&play_token=P7TDLDcnR3&sn2=
+#EXTINF:-1,ACDC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=635232&extension=ts&play_token=zvXyKmzI05&sn2=
+#EXTINF:-1,EROS RAMAZOTI
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=635233&extension=ts&play_token=6L9pXqdqXJ&sn2=
+#EXTINF:-1,NIRVANA UNPLUGED
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=633876.mkv&play_token=qs8qPMBMWU&type=movie&sn2=
+#EXTINF:-1,QUEEN LIVE
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621308.mkv&play_token=qMaWlHnosW&type=movie&sn2=
+#EXTINF:-1,NIRVANA LIVE
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621300.mkv&play_token=1h6w0Rfqyz&type=movie&sn2=
+#EXTINF:-1,MICHAEL JACKSON 1988
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621297.mkv&play_token=uTtupmlf6X&type=movie&sn2=
+#EXTINF:-1,MICHAEL JACKSON 1997
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621296.mkv&play_token=SAACAY1y62&type=movie&sn2=
+#EXTINF:-1,MANA ARDE EL CIELO
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=621290.mkv&play_token=RmKLmYdgne&type=movie&sn2=
+#EXTINF:-1,QUEEN LIVE MONTREAL
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=165515.mp4&play_token=cDFNgSFmbV&type=movie&sn2=
+#EXTINF:-1,GUNS AND ROSES
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=79799.mkv&play_token=8NoLvguU9a&type=movie&sn2=
+#EXTINF:-1,BOB MARLEY
+http://mol-2.com:8080/play/movie.php?mac=00:1A:79:4F:2F:D8&stream=76694.mkv&play_token=wxe8YfJT50&type=movie&sn2=
+#EXTINF:-1,MTV 4K FHDR
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/103490.ts
+#EXTINF:-1,MTV FHD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72171.ts
+#EXTINF:-1,MTV FHD [H265]
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72172.ts
+#EXTINF:-1,MTV HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72173.ts
+#EXTINF:-1,MTV LIVE 4K FHDR
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/103489.ts
+#EXTINF:-1,MTV Live FHD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72174.ts
+#EXTINF:-1,MTV Live FHD [H265]
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72175.ts
+#EXTINF:-1,MTV Live HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72176.ts
+#EXTINF:-1,MTV LIVE HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/191332.ts
+#EXTINF:-1,MTV Live SD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72177.ts
+#EXTINF:-1,MTV PORTUGAL HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/191331.ts
+#EXTINF:-1,MTV SD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72178.ts
+#EXTINF:-1,MTVs 00 4K FHDR
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/103451.ts
+#EXTINF:-1,MTVs 00 FHD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72423.ts
+#EXTINF:-1,MTVs 00 FHD [H265]
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72424.ts
+#EXTINF:-1,MTVs 00 HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72425.ts
+#EXTINF:-1,MTVs 00 SD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72426.ts
+#EXTINF:-1,Multishow 4K FHDR
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/131138.ts
+#EXTINF:-1,Multishow FHD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/131193.ts
+#EXTINF:-1,Multishow FHD [H265]
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/131107.ts
+#EXTINF:-1,Multishow HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72182.ts
+#EXTINF:-1,Multishow SD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/131134.ts
+#EXTINF:-1,Music Box Brazil 4K FHDR
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/103487.ts
+#EXTINF:-1,Music Box Brazil FHD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72184.ts
+#EXTINF:-1,Music Box Brazil FHD [H265]
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72185.ts
+#EXTINF:-1,Music Box Brazil HD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72186.ts
+#EXTINF:-1,Music Box Brazil SD
+http://bdta.pro:80/HdRD4kq12537/xG7F9d4259/72187.ts
+#EXTINF:-1,||ES|| MOVISTAR ACCION FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1925
+#EXTINF:-1,||ES|| MOVISTAR CINEDOC&ROLL FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1926
+#EXTINF:-1,||ES|| MOVISTAR COMEDIA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1927
+#EXTINF:-1,||ES|| MOVISTAR DEPORTES FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1928
+#EXTINF:-1,||ES|| MOVISTAR DRAMA FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1929
+#EXTINF:-1,||ES|| MOVISTAR ESTRENOS FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1930
+#EXTINF:-1, ZZ Top - Live at Montreux 2013
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/225511.mkv
+#EXTINF:-1, The Rolling Stones Rock and Roll Circus (1968)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222664.mkv
+#EXTINF:-1, AC/DC: Live At Donington (1992)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200054.mkv
+#EXTINF:-1, Queen and Adam Lambert: Rock in Rio 2015 (2015)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200055.mkv
+#EXTINF:-1, Shakira In Concert: El Dorado World Tour (2019)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200056.mkv
+#EXTINF:-1, The Freddie Mercury Tribute Concert (1992)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200057.mkv
+#EXTINF:-1, U2: iNNOCENCE + eXPERIENCE Live in Paris (2015)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200058.mkv
+#EXTINF:-1, Genesis: When in Rome (2008)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200059.mkv
+#EXTINF:-1, Yanni Live! The Concert Event (2006)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/200060.mkv
+#EXTINF:-1, Black Sabbath - Live in Paris (1970)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/219798.mkv
+#EXTINF:-1, David Gilmour - Live at Pompeii (2017)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/221693.mkv
+#EXTINF:-1, Elton John Live: Farewell from Dodger Stadium (2022)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/221934.mkv
+#EXTINF:-1, Madonna Live: The Virgin Tour (1985)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222056.mkv
+#EXTINF:-1, Depeche Mode: Live Spirits (2020)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222110.mkv
+#EXTINF:-1, Iron Maiden: En Vivo! (2012)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222253.mkv
+#EXTINF:-1, Sting: Live In Berlin (2010)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222310.mkv
+#EXTINF:-1, Elvis '68 Comeback Special Edition (2006)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222560.mkv
+#EXTINF:-1, Bob Dylan: The 30th Anniversary Concert Celebration (1993)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222708.mkv
+#EXTINF:-1, Iron Maiden - Flight 666 - The Concert (2009)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/222775.mkv
+#EXTINF:-1, Hannah Montana & Miley Cyrus: Best of Both Worlds Concert (2008)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/223144.mkv
+#EXTINF:-1, Madness… Jimi Hendrix Live In Maui (2020)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/223331.mkv
+#EXTINF:-1, The Police: Live In Concert Tokyo (2008)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/224155.mkv
+#EXTINF:-1, Metallica Presents: The Helping Hands Concert (2022)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/224271.mkv
+#EXTINF:-1, Taylor Hawkins Tribute Concert (2022)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/225510.mkv
+#EXTINF:-1, Taylor Swift City of Lover Concert (2020)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/225752.mkv
+#EXTINF:-1, Live Aid (1985)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/232451.mkv
+#EXTINF:-1, Les Misérables - 25th Anniversary in Concert (2010)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/232628.mkv
+#EXTINF:-1, Cat Stevens - Rock Masters In Concert At The BBC (1971)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/233548.mkv
+#EXTINF:-1, Kylie Minogue: Golden Live in Concert (2019)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/233864.mkv
+#EXTINF:-1, David Bowie: An Earthling at 50 (1997)
+http://85.209.19.4:80/movie/adabam5/3pNCenfjYR/233942.mkv
