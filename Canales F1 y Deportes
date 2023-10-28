@@ -387,3 +387,43 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:31:E2:F4&stream=737875&exten
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:31:E2:F4&stream=317210&extension=ts&play_token=p7AbWCrxpl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",perez
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:31:E2:F4&stream=317796&extension=ts&play_token=ns50i7milX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",perez
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:31:E2:F4&stream=317796&extension=ts&play_token=ns50i7milX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1 FHD
+http://447158132412165418.of1027.xyz:80/play/vi603892/DjmBV8aUATP/165418.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1 SD
+http://447158132412165257.of1027.xyz:80/play/vi603892/DjmBV8aUATP/165257.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317796&extension=ts&play_token=6t30gCrthF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://mix-dns.com:8080/live/ivanvs32@gmail.com/qdEV2Heats/405800.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=737864&extension=ts&play_token=tpfWzWi6Eu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=317796&extension=ts&play_token=uEsTOnI9In
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://fortv.cc:8080/7HrtNh4lxo/QXk0qtRzYq/135058?play_token=Rtl8QinL0g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1566250&extension=ts&play_token=FKUAvdaTd9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",El Viejo Sabroson
+http://tv14s.xyz:8080/Kim01/Kim01/135058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:0F:95&stream=55560&extension=ts&play_token=X5qHPDlbiR&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55560&extension=ts&play_token=LjuffzVN1G&sn2=012018J027930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",MOVISTAR F1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=317783&extension=ts&play_token=8IXZA0eqjk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",MOVISTAR F1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=MivrD7CSc7
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| MOVISTAR FORMULA 1 FHD" tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png" group-title="F1",||ES|| MOVISTAR FORMULA 1 FHD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/1931
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="||ES|| MOVISTAR F1 HD" tvg-logo="http://obsfullhd.tv:25461/images/3bc7bd0c0d7c674814b95854fe822497.png" group-title="F1",||ES|| MOVISTAR F1 HD
+http://obsfullhd.tv:25461/server-g-shaer/6YgGcH6U48Hk/3612
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F1",ES: DAZN FORMULA 1 SD
+http://965438132146165257.of230922.xyz:80/play/vi603892/DjmBV8aUATP/165257.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F11",ES: DAZN FORMULA 1 FHD
+http://965438132146165418.of230922.xyz:80/play/vi603892/DjmBV8aUATP/165418.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F11",ES: DAZN FORMULA 1 HD
+http://965438132146165419.of230922.xyz:80/play/vi603892/DjmBV8aUATP/165419.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: DAZN FORMULA 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="F11",ES: DAZN FORMULA 1 HEVC
+http://965438132146318564.of230922.xyz:80/play/vi603892/DjmBV8aUATP/318564.ts
