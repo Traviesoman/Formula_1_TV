@@ -433,3 +433,11 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55552&extension
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55560&extension=ts&play_token=7VIeoGFvCi&sn2=062014N090060
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",F1 NO LIMITS FHD
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55551&extension=ts&play_token=RXNSK4KMuI&sn2=062014N090060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIES",NADIE 1
+https://m100.uqload.io/3rfksnk6pfw2q4drdln7pnpsae3ssudietrrblwj6kvpmatkknnchy3eaxaq/v.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIES",NADIE 2
+https://de536m.video-delivery.net/u5kj6hras7flsdgge6if6lacjkpq626fs37j4lpsfvv5y3qjhkdfxq3n5ikq/hm3f3p6f81~0O1JKmhKbf?token=pu6j2zwrqy00txhiclu597h6&expiry=1699677384983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIES",NADIE 3
+http://tv.nousiptv.com:8080/movie/deivistalagorria/099540572/1096635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="MOVIES",NADIE
+http://tv.nousiptv.com:8080/movie/deivistalagorria/099540572/1151478.mkv
