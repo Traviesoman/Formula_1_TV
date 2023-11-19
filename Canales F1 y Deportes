@@ -3,18 +3,6 @@
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:06:71&stream=457089&extension=ts&play_token=vZgTidyRLu&sn2=
 #EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
-#EXTINF:-1,ES: M.FORMULA 1 HD
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/4354.ts
-#EXTINF:-1,ES: Movistar Formula 1
-http://2.magmas5.com:8000/live/goodserver/2C4X1EC7EW/141362.ts
-#EXTINF:-1,F1 UNO
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/151989
-#EXTINF:-1,F1 UNO
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/145436
-#EXTINF:-1,F1 TV
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/127699
-#EXTINF:-1,DAZN F1
-http://31.42.185.216:8000/aeronicsaol/75Q1QVU1ZH/151641
 #EXTINF:-1,IT F1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:2a:20:92&stream=56606&extension=ts&play_token=5OARneleIP&sn2=122014J020885
 #EXTINF:-1,FORMULA 1 LEGENDS 2004-2012
@@ -235,12 +223,6 @@ http://12630689315538698.of23103.xyz:80/play/8JQV4783G9/cT@Q9Xm8RWy6/538698.ts
 http://443423642880165257.of23103.xyz:80/play/fe327630/HP9VA9fSpa/165257.ts
 #EXTINF:-1,ES: DAZN FORMULA 1 FHD
 http://443423642880165418.of23103.xyz:80/play/fe327630/HP9VA9fSpa/165418.ts
-#EXTINF:-1,ES: DAZN FORMULA 1 HD
-http://443423642880165419.of23103.xyz:80/play/fe327630/HP9VA9fSpa/165419.ts
-#EXTINF:-1,ES: M+ DAZN 1 SD
-http://443423642880228384.of23103.xyz:80/play/fe327630/HP9VA9fSpa/228384.ts
-#EXTINF:-1,ES: M+ DAZN 1 HD
-http://443423642880228385.of23103.xyz:80/play/fe327630/HP9VA9fSpa/228385.ts
 #EXTINF:-1,SKY F1
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=889504&extension=ts&play_token=2w9WbT3VTu
 #EXTINF:-1,VIAPLAY 2
@@ -257,55 +239,2371 @@ http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&ex
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275660&extension=ts&play_token=b66xxrAf8K
 #EXTINF:-1,onboard checo
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275620&extension=ts&play_token=LItb1W0eLa
-#EXTINF:-1,sky sports f1
-http://dignitytv.live:8080/play/live.php?mac=00:1A:79:4D:01:B5&stream=11123&extension=ts&play_token=hdGD9W0n8h
-#EXTINF:-1,dazn f1
-http://dignitytv.live:8080/play/live.php?mac=00:1A:79:4D:01:B5&stream=133544&extension=ts&play_token=JBGOSOXI57
-#EXTINF:-1,dazn f1
-http://dignitytv.live:8080/play/live.php?mac=00:1A:79:4D:01:B5&stream=29680&extension=ts&play_token=1MK9pEmryJ
 #EXTINF:-1,movistar f1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:31:E2:F4&stream=317784&extension=ts&play_token=JbtjakBjPG
 #EXTINF:-1,ZIGGO VIAPLAY FHD
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=1341123&extension=ts&play_token=Gc97NNkEuT
-#EXTINF:-1,El Viejo Sabroson
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=317796&extension=ts&play_token=uEsTOnI9In
-#EXTINF:-1,MOVISTAR F1
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=317783&extension=ts&play_token=8IXZA0eqjk
 #EXTINF:-1,MOVISTAR F1
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=MivrD7CSc7
-#EXTINF:-1,MOVISTAR F1
-http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:00:7C:62&stream=612224&extension=ts&play_token=hFaFoKCdCh
 #EXTINF:-1,DAZN NL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55552&extension=ts&play_token=MGZzTt5Okv&sn2=062014N090060
 #EXTINF:-1,F1 NO LIMITS FHD
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55551&extension=ts&play_token=RXNSK4KMuI&sn2=062014N090060
 #EXTINF:-1,F1 DAZN
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=56605&extension=ts&play_token=vlBGUEqEbS&sn2=062014N011871
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY EXTRA
-http://line.tvdsz.cc:80/1CZ4RN/ufHPpC0xwA/225722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY ONBOARD MIX
-http://line.tvdsz.cc:80/1CZ4RN/ufHPpC0xwA/225714
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",VIAPLAY TRACK
-http://line.tvdsz.cc:80/1CZ4RN/ufHPpC0xwA/225711
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
-http://line.tvdsz.cc:80/1CZ4RN/ufHPpC0xwA/587368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN SD
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:00&stream=55560&extension=ts&play_token=9qCFqR5BMf&sn2=45B497CFF86FB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DAZN
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:01&stream=55560&extension=ts&play_token=D3nlSth0W9&sn2=8D84598D6F17F
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1 NO LIMIT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55560&extension=ts&play_token=QGkifX6HE2&sn2=062014N090060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN NL HD
+#EXTINF:-1,DAZN NL HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55552&extension=ts&play_token=MGZzTt5Okv&sn2=062014N090060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",F1 NO LIMITS
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55560&extension=ts&play_token=7VIeoGFvCi&sn2=062014N090060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",F1 NO LIMITS FHD
+#EXTINF:-1,F1 NO LIMITS FHD
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55551&extension=ts&play_token=RXNSK4KMuI&sn2=062014N090060
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1
-http://hyper-iptv.com:80/play/live.php?mac=00:1A:79:00:00:02&stream=283910&extension=ts&play_token=w3defkmnem
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN f1 SD
-http://hyper-iptv.com:80/play/live.php?mac=00:1A:79:00:00:02&stream=495083&extension=ts&play_token=g03xy6gkac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DAZN
+#EXTINF:-1,F1 DAZN
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:05&stream=56605&extension=ts&play_token=vlBGUEqEbS&sn2=062014N011871
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="F1",DAZN F1 NO LIMIT
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55560&extension=ts&play_token=QGkifX6HE2&sn2=062014N090060
+#EXTINF:-1,CANAL MAS
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:c7:99:58&stream=457089&extension=ts&play_token=vvNysQKDuV&sn2=
+#EXTINF:-1,DAZN F1 HD
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:a7:e9:df&stream=55552&extension=ts&play_token=ZtcpouwHoO&sn2=
+#EXTINF:-1,SKY SPORTS IT
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:a7:e9:df&stream=56606&extension=ts&play_token=lWtst6S9lz&sn2=
+#EXTINF:-1,DAZN F1 HD
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:c7:a7:fd&stream=55552&extension=ts&play_token=IjtIxDIiEX&sn2=
+#EXTINF:-1,F1 FHD
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:a7:e9:df&stream=55551&extension=ts&play_token=U4PS73aPbO&sn2=
+#EXTINF:-1,F1 HD
+http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:d5:9f:d6&stream=162672&extension=ts&play_token=jWTk5STjOc
+#EXTINF:-1,DAZN F1 HD
+http://vip.itvdom.com:25443/live/RATPI2023/UOBK0RLGN5/139270.ts
+#EXTINF:-1,F1
+http://vip.itvdom.com:25443/live/RATPI2023/UOBK0RLGN5/59817.ts
+#EXTINF:-1,F1
+http://tv.pro-ott.com:25443/live/MrVanfriedrich/V4HTSCUM9N/59817.ts
+#EXTINF:-1,MOVISTAR F1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=vet5lvVINR
+#EXTINF:-1,F1 TV
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920206&extension=ts&play_token=ia2bqKcmNO
+#EXTINF:-1,F1 DRIVER
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317210&extension=ts&play_token=OxP6fAK609
+#EXTINF:-1,PEREZ
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317796&extension=ts&play_token=DuOcTLKxkE
+#EXTINF:-1,F1 HD
+http://iptvglobal.site:80/javycarlos/carlosjavy/272539.ts
+#EXTINF:-1,F1 SD
+http://iptvglobal.site:80/javycarlos/carlosjavy/311886.ts
+#EXTINF:-1,F1 MOVIL
+http://iptvglobal.site:80/javycarlos/carlosjavy/311885.ts
+#EXTINF:-1,SKY F1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1883&extension=ts&play_token=7EZfC28ULd
+#EXTINF:-1,F1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=Le00eMTR52&sn2=012018J027930
+#EXTINF:-1,F1 FR
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=305273&extension=ts&play_token=Nk2VAtAjAi&sn2=012018J027930
+#EXTINF:-1,IT F1 SD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:0F:95&stream=56606&extension=ts&play_token=51BV4E44A5&sn2=
+#EXTINF:-1,F1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:37:34&stream=55552&extension=ts&play_token=lCUBJXNFBe&sn2=
+#EXTINF:-1,F1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AF:6E:F1&stream=55551&extension=ts&play_token=1Jm5bmPdZy&sn2=022017J027299
+#EXTINF:-1,F1 HD
+http://tv.nousiptv.com:8080/sam76/981265/1143419
+#EXTINF:-1,F1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:B0:0B&stream=55552&extension=ts&play_token=GWZenpEM6P&sn2=
+#EXTINF:-1,F1 SD
+http://693980327834165257.of1030ok.xyz:80/play/lamanion382/2939838483/165257.ts
+#EXTINF:-1,F1 HEVC
+http://693980327834318564.of1030ok.xyz:80/play/lamanion382/2939838483/318564.ts
+#EXTINF:-1,F1 TV PRO 02
+http://tv.com.vc:80/lucas/lucas/962238
+#EXTINF:-1,F1 TV PRO 03
+http://tv.com.vc:80/lucas/lucas/962239
+#EXTINF:-1,F1 TV PRO 04
+http://tv.com.vc:80/lucas/lucas/962240
+#EXTINF:-1,F1 TV PRO 07
+http://tv.com.vc:80/lucas/lucas/962243
+#EXTINF:-1,F1 TV PRO 08
+http://tv.com.vc:80/lucas/lucas/962244
+#EXTINF:-1,F1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:C2:03:13&stream=55552&extension=ts&play_token=Gxivv4jxUt&sn2=
+#EXTINF:-1,F1 HD
+http://ch.bosstv.live:8080/abone0226/kwufqV6pdS2S/402570
+#EXTINF:-1,F1 HD
+http://dayser.info:8080/play/pY9QGb0rBaQuhamv7xOOUyw7Q0GznN6BSloOuYmPYMQ
+#EXTINF:-1,F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:03:4F:A3&stream=55551&extension=ts&play_token=DI74PO6FUx&sn2=
+#EXTINF:-1,SKY F1
+http://amkclub.live:8080/play/live.php?mac=00:1A:79:4D:01:B5&stream=247440&extension=ts&play_token=7suNhuwgxC
+#EXTINF:-1,M F1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B9:A9:DD&stream=317784&extension=ts&play_token=HXprbSTfWZ
+#EXTINF:-1,IT F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:22:22:54&stream=56605&extension=ts&play_token=4DCi8WYFhN&sn2=
+#EXTINF:-1,F1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:f6:93:5b&stream=55552&extension=ts&play_token=Kbp7a2acEX&sn2=b386cbef-e5f6
+#EXTINF:-1,VIAPLAY F1
+http://line.tvdsz.cc:80/BHV9ZR/AWNwYNSnaF/575526
+#EXTINF:-1,UK: SKY Sport NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/145545.ts
+#EXTINF:-1,UK: TRT World HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117441.ts
+#EXTINF:-1,UK: DAZN 1
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/723374.ts
+#EXTINF:-1,UK: DAZN 2
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/723377.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714356.ts
+#EXTINF:-1,SKY Sports Arena HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10127.ts
+#EXTINF:-1,UK: AT THE Races HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117630.ts
+#EXTINF:-1,UK: AT THE Races HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136422.ts
+#EXTINF:-1,UK: BEIN Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484365.ts
+#EXTINF:-1,UK: BOX Nation HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10128.ts
+#EXTINF:-1,UK: BOX Nation HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136385.ts
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10118.ts
+#EXTINF:-1,UK: BT Sport 1 HD 50fps
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688315.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688314.ts
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10119.ts
+#EXTINF:-1,UK: BT Sport 2 HD 50fps
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688317.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688316.ts
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10120.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688318.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688319.ts
+#EXTINF:-1,UK: BT Sport BOX Office PPV (live During Events Only) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/697467.ts
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117573.ts
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688320.ts
+#EXTINF:-1,UK: BT Sport ESPN SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688321.ts
+#EXTINF:-1,UK: BT Sport Extra 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117575.ts
+#EXTINF:-1,UK: BT Sport Extra 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117654.ts
+#EXTINF:-1,UK: BT Sport Extra 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117576.ts
+#EXTINF:-1,UK: BT Sport Extra 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136425.ts
+#EXTINF:-1,UK: BT Sport Extra 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117971.ts
+#EXTINF:-1,UK: BT SPORTS 10 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706679.ts
+#EXTINF:-1,UK: BT SPORTS 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706673.ts
+#EXTINF:-1,UK: BT SPORTS 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706674.ts
+#EXTINF:-1,UK: BT SPORTS 6 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706675.ts
+#EXTINF:-1,UK: BT SPORTS 7 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706676.ts
+#EXTINF:-1,UK: BT SPORTS 8 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706677.ts
+#EXTINF:-1,UK: BT SPORTS 9 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706678.ts
+#EXTINF:-1,UK: Celtic TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117957.ts
+#EXTINF:-1,UK: EIR Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136380.ts
+#EXTINF:-1,UK: EIR Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136381.ts
+#EXTINF:-1,UK: Eurosport 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10123.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688322.ts
+#EXTINF:-1,UK: Eurosport 1 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688323.ts
+#EXTINF:-1,UK: Eurosport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10124.ts
+#EXTINF:-1,UK: Eurosport 2 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688324.ts
+#EXTINF:-1,UK: Eurosports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688325.ts
+#EXTINF:-1,UK: Fightbox HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136386.ts
+#EXTINF:-1,UK: FREE Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117888.ts
+#EXTINF:-1,UK: LA LIGA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545645.ts
+#EXTINF:-1,UK: LFC TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117660.ts
+#EXTINF:-1,UK: Motors TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117896.ts
+#EXTINF:-1,UK: MU TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/592634.ts
+#EXTINF:-1,UK: MUTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136388.ts
+#EXTINF:-1,UK: MUTV SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10136.ts
+#EXTINF:-1,UK: Premier Sports 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481925.ts
+#EXTINF:-1,UK: Premier Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688326.ts
+#EXTINF:-1,UK: Premier Sports 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117798.ts
+#EXTINF:-1,UK: Premier Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/107710.ts
+#EXTINF:-1,UK: Racing UK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136383.ts
+#EXTINF:-1,UK: REAL Madrid HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136474.ts
+#EXTINF:-1,UK: Sky MAX
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/707834.ts
+#EXTINF:-1,UK: SKY Sport Football HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10126.ts
+#EXTINF:-1,UK: SKY Sport NEWS SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117565.ts
+#EXTINF:-1,UK: SKY Sports Arena FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136250.ts
+#EXTINF:-1,UK: SKY Sports BOX Office (event Only) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117498.ts
+#EXTINF:-1,UK: SKY Sports Cricket FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136254.ts
+#EXTINF:-1,UK: SKY Sports Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10129.ts
+#EXTINF:-1,UK: SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
+#EXTINF:-1,UK: SKY Sports Football FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481984.ts
+#EXTINF:-1,UK: SKY Sports GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481985.ts
+#EXTINF:-1,UK: SKY Sports MAIN Event HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10132.ts
+#EXTINF:-1,UK: SKY Sports MIX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481931.ts
+#EXTINF:-1,UK: SKY Sports NEWS FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136264.ts
+#EXTINF:-1,UK: SKY Sports NFL FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481928.ts
+#EXTINF:-1,UK: SKY Sports NFL HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481927.ts
+#EXTINF:-1,UK: SKY Sports Premier League HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117417.ts
+#EXTINF:-1,UK: SKY Sports Racing FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136260.ts
+#EXTINF:-1,UK: UFC Fight PASS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117484.ts
+#EXTINF:-1,UK: Willow Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136366.ts
+#EXTINF:-1,UK: WWE PPV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117797.ts
+#EXTINF:-1,Premier League 02 – AD FREE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/720987.ts
+#EXTINF:-1,DD Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716490.ts
+#EXTINF:-1,Premier League 01– AD FREE FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716495.ts
+#EXTINF:-1,PTV Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716488.ts
+#EXTINF:-1,Sky Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716494.ts
+#EXTINF:-1,SSC Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716492.ts
+#EXTINF:-1,SuperSport Cricket
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716489.ts
+#EXTINF:-1,Supersport Premier League HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716491.ts
+#EXTINF:-1,Willow Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/716493.ts
+#EXTINF:-1,ABU Dhabi Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98898.ts
+#EXTINF:-1,ABU Dhabi Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98899.ts
+#EXTINF:-1,AL: Kujtesa Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95475.ts
+#EXTINF:-1,AU: FOX Sports NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95989.ts
+#EXTINF:-1,BD: STAR Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115861.ts
+#EXTINF:-1,BEIN Sport 01 AR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115745.ts
+#EXTINF:-1,BEIN Sport 03 AR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115747.ts
+#EXTINF:-1,BEIN Sport 12 AR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115756.ts
+#EXTINF:-1,BEIN Sport FR 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115821.ts
+#EXTINF:-1,BEIN Sports Haber FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115558.ts
+#EXTINF:-1,CA: Sportsnet WEST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95522.ts
+#EXTINF:-1,DAZN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115770.ts
+#EXTINF:-1,DE: SKY Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115636.ts
+#EXTINF:-1,DE: SKY Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134211.ts
+#EXTINF:-1,DE: SKY Sport 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115637.ts
+#EXTINF:-1,DE: SKY Sport 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134212.ts
+#EXTINF:-1,DIGI Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115685.ts
+#EXTINF:-1,DIGI Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115693.ts
+#EXTINF:-1,DIGI Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115694.ts
+#EXTINF:-1,DIGI Sport 4  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134222.ts
+#EXTINF:-1,DUbai Racing HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98874.ts
+#EXTINF:-1,FIght Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98877.ts
+#EXTINF:-1,FOX Sport 501 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115812.ts
+#EXTINF:-1,FOX Sport 502 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115813.ts
+#EXTINF:-1,FOX Sport 506 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115817.ts
+#EXTINF:-1,FOX Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115869.ts
+#EXTINF:-1,FR: BEIN Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115746.ts
+#EXTINF:-1,HOrizon Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98880.ts
+#EXTINF:-1,HR: Arena Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95491.ts
+#EXTINF:-1,KSA Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98903.ts
+#EXTINF:-1,LA: TNT Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96078.ts
+#EXTINF:-1,LSP: ABU Dhabi Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95555.ts
+#EXTINF:-1,LSP: ABU Dhabi Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95556.ts
+#EXTINF:-1,LSP: Eleven Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95561.ts
+#EXTINF:-1,LSP: Eleven Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95562.ts
+#EXTINF:-1,LSP: FOX Sports South HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95568.ts
+#EXTINF:-1,LSP: RMC Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95547.ts
+#EXTINF:-1,LSP: VIP Arena Sport 1 SRB FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95481.ts
+#EXTINF:-1,LSP: VIP Arena Sport 3 SRB FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95483.ts
+#EXTINF:-1,LSP: VIP Arena Sport 4 HD HR
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95494.ts
+#EXTINF:-1,LSP: VIP NHL Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95527.ts
+#EXTINF:-1,LSP: VIP NOVA Sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95506.ts
+#EXTINF:-1,LSP: VIP Planet Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95507.ts
+#EXTINF:-1,LSP: VIP Planet Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95508.ts
+#EXTINF:-1,LSP: VIP RMC Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95548.ts
+#EXTINF:-1,LSP: VIP RMC Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95549.ts
+#EXTINF:-1,LSP: VIP RMC Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95550.ts
+#EXTINF:-1,LSP: VIP Sport KLUB 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95499.ts
+#EXTINF:-1,LSP: VIP Sport KLUB 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95500.ts
+#EXTINF:-1,LSP: VIP Sport KLUB 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95501.ts
+#EXTINF:-1,LSP: VIP Sportsnet EAST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95523.ts
+#EXTINF:-1,LSP: VIP TSN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95511.ts
+#EXTINF:-1,LSP: VIP TSN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95513.ts
+#EXTINF:-1,LSP: VIP TSN 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95514.ts
+#EXTINF:-1,MX: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96029.ts
+#EXTINF:-1,MX: FOX Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96031.ts
+#EXTINF:-1,NFL Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134264.ts
+#EXTINF:-1,NL: Extreme Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115691.ts
+#EXTINF:-1,PRemier LIGA (bih) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115595.ts
+#EXTINF:-1,SKY Sports Arena HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115902.ts
+#EXTINF:-1,SKY Sports Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115648.ts
+#EXTINF:-1,SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
+#EXTINF:-1,SKY Sports GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115799.ts
+#EXTINF:-1,SKY Sports MAIN Event HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115800.ts
+#EXTINF:-1,SONY TEN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115857.ts
+#EXTINF:-1,SP: CBS Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606814.ts
+#EXTINF:-1,SP: ESPN + HD MX
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95978.ts
+#EXTINF:-1,SP: ESPN Deportes FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95969.ts
+#EXTINF:-1,SP: FOX Sports 1 HD NL
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134269.ts
+#EXTINF:-1,SP: FOX Sports 2 HD NL
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134270.ts
+#EXTINF:-1,SP: Movistar LIGA DE Campeones HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/96091.ts
+#EXTINF:-1,SP: SSC Extra 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/693063.ts
+#EXTINF:-1,SP: TUDN HD USA
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95977.ts
+#EXTINF:-1,SPOR Smart FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115579.ts
+#EXTINF:-1,SPort KLUB 7  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115610.ts
+#EXTINF:-1,SPort TV 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115699.ts
+#EXTINF:-1,SPort TV 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115700.ts
+#EXTINF:-1,SPort TV 5  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134228.ts
+#EXTINF:-1,STAR Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115768.ts
+#EXTINF:-1,STAR Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134245.ts
+#EXTINF:-1,TR| BEIN Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115757.ts
+#EXTINF:-1,UK: FOX Sports Racing  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95976.ts
+#EXTINF:-1,UK: Freesports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95572.ts
+#EXTINF:-1,UK: NBA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115721.ts
+#EXTINF:-1,US ESPN NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95516.ts
+#EXTINF:-1,US: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115825.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134263.ts
+#EXTINF:-1,US: ESPN U HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95519.ts
+#EXTINF:-1,US: Nbcsn Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115805.ts
+#EXTINF:-1,US: Tennis Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95529.ts
+#EXTINF:-1,US: World Fishing Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115926.ts
+#EXTINF:-1,US: WWE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/95573.ts
+#EXTINF:-1,USA: BEIN Sports Laliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115824.ts
+#EXTINF:-1,VIasat Fotboll  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134231.ts
+#EXTINF:-1,VIasat Motor HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115709.ts
+#EXTINF:-1,ZIggo Sport Extra HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115674.ts
+#EXTINF:-1,ZIggo Sport GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134220.ts
+#EXTINF:-1,ZIggo Sport Racing HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115678.ts
+#EXTINF:-1,ZIggo Sport Select HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115675.ts
+#EXTINF:-1,ZIggo Sport Voetbal HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115677.ts
+#EXTINF:-1, DK | Viaplay 01 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705428.ts
+#EXTINF:-1, DK | Viaplay 02 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705429.ts
+#EXTINF:-1, DK | Viaplay 03 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705430.ts
+#EXTINF:-1, DK | Viaplay 04 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705431.ts
+#EXTINF:-1, DK | Viaplay 05 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705432.ts
+#EXTINF:-1, DK | Viaplay 06 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705433.ts
+#EXTINF:-1, DK | Viaplay 07 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705434.ts
+#EXTINF:-1, DK | Viaplay 08 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705435.ts
+#EXTINF:-1, DK | Viaplay 09 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705436.ts
+#EXTINF:-1, DK | Viaplay 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705437.ts
+#EXTINF:-1, DK | Viaplay 11 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705438.ts
+#EXTINF:-1, DK | Viaplay 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705439.ts
+#EXTINF:-1, DK | Viaplay 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705440.ts
+#EXTINF:-1, DK | Viaplay 14 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705441.ts
+#EXTINF:-1, DK | Viaplay 15 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705442.ts
+#EXTINF:-1, DK | Viaplay 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705443.ts
+#EXTINF:-1, DK | Viaplay 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705444.ts
+#EXTINF:-1, DK | Viaplay 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705445.ts
+#EXTINF:-1, DK | Viaplay 19 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705446.ts
+#EXTINF:-1, DK | Viaplay 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705447.ts
+#EXTINF:-1, DK | Viaplay 21 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705448.ts
+#EXTINF:-1, DK | Viaplay 22 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705449.ts
+#EXTINF:-1, DK | Viaplay 23 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705450.ts
+#EXTINF:-1, DK | Viaplay 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705451.ts
+#EXTINF:-1, DK | Viaplay 25 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705452.ts
+#EXTINF:-1, DK | Viaplay 26 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705453.ts
+#EXTINF:-1, DK | Viaplay 27 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705454.ts
+#EXTINF:-1, DK | Viaplay 28 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705455.ts
+#EXTINF:-1, DK | Viaplay 29 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705456.ts
+#EXTINF:-1, DK | Viaplay 30 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705457.ts
+#EXTINF:-1, DK | Viaplay 31 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705458.ts
+#EXTINF:-1, DK | Viaplay 32 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705459.ts
+#EXTINF:-1, DK | Viaplay 33 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705460.ts
+#EXTINF:-1, DK | Viaplay 34 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705461.ts
+#EXTINF:-1, DK | Viaplay 35 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705462.ts
+#EXTINF:-1, DK | Viaplay 36 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705463.ts
+#EXTINF:-1, DK | Viaplay 37 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705464.ts
+#EXTINF:-1, DK | Viaplay 38 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705465.ts
+#EXTINF:-1, DK | Viaplay 39 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705466.ts
+#EXTINF:-1, DK | Viaplay 40 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705467.ts
+#EXTINF:-1, DK | Viaplay 41 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705468.ts
+#EXTINF:-1, DK | Viaplay 42 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705469.ts
+#EXTINF:-1, DK | Viaplay 43 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705470.ts
+#EXTINF:-1, DK | Viaplay 44 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705471.ts
+#EXTINF:-1, DK | Viaplay 45 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705472.ts
+#EXTINF:-1, DK | Viaplay 46 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705473.ts
+#EXTINF:-1, DK | Viaplay 47 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705474.ts
+#EXTINF:-1, DK | Viaplay 48 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705475.ts
+#EXTINF:-1, DK | Viaplay 49 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705476.ts
+#EXTINF:-1, FI | Viaplay 01 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705382.ts
+#EXTINF:-1, FI | Viaplay 02 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705383.ts
+#EXTINF:-1, FI | Viaplay 03 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705384.ts
+#EXTINF:-1, FI | Viaplay 04 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705385.ts
+#EXTINF:-1, FI | Viaplay 05 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705386.ts
+#EXTINF:-1, FI | Viaplay 06 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705387.ts
+#EXTINF:-1, FI | Viaplay 07 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705388.ts
+#EXTINF:-1, FI | Viaplay 08 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705389.ts
+#EXTINF:-1, FI | Viaplay 09 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705390.ts
+#EXTINF:-1, FI | Viaplay 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705391.ts
+#EXTINF:-1, FI | Viaplay 11 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705392.ts
+#EXTINF:-1, FI | Viaplay 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705393.ts
+#EXTINF:-1, FI | Viaplay 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705394.ts
+#EXTINF:-1, FI | Viaplay 14 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705395.ts
+#EXTINF:-1, FI | Viaplay 15 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705396.ts
+#EXTINF:-1, FI | Viaplay 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705397.ts
+#EXTINF:-1, FI | Viaplay 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705398.ts
+#EXTINF:-1, FI | Viaplay 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705399.ts
+#EXTINF:-1, FI | Viaplay 19 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705400.ts
+#EXTINF:-1, FI | Viaplay 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705401.ts
+#EXTINF:-1, FI | Viaplay 21 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705402.ts
+#EXTINF:-1, FI | Viaplay 22 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705403.ts
+#EXTINF:-1, FI | Viaplay 23 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705404.ts
+#EXTINF:-1, FI | Viaplay 25 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705405.ts
+#EXTINF:-1, FI | Viaplay 26 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705406.ts
+#EXTINF:-1, FI | Viaplay 29 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705407.ts
+#EXTINF:-1, FI | Viaplay 30 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705408.ts
+#EXTINF:-1, FI | Viaplay 31 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705409.ts
+#EXTINF:-1, FI | Viaplay 32 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705410.ts
+#EXTINF:-1, FI | Viaplay 33 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705411.ts
+#EXTINF:-1, FI | Viaplay 34 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705412.ts
+#EXTINF:-1, FI | Viaplay 35 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705413.ts
+#EXTINF:-1, FI | Viaplay 36 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705414.ts
+#EXTINF:-1, FI | Viaplay 37 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705415.ts
+#EXTINF:-1, FI | Viaplay 38 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705416.ts
+#EXTINF:-1, FI | Viaplay 39 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705417.ts
+#EXTINF:-1, FI | Viaplay 40 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705418.ts
+#EXTINF:-1, FI | Viaplay 41 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705419.ts
+#EXTINF:-1, FI | Viaplay 42 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705420.ts
+#EXTINF:-1, FI | Viaplay 43 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705421.ts
+#EXTINF:-1, FI | Viaplay 44 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705422.ts
+#EXTINF:-1, FI | Viaplay 45 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705423.ts
+#EXTINF:-1, FI | Viaplay 46 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705424.ts
+#EXTINF:-1, FI | Viaplay 47 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705425.ts
+#EXTINF:-1, FI | Viaplay 48 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705426.ts
+#EXTINF:-1, FI | Viaplay 49 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705427.ts
+#EXTINF:-1, NL | ViaPlay 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705526.ts
+#EXTINF:-1, NL | ViaPlay 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705535.ts
+#EXTINF:-1, NL | ViaPlay 11 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705536.ts
+#EXTINF:-1, NL | ViaPlay 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705537.ts
+#EXTINF:-1, NL | ViaPlay 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705538.ts
+#EXTINF:-1, NL | ViaPlay 14 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705539.ts
+#EXTINF:-1, NL | ViaPlay 15 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705540.ts
+#EXTINF:-1, NL | ViaPlay 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705541.ts
+#EXTINF:-1, NL | ViaPlay 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705542.ts
+#EXTINF:-1, NL | ViaPlay 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705543.ts
+#EXTINF:-1, NL | ViaPlay 19 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705544.ts
+#EXTINF:-1, NL | ViaPlay 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705527.ts
+#EXTINF:-1, NL | ViaPlay 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705545.ts
+#EXTINF:-1, NL | ViaPlay 21 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705546.ts
+#EXTINF:-1, NL | ViaPlay 22 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705547.ts
+#EXTINF:-1, NL | ViaPlay 23 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705548.ts
+#EXTINF:-1, NL | ViaPlay 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705549.ts
+#EXTINF:-1, NL | ViaPlay 25 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705550.ts
+#EXTINF:-1, NL | ViaPlay 26 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705551.ts
+#EXTINF:-1, NL | ViaPlay 27 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705552.ts
+#EXTINF:-1, NL | ViaPlay 28 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705553.ts
+#EXTINF:-1, NL | ViaPlay 29 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705554.ts
+#EXTINF:-1, NL | ViaPlay 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705528.ts
+#EXTINF:-1, NL | ViaPlay 30 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705555.ts
+#EXTINF:-1, NL | ViaPlay 31 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705556.ts
+#EXTINF:-1, NL | ViaPlay 32 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705557.ts
+#EXTINF:-1, NL | ViaPlay 33 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705558.ts
+#EXTINF:-1, NL | ViaPlay 34 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705559.ts
+#EXTINF:-1, NL | ViaPlay 35 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705560.ts
+#EXTINF:-1, NL | ViaPlay 36 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705561.ts
+#EXTINF:-1, NL | ViaPlay 37 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705562.ts
+#EXTINF:-1, NL | ViaPlay 38 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705563.ts
+#EXTINF:-1, NL | ViaPlay 39 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705564.ts
+#EXTINF:-1, NL | ViaPlay 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705529.ts
+#EXTINF:-1, NL | ViaPlay 40 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705565.ts
+#EXTINF:-1, NL | ViaPlay 41 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705566.ts
+#EXTINF:-1, NL | ViaPlay 42 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705567.ts
+#EXTINF:-1, NL | ViaPlay 43 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705568.ts
+#EXTINF:-1, NL | ViaPlay 44 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705569.ts
+#EXTINF:-1, NL | ViaPlay 45 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705570.ts
+#EXTINF:-1, NL | ViaPlay 46 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705571.ts
+#EXTINF:-1, NL | ViaPlay 47 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705572.ts
+#EXTINF:-1, NL | ViaPlay 48 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705573.ts
+#EXTINF:-1, NL | ViaPlay 49 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705574.ts
+#EXTINF:-1, NL | ViaPlay 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705530.ts
+#EXTINF:-1, NL | ViaPlay 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705531.ts
+#EXTINF:-1, NL | ViaPlay 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705532.ts
+#EXTINF:-1, NL | ViaPlay 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705533.ts
+#EXTINF:-1, NL | ViaPlay 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705534.ts
+#EXTINF:-1, NO | Viaplay 01 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705336.ts
+#EXTINF:-1, NO | Viaplay 02 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705337.ts
+#EXTINF:-1, NO | Viaplay 03 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705338.ts
+#EXTINF:-1, NO | Viaplay 04 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705339.ts
+#EXTINF:-1, NO | Viaplay 05 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705340.ts
+#EXTINF:-1, NO | Viaplay 06 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705341.ts
+#EXTINF:-1, NO | Viaplay 07 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705342.ts
+#EXTINF:-1, NO | Viaplay 08 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705343.ts
+#EXTINF:-1, NO | Viaplay 09 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705344.ts
+#EXTINF:-1, NO | Viaplay 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705345.ts
+#EXTINF:-1, NO | Viaplay 11 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705346.ts
+#EXTINF:-1, NO | Viaplay 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705347.ts
+#EXTINF:-1, NO | Viaplay 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705348.ts
+#EXTINF:-1, NO | Viaplay 14 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705349.ts
+#EXTINF:-1, NO | Viaplay 15 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705350.ts
+#EXTINF:-1, NO | Viaplay 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705351.ts
+#EXTINF:-1, NO | Viaplay 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705352.ts
+#EXTINF:-1, NO | Viaplay 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705353.ts
+#EXTINF:-1, NO | Viaplay 19 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705354.ts
+#EXTINF:-1, NO | Viaplay 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705355.ts
+#EXTINF:-1, NO | Viaplay 21 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705356.ts
+#EXTINF:-1, NO | Viaplay 22 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705357.ts
+#EXTINF:-1, NO | Viaplay 23 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705358.ts
+#EXTINF:-1, NO | Viaplay 25 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705359.ts
+#EXTINF:-1, NO | Viaplay 26 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705360.ts
+#EXTINF:-1, NO | Viaplay 29 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705361.ts
+#EXTINF:-1, NO | Viaplay 30 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705362.ts
+#EXTINF:-1, NO | Viaplay 31 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705363.ts
+#EXTINF:-1, NO | Viaplay 32 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705364.ts
+#EXTINF:-1, NO | Viaplay 33 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705365.ts
+#EXTINF:-1, NO | Viaplay 34 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705366.ts
+#EXTINF:-1, NO | Viaplay 35 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705367.ts
+#EXTINF:-1, NO | Viaplay 36 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705368.ts
+#EXTINF:-1, NO | Viaplay 37 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705369.ts
+#EXTINF:-1, NO | Viaplay 38 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705370.ts
+#EXTINF:-1, NO | Viaplay 39 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705371.ts
+#EXTINF:-1, NO | Viaplay 40 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705372.ts
+#EXTINF:-1, NO | Viaplay 41 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705373.ts
+#EXTINF:-1, NO | Viaplay 42 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705374.ts
+#EXTINF:-1, NO | Viaplay 43 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705375.ts
+#EXTINF:-1, NO | Viaplay 44 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705376.ts
+#EXTINF:-1, NO | Viaplay 45 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705377.ts
+#EXTINF:-1, NO | Viaplay 46 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705378.ts
+#EXTINF:-1, NO | Viaplay 47 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705379.ts
+#EXTINF:-1, NO | Viaplay 48 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705380.ts
+#EXTINF:-1, NO | Viaplay 49 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705381.ts
+#EXTINF:-1, PL | ViaPlay 01 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705477.ts
+#EXTINF:-1, PL | ViaPlay 02 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705478.ts
+#EXTINF:-1, PL | ViaPlay 03 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705479.ts
+#EXTINF:-1, PL | ViaPlay 04 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705480.ts
+#EXTINF:-1, PL | ViaPlay 05 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705481.ts
+#EXTINF:-1, PL | ViaPlay 06 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705482.ts
+#EXTINF:-1, PL | ViaPlay 07 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705483.ts
+#EXTINF:-1, PL | ViaPlay 08 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705484.ts
+#EXTINF:-1, PL | ViaPlay 09 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705485.ts
+#EXTINF:-1, PL | ViaPlay 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705486.ts
+#EXTINF:-1, PL | ViaPlay 11 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705487.ts
+#EXTINF:-1, PL | ViaPlay 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705488.ts
+#EXTINF:-1, PL | ViaPlay 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705489.ts
+#EXTINF:-1, PL | ViaPlay 14 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705490.ts
+#EXTINF:-1, PL | ViaPlay 15 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705491.ts
+#EXTINF:-1, PL | ViaPlay 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705492.ts
+#EXTINF:-1, PL | ViaPlay 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705493.ts
+#EXTINF:-1, PL | ViaPlay 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705494.ts
+#EXTINF:-1, PL | ViaPlay 19 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705495.ts
+#EXTINF:-1, PL | ViaPlay 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705496.ts
+#EXTINF:-1, PL | ViaPlay 21 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705497.ts
+#EXTINF:-1, PL | ViaPlay 22 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705498.ts
+#EXTINF:-1, PL | ViaPlay 23 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705499.ts
+#EXTINF:-1, PL | ViaPlay 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705500.ts
+#EXTINF:-1, PL | ViaPlay 25 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705501.ts
+#EXTINF:-1, PL | ViaPlay 26 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705502.ts
+#EXTINF:-1, PL | ViaPlay 27 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705503.ts
+#EXTINF:-1, PL | ViaPlay 28 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705504.ts
+#EXTINF:-1, PL | ViaPlay 29 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705505.ts
+#EXTINF:-1, PL | ViaPlay 30 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705506.ts
+#EXTINF:-1, PL | ViaPlay 31 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705507.ts
+#EXTINF:-1, PL | ViaPlay 32 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705508.ts
+#EXTINF:-1, PL | ViaPlay 33 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705509.ts
+#EXTINF:-1, PL | ViaPlay 34 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705510.ts
+#EXTINF:-1, PL | ViaPlay 35 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705511.ts
+#EXTINF:-1, PL | ViaPlay 36 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705512.ts
+#EXTINF:-1, PL | ViaPlay 37 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705513.ts
+#EXTINF:-1, PL | ViaPlay 38 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705514.ts
+#EXTINF:-1, PL | ViaPlay 39 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705515.ts
+#EXTINF:-1, PL | ViaPlay 40 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705516.ts
+#EXTINF:-1, PL | ViaPlay 41 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705517.ts
+#EXTINF:-1, PL | ViaPlay 42 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705518.ts
+#EXTINF:-1, PL | ViaPlay 43 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705519.ts
+#EXTINF:-1, PL | ViaPlay 44 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705520.ts
+#EXTINF:-1, PL | ViaPlay 45 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705521.ts
+#EXTINF:-1, PL | ViaPlay 46 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705522.ts
+#EXTINF:-1, PL | ViaPlay 47 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705523.ts
+#EXTINF:-1, PL | ViaPlay 48 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705524.ts
+#EXTINF:-1, PL | ViaPlay 49 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705525.ts
+#EXTINF:-1,⭐ ⭐ ⭐ Canal+ Africa ⭐ ⭐ ⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/704909.ts
+#EXTINF:-1,⭐⭐⭐ Sports ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389505.ts
+#EXTINF:-1,PL: TVP SERIES
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/708720.ts
+#EXTINF:-1,PL: TVP Sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/29535.ts
+#EXTINF:-1,PL: TVP Sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/114075.ts
+#EXTINF:-1,PT: ZAP VIVA  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191530.ts
+#EXTINF:-1,98 (1975) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/9211.ts
+#EXTINF:-1,⭐⭐⭐ PT - Sports ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715234.ts
+#EXTINF:-1,PT: A BOLA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/105791.ts
+#EXTINF:-1,PT: BTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/61162.ts
+#EXTINF:-1,PT: BTV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/146378.ts
+#EXTINF:-1,PT: CACA E Pesca HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/105812.ts
+#EXTINF:-1,PT: Campo Pequeno HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/588452.ts
+#EXTINF:-1,PT: Canal 11 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/146384.ts
+#EXTINF:-1,PT: Combat FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/114227.ts
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99280.ts
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522192.ts
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522193.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99281.ts
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522195.ts
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522194.ts
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99282.ts
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522197.ts
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522196.ts
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522199.ts
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99283.ts
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522198.ts
+#EXTINF:-1,PT : Eleven Sports 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/603698.ts
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/603697.ts
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/603696.ts
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522203.ts
+#EXTINF:-1,PT: Eleven Sports 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99285.ts
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522202.ts
+#EXTINF:-1,PT: Eurosports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/61283.ts
+#EXTINF:-1,PT: Eurosports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522260.ts
+#EXTINF:-1,PT: Sport TV + HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/59869.ts
+#EXTINF:-1,PT: Sport TV 1 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522186.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/61153.ts
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/59871.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522188.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/105805.ts
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/59874.ts
+#EXTINF:-1,PT: Sport TV 3 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522189.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522204.ts
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/61157.ts
+#EXTINF:-1,PT: Sport TV 4 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522191.ts
+#EXTINF:-1,PT: Sport TV 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99288.ts
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522182.ts
+#EXTINF:-1,PT: Sport TV 5 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522190.ts
+#EXTINF:-1,PT: Sport TV 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99289.ts
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522183.ts
+#EXTINF:-1,PT: Sport TV 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/460112.ts
+#EXTINF:-1,PT: Sport TV 6 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522185.ts
+#EXTINF:-1,PT: Sport TV NBA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/61169.ts
+#EXTINF:-1,PT: Sporting TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/114325.ts
+#EXTINF:-1,PT: FUEL TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/146387.ts
+#EXTINF:-1,PT: Motorvision FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191531.ts
+#EXTINF:-1,PT: NBA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/99297.ts
+#EXTINF:-1,PT: PFC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191535.ts
+#EXTINF:-1,PT: Toros TV  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583937.ts
+#EXTINF:-1,⭐⭐⭐ Sports ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389505.ts
+#EXTINF:-1,ES: GOL Mundial 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681356.ts
+#EXTINF:-1,ES: GOL Mundial 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681355.ts
+#EXTINF:-1,ES: GOL Mundial 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681357.ts
+#EXTINF:-1,ES: GOL Mundial 2 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681358.ts
+#EXTINF:-1,ES: GOL Mundial 4K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681359.ts
+#EXTINF:-1,ES: GOL Mundial FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681352.ts
+#EXTINF:-1,ES: GOL Mundial HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681353.ts
+#EXTINF:-1,ES: GOL Mundial SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/681354.ts
+#EXTINF:-1,#vamos HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136130.ts
+#EXTINF:-1,ES: Barca TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135913.ts
+#EXTINF:-1,ES: BEIN Laliga BAR FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136198.ts
+#EXTINF:-1,ES: BEIN Sports Laliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522159.ts
+#EXTINF:-1,ES: DAZN 1 *L HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606850.ts
+#EXTINF:-1,ES: DAZN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135891.ts
+#EXTINF:-1,ES: DAZN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135890.ts
+#EXTINF:-1,ES: DAZN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484344.ts
+#EXTINF:-1,ES: DAZN 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484345.ts
+#EXTINF:-1,ES: DAZN Formula 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/191515.ts
+#EXTINF:-1,ES: DAZN Laliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606870.ts
+#EXTINF:-1,ES: DAZN Movistar 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606859.ts
+#EXTINF:-1,ES: DAZN Movistar 1* HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606851.ts
+#EXTINF:-1,ES: DAZN Movistar 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606860.ts
+#EXTINF:-1,ES: DAZN Movistar 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606852.ts
+#EXTINF:-1,ES: DAZN Movistar 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606861.ts
+#EXTINF:-1,ES: DAZN Movistar 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606853.ts
+#EXTINF:-1,ES: DAZN Movistar 3 HD.
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606862.ts
+#EXTINF:-1,ES: DAZN Movistar 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606863.ts
+#EXTINF:-1,ES: DAZN Movistar 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606854.ts
+#EXTINF:-1,ES: DAZN Movistar F1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606858.ts
+#EXTINF:-1,ES: DAZN Movistar F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606857.ts
+#EXTINF:-1,ES: DAZN Movistar F1 ᴿ HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606856.ts
+#EXTINF:-1,ES: ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522170.ts
+#EXTINF:-1,ES: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136045.ts
+#EXTINF:-1,ES: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136046.ts
+#EXTINF:-1,ES: FOX Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522172.ts
+#EXTINF:-1,ES: FOX Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522173.ts
+#EXTINF:-1,ES: GOL TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135895.ts
+#EXTINF:-1,ES: GOL TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136049.ts
+#EXTINF:-1,ES: LA LIGA 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136199.ts
+#EXTINF:-1,ES: LA LIGA TV BAR 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135955.ts
+#EXTINF:-1,ES: Laliga TV BAR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136097.ts
+#EXTINF:-1,ES: LIGA DE Campeones 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/268464.ts
+#EXTINF:-1,ES: LIGA DE Campeones 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/268465.ts
+#EXTINF:-1,ES: LIGA DE Campeones 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/268466.ts
+#EXTINF:-1,ES: LIGA DE Campeones 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/268467.ts
+#EXTINF:-1,ES: LIGA DE Campeones 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522168.ts
+#EXTINF:-1,ES: LIGA DE Campeones 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/268471.ts
+#EXTINF:-1,ES: M+ Laliga 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/583931.ts
+#EXTINF:-1,ES: M. DAZN LA LIGA 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606867.ts
+#EXTINF:-1,ES: M. DAZN LA LIGA 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606866.ts
+#EXTINF:-1,ES: M. DAZN LA LIGA 1 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606865.ts
+#EXTINF:-1,ES: M. DAZN LA LIGA 2 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606868.ts
+#EXTINF:-1,ES: M. Deportes 1 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688248.ts
+#EXTINF:-1,ES: M. Deportes 1 FHD (fibra)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688245.ts
+#EXTINF:-1,ES: M. Deportes 1 FHD (h.265)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688244.ts
+#EXTINF:-1,ES: M. Deportes 1 FHD (solo Eventos)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688246.ts
+#EXTINF:-1,ES: M. Deportes 1 HD (solo Eventos)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688247.ts
+#EXTINF:-1,ES: M. Deportes 2 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688250.ts
+#EXTINF:-1,ES: M. Deportes 2 FHD (fibra)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688249.ts
+#EXTINF:-1,ES: M. Deportes 3 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688252.ts
+#EXTINF:-1,ES: M. Deportes 3 FHD (fibra)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688251.ts
+#EXTINF:-1,ES: M. Deportes 4 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688254.ts
+#EXTINF:-1,ES: M. Deportes 4 FHD (fibra)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688253.ts
+#EXTINF:-1,ES: M. Deportes 5 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688256.ts
+#EXTINF:-1,ES: M. Deportes 5 FHD (fibra)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688255.ts
+#EXTINF:-1,ES: M. Deportes 6 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688257.ts
+#EXTINF:-1,ES: M. Deportes 7 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688258.ts
+#EXTINF:-1,ES: M. Deportes 8 (solo Eventos) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688259.ts
+#EXTINF:-1,ES: M. Deportes HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136138.ts
+#EXTINF:-1,ES: M. L.campeones 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135903.ts
+#EXTINF:-1,ES: M. L.campeones 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135904.ts
+#EXTINF:-1,ES: M. Laliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135907.ts
+#EXTINF:-1,ES: M. Laliga Smartbank TV 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/693053.ts
+#EXTINF:-1,ES: M. Laliga Smartbank TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/693052.ts
+#EXTINF:-1,ES: M. LIGA DE Campeones HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135908.ts
+#EXTINF:-1,ES: M.formula F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136127.ts
+#EXTINF:-1,ES: Movistar DAZN F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522112.ts
+#EXTINF:-1,ES: Movistar Deporte 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135952.ts
+#EXTINF:-1,ES: Movistar Formula 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135951.ts
+#EXTINF:-1,ES: Movistar Futbol HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136051.ts
+#EXTINF:-1,ES: Movistar GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522157.ts
+#EXTINF:-1,ES: Movistar LA LIGA 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135953.ts
+#EXTINF:-1,ES: Movistar Laliga 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522147.ts
+#EXTINF:-1,ES: Movistar Laliga 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522116.ts
+#EXTINF:-1,ES: Movistar Laliga HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136095.ts
+#EXTINF:-1,ES: Movistar LIGA Campeones HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136099.ts
+#EXTINF:-1,ES: Movistar MOTO GP FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484530.ts
+#EXTINF:-1,ES: Movistar MOTO GP HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522158.ts
+#EXTINF:-1,ES: Movistar Toros FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135928.ts
+#EXTINF:-1,ES: Mundotoro HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/705711.ts
+#EXTINF:-1,ES: REAL Madrid TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136047.ts
+#EXTINF:-1,ES: TELE Madrid FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135906.ts
+#EXTINF:-1,ES: Teledeporte HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136189.ts
+#EXTINF:-1,ES: Telemadrid FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135930.ts
+#EXTINF:-1,ES: Toros TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135948.ts
+#EXTINF:-1,ES: Vamos HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136023.ts
+#EXTINF:-1,M. DAZN LA LIGA 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606869.ts
+#EXTINF:-1,⭐⭐⭐ Movies ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389506.ts
+#EXTINF:-1,#0 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136102.ts
+#EXTINF:-1,ES: A3 Series FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135893.ts
+#EXTINF:-1,ES: A3series HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135917.ts
+#EXTINF:-1,ES: AMC Break HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/601338.ts
+#EXTINF:-1,ES: AMC FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135914.ts
+#EXTINF:-1,ES: AXN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/398637.ts
+#EXTINF:-1,ES: AXN White FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135912.ts
+#EXTINF:-1,ES: BE MAD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135894.ts
+#EXTINF:-1,ES: Bemad FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/547655.ts
+#EXTINF:-1,ES: Calle 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136034.ts
+#EXTINF:-1,ES: Canal Cocina HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136068.ts
+#EXTINF:-1,ES: Canal Decasa HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136179.ts
+#EXTINF:-1,ES: Canal Odisea HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136077.ts
+#EXTINF:-1,ES: Comedy Central HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136035.ts
+#EXTINF:-1,ES: Cosmo HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136036.ts
+#EXTINF:-1,ES: Decasa FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135936.ts
+#EXTINF:-1,ES: Decasa HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136069.ts
+#EXTINF:-1,ES: Divinity FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135942.ts
+#EXTINF:-1,ES: Energy HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136081.ts
+#EXTINF:-1,ES: FDF TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136013.ts
+#EXTINF:-1,ES: FOX FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135910.ts
+#EXTINF:-1,ES: FOX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136037.ts
+#EXTINF:-1,ES: FOX LIFE FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135911.ts
+#EXTINF:-1,ES: Hollywood FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135918.ts
+#EXTINF:-1,ES: M. Accion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136054.ts
+#EXTINF:-1,ES: M. CINE N HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135902.ts
+#EXTINF:-1,ES: M. Drama HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136141.ts
+#EXTINF:-1,ES: M. Estrenos 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545635.ts
+#EXTINF:-1,ES: M. Series Mania HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136133.ts
+#EXTINF:-1,ES: M.cine Espanol HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136055.ts
+#EXTINF:-1,ES: M.estrenos HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136058.ts
+#EXTINF:-1,ES: M.series HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136061.ts
+#EXTINF:-1,ES: Movistar Accion FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135920.ts
+#EXTINF:-1,ES: Movistar Alquiler 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522165.ts
+#EXTINF:-1,ES: Movistar Alquiler 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522160.ts
+#EXTINF:-1,ES: Movistar Alquiler 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522161.ts
+#EXTINF:-1,ES: Movistar Alquiler 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522162.ts
+#EXTINF:-1,ES: Movistar Alquiler 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522163.ts
+#EXTINF:-1,ES: Movistar Alquiler 9 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522164.ts
+#EXTINF:-1,ES: Movistar Clasicos HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579475.ts
+#EXTINF:-1,ES: Movistar Comedia FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135926.ts
+#EXTINF:-1,ES: Movistar Dcine HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135927.ts
+#EXTINF:-1,ES: Movistar Drama FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135925.ts
+#EXTINF:-1,ES: Movistar Estrenos FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135924.ts
+#EXTINF:-1,ES: Movistar Series 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/580102.ts
+#EXTINF:-1,ES: Movistar Series FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135922.ts
+#EXTINF:-1,ES: Movistar Series Mania HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135923.ts
+#EXTINF:-1,ES: Movistar Vamos FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135929.ts
+#EXTINF:-1,ES: Movistar+ Acción HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135954.ts
+#EXTINF:-1,ES: NEOX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136016.ts
+#EXTINF:-1,ES: NOVA FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135943.ts
+#EXTINF:-1,ES: Odisea FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135944.ts
+#EXTINF:-1,ES: Paramount Channel FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135919.ts
+#EXTINF:-1,ES: Somos HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136197.ts
+#EXTINF:-1,ES: Sundance FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135940.ts
+#EXTINF:-1,ES: SYFY HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136041.ts
+#EXTINF:-1,ES: Taquilla 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136085.ts
+#EXTINF:-1,ES: Taquilla 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136087.ts
+#EXTINF:-1,ES: Taquilla 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136088.ts
+#EXTINF:-1,ES: Taquilla 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136089.ts
+#EXTINF:-1,ES: Taquilla 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136090.ts
+#EXTINF:-1,ES: Taquilla 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136091.ts
+#EXTINF:-1,ES: Taquilla 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136094.ts
+#EXTINF:-1,ES: TCM HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136186.ts
+#EXTINF:-1,ES: TNT FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135939.ts
+#EXTINF:-1,⭐⭐⭐ KIDS ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389509.ts
+#EXTINF:-1,ES: BABY TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136107.ts
+#EXTINF:-1,ES: Boing HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522169.ts
+#EXTINF:-1,ES: Boing HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136025.ts
+#EXTINF:-1,ES: EnDfamilia HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135896.ts
+#EXTINF:-1,ES: Cartoon Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/537453.ts
+#EXTINF:-1,ES: CLAN TVE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136026.ts
+#EXTINF:-1,ES: Disney Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136027.ts
+#EXTINF:-1,ES: Disney JR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136167.ts
+#EXTINF:-1,ES: Disney Junior HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136028.ts
+#EXTINF:-1,ES: Disney XD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136166.ts
+#EXTINF:-1,ES: Dkiss HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135900.ts
+#EXTINF:-1,ES: M. Disney HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136185.ts
+#EXTINF:-1,ES: NICK JR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136029.ts
+#EXTINF:-1,ES: Nickelodeon HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136030.ts
+#EXTINF:-1,⭐⭐⭐ Entertainment ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389510.ts
+#EXTINF:-1,ES: A&E HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136104.ts
+#EXTINF:-1,ES: Alcarria TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135957.ts
+#EXTINF:-1,ES: Antena 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136008.ts
+#EXTINF:-1,ES: Aragon TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/547652.ts
+#EXTINF:-1,ES: Canal SUR Andalucia FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135946.ts
+#EXTINF:-1,ES: Canal SUR Andalucia TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136012.ts
+#EXTINF:-1,ES: Caracol FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135898.ts
+#EXTINF:-1,ES: CAZA Y Pesca FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135931.ts
+#EXTINF:-1,ES: DARK FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522171.ts
+#EXTINF:-1,ES: Iberalia TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136153.ts
+#EXTINF:-1,ES: LA 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135949.ts
+#EXTINF:-1,ES: LA 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135950.ts
+#EXTINF:-1,ES: LA OTRA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/613283.ts
+#EXTINF:-1,ES: M. Dreamworks HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/398635.ts
+#EXTINF:-1,ES: MEGA FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135916.ts
+#EXTINF:-1,ES: Movistar FEST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/579474.ts
+#EXTINF:-1,ES: Multideporte HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/398636.ts
+#EXTINF:-1,ES: TV Galicia Europa HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136005.ts
+#EXTINF:-1,ES: TV3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136193.ts
+#EXTINF:-1,ES: LA Resistencia HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/636614.ts
+#EXTINF:-1,ES: 7RM HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522176.ts
+#EXTINF:-1,⭐⭐⭐ Documentary ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/389504.ts
+#EXTINF:-1,ES: Blaze FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135938.ts
+#EXTINF:-1,ES: Canal Iberalia HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136074.ts
+#EXTINF:-1,ES: Crimen + Investigacion FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135933.ts
+#EXTINF:-1,ES: Crimen Investigacion HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136171.ts
+#EXTINF:-1,ES: Discovery FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135935.ts
+#EXTINF:-1,ES: DMAX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135901.ts
+#EXTINF:-1,ES: ETB 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135976.ts
+#EXTINF:-1,ES: Historia FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135934.ts
+#EXTINF:-1,ES: Investigation Discovery FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522174.ts
+#EXTINF:-1,ES: M. CINE DOC & ROLL HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136132.ts
+#EXTINF:-1,ES: Movistar Cinedoc&roll FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135921.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136124.ts
+#EXTINF:-1,ES: National Geographic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136075.ts
+#EXTINF:-1,ES: National Geographic WILD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136076.ts
+#EXTINF:-1,ES: Viajar FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/135932.ts
+#EXTINF:-1,SW: Popstar! FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688424.ts
+#EXTINF:-1,SW: Pursuit Channel FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688419.ts
+#EXTINF:-1,SW: Sf-kanalen HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116198.ts
+#EXTINF:-1,SW: Sjuan HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30013.ts
+#EXTINF:-1,SW: Sportkanalen FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30043.ts
+#EXTINF:-1,SW: SVT 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/31365.ts
+#EXTINF:-1,SW: SVT2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30016.ts
+#EXTINF:-1,SW: TC Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116146.ts
+#EXTINF:-1,SW: TLC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/179409.ts
+#EXTINF:-1,SW: TLC Sverige HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30027.ts
+#EXTINF:-1,SW: TV 12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30017.ts
+#EXTINF:-1,SW: TV 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116114.ts
+#EXTINF:-1,SW: TV 4 FILM HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/31370.ts
+#EXTINF:-1,SW: TV 4 GULD HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116105.ts
+#EXTINF:-1,SW: TV 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/179392.ts
+#EXTINF:-1,SW: TV10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30018.ts
+#EXTINF:-1,SW: TV12 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688432.ts
+#EXTINF:-1,SW: TV3 Sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116144.ts
+#EXTINF:-1,SW: Viasat Fotboll HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466126.ts
+#EXTINF:-1,SW: Viasat GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/466125.ts
+#EXTINF:-1,SW: Viasat History HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/179406.ts
+#EXTINF:-1,SW: Viasat Hockey HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30034.ts
+#EXTINF:-1,SW: Viasat Series HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30036.ts
+#EXTINF:-1,SW: Viasat Sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30037.ts
+#EXTINF:-1,SW: Viasat Sport Motor HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/702215.ts
+#EXTINF:-1,SW: Viasat Sport Premium HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30038.ts
+#EXTINF:-1,SW: Viasat Sport XTRA FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134327.ts
+#EXTINF:-1,SW: Wipeout HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688426.ts
+#EXTINF:-1,CH: MY Sport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540858.ts
+#EXTINF:-1,CH: MY Sport 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540859.ts
+#EXTINF:-1,CH: MY Sport 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540860.ts
+#EXTINF:-1,CH: MY Sport 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540861.ts
+#EXTINF:-1,CH: MY Sport 6 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540862.ts
+#EXTINF:-1,CH: MY Sport 7 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540863.ts
+#EXTINF:-1,CH: MY Sport 8 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540864.ts
+#EXTINF:-1,CH: MY Sport ONE FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/540857.ts
+#EXTINF:-1,CH: Mysports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522375.ts
+#EXTINF:-1,SL: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482045.ts
+#EXTINF:-1,SL: POP BRIO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482075.ts
+#EXTINF:-1,SL: POP KINO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482076.ts
+#EXTINF:-1,SL: POP TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482078.ts
+#EXTINF:-1,SL: Sport KLUB 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482090.ts
+#EXTINF:-1,SL: Veseljak TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/482104.ts
+#EXTINF:-1,SR: Arena Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30194.ts
+#EXTINF:-1,SR: Arena Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30189.ts
+#EXTINF:-1,SR: Arena Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30190.ts
+#EXTINF:-1,SR: Arena Sport 3 SR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116027.ts
+#EXTINF:-1,SR: Arena Sport 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/30195.ts
+#EXTINF:-1,TR: BEIN Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97583.ts
+#EXTINF:-1,TR: BEIN Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134453.ts
+#EXTINF:-1,TR: BEIN Sports 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134454.ts
+#EXTINF:-1,TR: BEIN Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97586.ts
+#EXTINF:-1,TR: BEIN Sports 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/653166.ts
+#EXTINF:-1,TR: BEIN Sports Haber HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134449.ts
+#EXTINF:-1,TR: BEIN Sports MAX 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134456.ts
+#EXTINF:-1,TR: BEIN Sports MAX 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/559813.ts
+#EXTINF:-1,TR: EURO D HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134485.ts
+#EXTINF:-1,TR: EURO D HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97549.ts
+#EXTINF:-1,TR: EURO D HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97353.ts
+#EXTINF:-1,TR: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134465.ts
+#EXTINF:-1,TR: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97600.ts
+#EXTINF:-1,TR: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97601.ts
+#EXTINF:-1,TR: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116531.ts
+#EXTINF:-1,TR: Eurosport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134466.ts
+#EXTINF:-1,TR: Exxen SPOR 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624450.ts
+#EXTINF:-1,TR: Exxen Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/652096.ts
+#EXTINF:-1,TR: Exxen Sport 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624451.ts
+#EXTINF:-1,TR: Exxen Sport 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624452.ts
+#EXTINF:-1,TR: Exxen Sport 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624453.ts
+#EXTINF:-1,TR: Exxen Sport 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624454.ts
+#EXTINF:-1,TR: Exxen Sport 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624455.ts
+#EXTINF:-1,TR: Exxen Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/624448.ts
+#EXTINF:-1,TR: Exxen TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/612872.ts
+#EXTINF:-1,TR: NBA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116659.ts
+#EXTINF:-1,TR: NBA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134464.ts
+#EXTINF:-1,TR: NICK JR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97521.ts
+#EXTINF:-1,TR: Nickelodeon HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97522.ts
+#EXTINF:-1,TR: Nickelodeon JR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116562.ts
+#EXTINF:-1,TR: NTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97314.ts
+#EXTINF:-1,TR: Number 1 Türk HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97377.ts
+#EXTINF:-1,TR: Number ONE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116917.ts
+#EXTINF:-1,TR: Outdoor HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116515.ts
+#EXTINF:-1,TR: Planet TV  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134416.ts
+#EXTINF:-1,TR: POP TV  HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134408.ts
+#EXTINF:-1,TR: Power TURK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97572.ts
+#EXTINF:-1,TR: Power TURK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116914.ts
+#EXTINF:-1,TR: Power TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97432.ts
+#EXTINF:-1,TR: Power TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116913.ts
+#EXTINF:-1,TR: S-sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/539289.ts
+#EXTINF:-1,TR: S-sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134462.ts
+#EXTINF:-1,TR: S-sport HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134461.ts
+#EXTINF:-1,TR: Salon 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116607.ts
+#EXTINF:-1,TR: Satranç TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134560.ts
+#EXTINF:-1,TR: SHOW TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134483.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/636559.ts
+#EXTINF:-1,TR: Sinema TV 1001 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134407.ts
+#EXTINF:-1,TR: Sinema TV Yerli FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116358.ts
+#EXTINF:-1,TR: Sinevizyon 13 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116425.ts
+#EXTINF:-1,TR: Sinevizyon 16 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116428.ts
+#EXTINF:-1,TR: Sinevizyon 17 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116429.ts
+#EXTINF:-1,TR: Sinevizyon 18 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116430.ts
+#EXTINF:-1,TR: Sinevizyon 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116417.ts
+#EXTINF:-1,TR: Sinevizyon 20 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116432.ts
+#EXTINF:-1,TR: Sinevizyon 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116419.ts
+#EXTINF:-1,TR: Sinevizyon 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116420.ts
+#EXTINF:-1,TR: Sinevizyon TURK 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116416.ts
+#EXTINF:-1,TR: Sinevizyon TURK 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116435.ts
+#EXTINF:-1,TR: Sinevizyon TURK 10 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116733.ts
+#EXTINF:-1,TR: Sinevizyon TURK 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116436.ts
+#EXTINF:-1,TR: Sinevizyon TURK 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116438.ts
+#EXTINF:-1,TR: Sinevizyon TURK 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116421.ts
+#EXTINF:-1,TR: Sinevizyon TURK 8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116442.ts
+#EXTINF:-1,TR: Sinop Yildiz TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97473.ts
+#EXTINF:-1,TR: Smart SPOR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134463.ts
+#EXTINF:-1,TR: SPOR Smart 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/684229.ts
+#EXTINF:-1,TR: Sports TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97371.ts
+#EXTINF:-1,TR: STAR TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134482.ts
+#EXTINF:-1,TR: TAY TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116792.ts
+#EXTINF:-1,TR: TELE 1 TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97580.ts
+#EXTINF:-1,TR: TEVE 2 UHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134490.ts
+#EXTINF:-1,TR: TGRT Belgesel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97484.ts
+#EXTINF:-1,TR: TGRT Haber HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97357.ts
+#EXTINF:-1,TR: TGRT HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97343.ts
+#EXTINF:-1,TR: Tivibu SPOR 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688792.ts
+#EXTINF:-1,TR: Tivibu SPOR 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116572.ts
+#EXTINF:-1,TR: Tivibu SPOR 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116929.ts
+#EXTINF:-1,TR: Tivibu SPOR 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/653165.ts
+#EXTINF:-1,TR: Tivibu SPOR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97344.ts
+#EXTINF:-1,TR: TJK TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116791.ts
+#EXTINF:-1,TR: TLC HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97338.ts
+#EXTINF:-1,TR: TRT 1 HD (backup)
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/636561.ts
+#EXTINF:-1,TR: TRT 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134473.ts
+#EXTINF:-1,TR: TRT 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97548.ts
+#EXTINF:-1,TR: TRT 4K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134479.ts
+#EXTINF:-1,TR: TRT AVAZ HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97320.ts
+#EXTINF:-1,TR: TRT Belgesel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97413.ts
+#EXTINF:-1,TR: TRT Cocuk HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97321.ts
+#EXTINF:-1,TR: TRT Haber HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97322.ts
+#EXTINF:-1,TR: TRT Muzik HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97323.ts
+#EXTINF:-1,TR: TRT SPOR HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134469.ts
+#EXTINF:-1,TR: TRT TURK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134390.ts
+#EXTINF:-1,TR: TRT World HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97325.ts
+#EXTINF:-1,TR: TV 100 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97554.ts
+#EXTINF:-1,TR: TV NET HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116630.ts
+#EXTINF:-1,TR: TV5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116579.ts
+#EXTINF:-1,TR: TV8 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134487.ts
+#EXTINF:-1,TR: Ucankus TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97326.ts
+#EXTINF:-1,TR: ULKE TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97620.ts
+#EXTINF:-1,TR: UlkeTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116312.ts
+#EXTINF:-1,TR: Vatan TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97628.ts
+#EXTINF:-1,TR: Viasat History FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116498.ts
+#EXTINF:-1,TR: Viasat History HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116582.ts
+#EXTINF:-1,TR: VIP Sinema TV FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134368.ts
+#EXTINF:-1,TR: VIP TV 8 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134391.ts
+#EXTINF:-1,TR: VIP TV 8.5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134392.ts
+#EXTINF:-1,TR: Vizyon TV 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116402.ts
+#EXTINF:-1,TR: YES Sport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/539301.ts
+#EXTINF:-1,TR: Yildiz TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134561.ts
+#EXTINF:-1,TR: YOL TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97367.ts
+#EXTINF:-1,UAE: ABU Dhabi AL Emarat HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98851.ts
+#EXTINF:-1,UAE: ABU Dhabi Drama HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98847.ts
+#EXTINF:-1,UAE: ABU Dhabi HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98845.ts
+#EXTINF:-1,UAE: Ajman TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98842.ts
+#EXTINF:-1,UAE: B4U Aflam HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98863.ts
+#EXTINF:-1,UAE: B4U PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98862.ts
+#EXTINF:-1,UAE: Bahrain International HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98866.ts
+#EXTINF:-1,UAE: Dubai ONE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98853.ts
+#EXTINF:-1,UAE: Dubai TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98854.ts
+#EXTINF:-1,UAE: Dubai Zaman HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98856.ts
+#EXTINF:-1,UAE: Hawas TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98861.ts
+#EXTINF:-1,UAE: National Geographic ABU Dhabi HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98852.ts
+#EXTINF:-1,UAE: NOOR Dubai TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98857.ts
+#EXTINF:-1,UAE: SAMA Dubai HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98855.ts
+#EXTINF:-1,UAE: Shariqa Alwasta HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98859.ts
+#EXTINF:-1,UAE: Shariqa TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98858.ts
+#EXTINF:-1,UAE: Sharjah TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98860.ts
+#EXTINF:-1,UAE: ZEE Aflam HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98844.ts
+#EXTINF:-1,UAE: ZEE Alwan HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/98843.ts
+#EXTINF:-1,⭐⭐⭐ Music ⭐⭐⭐
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484495.ts
+#EXTINF:-1,US: CMT Music
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714362.ts
+#EXTINF:-1,US: Dance HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117041.ts
+#EXTINF:-1,US: HIP HOP & R&B HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404321.ts
+#EXTINF:-1,US: MC Throwback JAMZ HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404323.ts
+#EXTINF:-1,US: MTV 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484330.ts
+#EXTINF:-1,US: MTV Classic
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714367.ts
+#EXTINF:-1,US: MTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134627.ts
+#EXTINF:-1,US: MTV LIVE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136567.ts
+#EXTINF:-1,US: MTV U HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484335.ts
+#EXTINF:-1,US: Music 90S HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404322.ts
+#EXTINF:-1,US: Music Choice Dance EDM HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404320.ts
+#EXTINF:-1,US: RAP 2K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404318.ts
+#EXTINF:-1,US: Stingray HIT LIST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404326.ts
+#EXTINF:-1,US: Stingray POP Adult HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/404327.ts
+#EXTINF:-1,US: VH1 (east) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117284.ts
+#EXTINF:-1,US: VH1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79709.ts
+#EXTINF:-1,US: VH1 WEST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134585.ts
+#EXTINF:-1,US: Altitude Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/638463.ts
+#EXTINF:-1,US: AT&T SPORTSNET PITTSBURGH
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/704929.ts
+#EXTINF:-1,US: AT&T Sportsnet South WEST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117370.ts
+#EXTINF:-1,US: Bally Sports Arizona HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581966.ts
+#EXTINF:-1,US: Bally Sports Detroit HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581967.ts
+#EXTINF:-1,US: Bally Sports Florida HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581968.ts
+#EXTINF:-1,US: Bally Sports Great Lakes HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581969.ts
+#EXTINF:-1,US: Bally Sports Indiana HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581970.ts
+#EXTINF:-1,US: Bally Sports Kansas CITY HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581971.ts
+#EXTINF:-1,US: Bally Sports Midwest HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581972.ts
+#EXTINF:-1,US: Bally Sports NEW Orleans HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581973.ts
+#EXTINF:-1,US: Bally Sports North HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581974.ts
+#EXTINF:-1,US: Bally Sports North PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581975.ts
+#EXTINF:-1,US: Bally Sports OHIO HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581976.ts
+#EXTINF:-1,US: Bally Sports Oklahoma HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581977.ts
+#EXTINF:-1,US: Bally Sports SAN Diego HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581978.ts
+#EXTINF:-1,US: Bally Sports South HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581980.ts
+#EXTINF:-1,US: Bally Sports Southeast HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581981.ts
+#EXTINF:-1,US: Bally Sports Southwest HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/581982.ts
+#EXTINF:-1,US: Bally Sports SUN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/638462.ts
+#EXTINF:-1,US: BEIN Sports 01 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117373.ts
+#EXTINF:-1,US: BEIN Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117127.ts
+#EXTINF:-1,US: BEIN Sports 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117128.ts
+#EXTINF:-1,US: BEIN Sports 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117129.ts
+#EXTINF:-1,US: BEIN Sports 6 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117130.ts
+#EXTINF:-1,US: BEIN Sports 7 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117131.ts
+#EXTINF:-1,US: BEIN Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117387.ts
+#EXTINF:-1,US: BEIN Sports LA LIGA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134682.ts
+#EXTINF:-1,US: BEIN Sports N HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117383.ts
+#EXTINF:-1,US: BEIN Sports USA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117133.ts
+#EXTINF:-1,US: BIG TEN Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28825.ts
+#EXTINF:-1,US: CBS Sports Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79778.ts
+#EXTINF:-1,US: Eleven Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117058.ts
+#EXTINF:-1,US: ESPN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28930.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117065.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28931.ts
+#EXTINF:-1,US: ESPN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117064.ts
+#EXTINF:-1,US: ESPN Deportes HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79761.ts
+#EXTINF:-1,US: ESPN Longhorn Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28932.ts
+#EXTINF:-1,US: ESPN NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484520.ts
+#EXTINF:-1,US: ESPN NEWS US HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117414.ts
+#EXTINF:-1,US: ESPN PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134564.ts
+#EXTINF:-1,US: ESPN SEC Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28934.ts
+#EXTINF:-1,US: ESPN U HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79760.ts
+#EXTINF:-1,US: ESPN+
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/715860.ts
+#EXTINF:-1,US: Fight BOX FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117066.ts
+#EXTINF:-1,US: Fight Network 4K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117056.ts
+#EXTINF:-1,US: FOX Soccer PLUS 4K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117035.ts
+#EXTINF:-1,US: FOX Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28943.ts
+#EXTINF:-1,US: FOX Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28944.ts
+#EXTINF:-1,US: FOX Sports Prime Ticket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117255.ts
+#EXTINF:-1,US: FOX Sports WEST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134699.ts
+#EXTINF:-1,US: FUBO Sports Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/690095.ts
+#EXTINF:-1,US: GOLF Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79752.ts
+#EXTINF:-1,US: GOLF Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117289.ts
+#EXTINF:-1,US: Marquee Sports Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117082.ts
+#EXTINF:-1,US: MLB Cardenales DE SAN LUIS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/580090.ts
+#EXTINF:-1,US: MLB Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79740.ts
+#EXTINF:-1,US: MLB Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/580091.ts
+#EXTINF:-1,US: MLB Pittsburgh Pirates HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/580088.ts
+#EXTINF:-1,US: Motortrend HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134623.ts
+#EXTINF:-1,US: MSG 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/146333.ts
+#EXTINF:-1,US: MSG PLUS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/146332.ts
+#EXTINF:-1,US: NBA 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134717.ts
+#EXTINF:-1,US: NBA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28917.ts
+#EXTINF:-1,US: NBC Chicago HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117028.ts
+#EXTINF:-1,US: NBC GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79734.ts
+#EXTINF:-1,US: NESN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134635.ts
+#EXTINF:-1,US: NFL Network 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117325.ts
+#EXTINF:-1,US: NFL Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79713.ts
+#EXTINF:-1,US: NFL NOW HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79712.ts
+#EXTINF:-1,US: NFL Redzone HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/580089.ts
+#EXTINF:-1,US: NHL Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79732.ts
+#EXTINF:-1,US: Olympic Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28798.ts
+#EXTINF:-1,US: Pac-12 BAY AREA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117287.ts
+#EXTINF:-1,US: Pac-12 LOS Angeles HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117329.ts
+#EXTINF:-1,US: Pac-12 Mountain HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28926.ts
+#EXTINF:-1,US: Pac-12 Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714370.ts
+#EXTINF:-1,US: Pac-12 Oregon HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117288.ts
+#EXTINF:-1,US: Pac12 Arizona HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28923.ts
+#EXTINF:-1,US: Pac12 Bayarea HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28924.ts
+#EXTINF:-1,US: RED BULL TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134643.ts
+#EXTINF:-1,US: ROOT Sport NW HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/638465.ts
+#EXTINF:-1,US: Spectrum Sportsnet HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134647.ts
+#EXTINF:-1,US: Sports MAN Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28945.ts
+#EXTINF:-1,US: Sportsnet LA HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134649.ts
+#EXTINF:-1,US: Sportsnet NEW YORK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134731.ts
+#EXTINF:-1,US: Sportsnet ONE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134732.ts
+#EXTINF:-1,US: Sportsnet Ontario HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134650.ts
+#EXTINF:-1,US: Sportsnet World HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134651.ts
+#EXTINF:-1,US: Stadium 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28954.ts
+#EXTINF:-1,US: Stadium HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28951.ts
+#EXTINF:-1,US: Tennis Channel HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28858.ts
+#EXTINF:-1,US: THE Fight Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134664.ts
+#EXTINF:-1,US: TSN 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28946.ts
+#EXTINF:-1,US: TSN 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28947.ts
+#EXTINF:-1,US: TSN 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28948.ts
+#EXTINF:-1,US: TSN 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28949.ts
+#EXTINF:-1,US: TSN 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28950.ts
+#EXTINF:-1,US: TVG Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484337.ts
+#EXTINF:-1,US: TYC Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28906.ts
+#EXTINF:-1,US: TVG Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134668.ts
+#EXTINF:-1,US: UFC Fight PASS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117333.ts
+#EXTINF:-1,US: UFC TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117083.ts
+#EXTINF:-1,US: Willow Cricket 4K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117034.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79707.ts
+#EXTINF:-1,US: WWE Network HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/28866.ts
+#EXTINF:-1,US: WWE SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/79705.ts
+#EXTINF:-1,UK: MTV
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714357.ts
+#EXTINF:-1,UK: 4 Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136485.ts
+#EXTINF:-1,UK: 4music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117707.ts
+#EXTINF:-1,UK: B4U Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117826.ts
+#EXTINF:-1,UK: BOX HITS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117650.ts
+#EXTINF:-1,UK: Dance EDM HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324273.ts
+#EXTINF:-1,UK: HIT LIST HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324268.ts
+#EXTINF:-1,UK: Iconcerts HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136438.ts
+#EXTINF:-1,UK: KIDZ ONLY HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324276.ts
+#EXTINF:-1,UK: KISS TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136494.ts
+#EXTINF:-1,UK: KISS UK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117638.ts
+#EXTINF:-1,UK: MTV +1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117723.ts
+#EXTINF:-1,UK: MTV 90S HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117980.ts
+#EXTINF:-1,UK: MTV BASE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10171.ts
+#EXTINF:-1,UK: MTV Classic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136439.ts
+#EXTINF:-1,UK: MTV Classic HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10170.ts
+#EXTINF:-1,UK: MTV CLUB HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136443.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117533.ts
+#EXTINF:-1,UK: MTV Dance HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136442.ts
+#EXTINF:-1,UK: MTV HITS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10169.ts
+#EXTINF:-1,UK: MTV Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10167.ts
+#EXTINF:-1,UK: MTV Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136409.ts
+#EXTINF:-1,UK: MTV OMG (viva) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10165.ts
+#EXTINF:-1,UK: MTV Rocks HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136440.ts
+#EXTINF:-1,UK: MTV Rocks HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10166.ts
+#EXTINF:-1,UK: Musica Urbana HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324274.ts
+#EXTINF:-1,UK: POP MAX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136497.ts
+#EXTINF:-1,UK: Rɛb/soul HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324272.ts
+#EXTINF:-1,UK: SKY 4 Music HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10175.ts
+#EXTINF:-1,UK: VH1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10231.ts
+#EXTINF:-1,UK: VIP MTV LIVE HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117744.ts
+#EXTINF:-1,UK: Y2K HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/324281.ts
+#EXTINF:-1,UK: RTE News
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714376.ts
+#EXTINF:-1,UK: AL Jazeera NEWS English HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136484.ts
+#EXTINF:-1,UK: BBC NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136308.ts
+#EXTINF:-1,UK: BBC NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10108.ts
+#EXTINF:-1,UK: BBC Parliamant HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136419.ts
+#EXTINF:-1,UK: BBC Scotland HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117458.ts
+#EXTINF:-1,UK: Bloomberg HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136333.ts
+#EXTINF:-1,UK: CNBC Europe NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136482.ts
+#EXTINF:-1,UK: CNBC NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117875.ts
+#EXTINF:-1,UK: CNN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136311.ts
+#EXTINF:-1,UK: CNN International HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/118108.ts
+#EXTINF:-1,UK: CNN International HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136481.ts
+#EXTINF:-1,UK: EURO NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/145501.ts
+#EXTINF:-1,UK: FOX NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136310.ts
+#EXTINF:-1,UK: France 24 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136400.ts
+#EXTINF:-1,UK: SKY BBC NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10104.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136349.ts
+#EXTINF:-1,UK: SKY NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10198.ts
+#EXTINF:-1,UK: SKY Sport NEWS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/145545.ts
+#EXTINF:-1,UK: TRT World HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117441.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/714356.ts
+#EXTINF:-1,SKY Sports Arena HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10127.ts
+#EXTINF:-1,UK: AT THE Races HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117630.ts
+#EXTINF:-1,UK: AT THE Races HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136422.ts
+#EXTINF:-1,UK: BEIN Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/484365.ts
+#EXTINF:-1,UK: BOX Nation HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10128.ts
+#EXTINF:-1,UK: BOX Nation HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136385.ts
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10118.ts
+#EXTINF:-1,UK: BT Sport 1 HD 50fps
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688315.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688314.ts
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10119.ts
+#EXTINF:-1,UK: BT Sport 2 HD 50fps
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688317.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688316.ts
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10120.ts
+#EXTINF:-1,UK: BT Sport 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688318.ts
+#EXTINF:-1,UK: BT Sport 3 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688319.ts
+#EXTINF:-1,UK: BT Sport BOX Office PPV (live During Events Only) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/697467.ts
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117573.ts
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688320.ts
+#EXTINF:-1,UK: BT Sport ESPN SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688321.ts
+#EXTINF:-1,UK: BT Sport Extra 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117575.ts
+#EXTINF:-1,UK: BT Sport Extra 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117654.ts
+#EXTINF:-1,UK: BT Sport Extra 3 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117576.ts
+#EXTINF:-1,UK: BT Sport Extra 4 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136425.ts
+#EXTINF:-1,UK: BT Sport Extra 5 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117971.ts
+#EXTINF:-1,UK: BT SPORTS 10 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706679.ts
+#EXTINF:-1,UK: BT SPORTS 4 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706673.ts
+#EXTINF:-1,UK: BT SPORTS 5 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706674.ts
+#EXTINF:-1,UK: BT SPORTS 6 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706675.ts
+#EXTINF:-1,UK: BT SPORTS 7 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706676.ts
+#EXTINF:-1,UK: BT SPORTS 8 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706677.ts
+#EXTINF:-1,UK: BT SPORTS 9 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/706678.ts
+#EXTINF:-1,UK: Celtic TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117957.ts
+#EXTINF:-1,UK: EIR Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136380.ts
+#EXTINF:-1,UK: EIR Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136381.ts
+#EXTINF:-1,UK: Eurosport 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10123.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688322.ts
+#EXTINF:-1,UK: Eurosport 1 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688323.ts
+#EXTINF:-1,UK: Eurosport 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10124.ts
+#EXTINF:-1,UK: Eurosport 2 SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688324.ts
+#EXTINF:-1,UK: Eurosports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688325.ts
+#EXTINF:-1,UK: Fightbox HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136386.ts
+#EXTINF:-1,UK: FREE Sports HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117888.ts
+#EXTINF:-1,UK: LA LIGA TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/545645.ts
+#EXTINF:-1,UK: LFC TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117660.ts
+#EXTINF:-1,UK: Motors TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117896.ts
+#EXTINF:-1,UK: MU TV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/592634.ts
+#EXTINF:-1,UK: MUTV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136388.ts
+#EXTINF:-1,UK: MUTV SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10136.ts
+#EXTINF:-1,UK: Premier Sports 1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481925.ts
+#EXTINF:-1,UK: Premier Sports 1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/688326.ts
+#EXTINF:-1,UK: Premier Sports 2 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117798.ts
+#EXTINF:-1,UK: Premier Sports 2 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/107710.ts
+#EXTINF:-1,UK: Racing UK HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136383.ts
+#EXTINF:-1,UK: REAL Madrid HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136474.ts
+#EXTINF:-1,UK: Sky MAX
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/707834.ts
+#EXTINF:-1,UK: SKY Sport Football HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10126.ts
+#EXTINF:-1,UK: SKY Sport NEWS SD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117565.ts
+#EXTINF:-1,UK: SKY Sports Arena FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136250.ts
+#EXTINF:-1,UK: SKY Sports BOX Office (event Only) HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117498.ts
+#EXTINF:-1,UK: SKY Sports Cricket FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136254.ts
+#EXTINF:-1,UK: SKY Sports Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10129.ts
+#EXTINF:-1,UK: SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
+#EXTINF:-1,UK: SKY Sports Football FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481984.ts
+#EXTINF:-1,UK: SKY Sports GOLF HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481985.ts
+#EXTINF:-1,UK: SKY Sports MAIN Event HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10132.ts
+#EXTINF:-1,UK: SKY Sports MIX HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481931.ts
+#EXTINF:-1,UK: SKY Sports NEWS FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136264.ts
+#EXTINF:-1,UK: SKY Sports NFL FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481928.ts
+#EXTINF:-1,UK: SKY Sports NFL HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/481927.ts
+#EXTINF:-1,UK: SKY Sports Premier League HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117417.ts
+#EXTINF:-1,UK: SKY Sports Racing FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136260.ts
+#EXTINF:-1,UK: UFC Fight PASS HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117484.ts
+#EXTINF:-1,UK: Willow Cricket HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136366.ts
+#EXTINF:-1,UK: WWE PPV HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117797.ts
