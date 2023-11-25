@@ -337,10 +337,10 @@ http://myf-tv.com:8080/play/live.php?mac=00:1A:79:22:22:54&stream=56605&extensio
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:f6:93:5b&stream=55552&extension=ts&play_token=Kbp7a2acEX&sn2=b386cbef-e5f6
 #EXTINF:-1,VIAPLAY F1
 http://line.tvdsz.cc:80/BHV9ZR/AWNwYNSnaF/575526
-#EXTINF:-1,UK: SKY Sport NEWS HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/145545.ts
-#EXTINF:-1,UK: TRT World HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117441.ts
+#EXTINF:-1,f1 HD
+http://sansat.net:88/live/04b9e3fc2599/1yfcLNSrOmaJ7DI/260109.ts
+#EXTINF:-1,F1 4K
+http://sansat.net:88/live/04b9e3fc2599/1yfcLNSrOmaJ7DI/102252.ts
 #EXTINF:-1,UK: DAZN 1
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/723374.ts
 #EXTINF:-1,UK: DAZN 2
@@ -2607,3 +2607,46 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117484.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136366.ts
 #EXTINF:-1,UK: WWE PPV HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/117797.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",F1 DATA
+http://odm391.xyz:80/752A0934474F642/S7uBDl9pSo/427458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",F1 TV 4K
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:00:00:00&stream=275659&extension=ts&play_token=b8TyGdTbEg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",MOVISTAR FORMULA 1 HD
+http://cf.star4k.me:80/play/live.php?mac=00:1A:79:00:00:00&stream=275661&extension=ts&play_token=7cWANP4m1B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",SKY SPORTS F1
+http://line.premiumpowers.net:80/play/live.php?mac=00:1a:79:7b:01:70&stream=79479&extension=ts&play_token=g1p3hx1AmH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",SKY F1 FHD
+http://mag.rs4ott.com:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577972&extension=ts&play_token=mbZeG44dKD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",SY F1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",DAZN F1 FHD
+http://712977970547165418.of1124.xyz:80/play/Chana/x_Chana/165418.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",F1 DATA
+http://tvmate.icu:8080/jesus1/jesus1/135044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",F1 PITLANE
+http://tvmate.icu:8080/jesus1/jesus1/135045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",CHECO PEREZ
+http://tvmate.icu:8080/jesus1/jesus1/135058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",DAZN F1 FHD
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:02&stream=55563&extension=ts&play_token=yxBjcDK8Vp&sn2=062014N090060
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",sky f1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:01&stream=97142&extension=ts&play_token=1DuJ83p5hK&sn2=8D84598D6F17F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",canal f1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:00:00:01&stream=457089&extension=ts&play_token=1bLrcifxsK&sn2=8D84598D6F17F
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",dazn f1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:a6:81:6c&stream=55563&extension=ts&play_token=ZLCApnubDs&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",movistr f1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317784&extension=ts&play_token=SSdimmdkNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",perez
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317796&extension=ts&play_token=CfGvzG1Zwv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",sky f1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:c7:97:3a&stream=56604&extension=ts&play_token=uXJ26Fiztj&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",m f1
+http://mag.rs4ott.com:80/play/live.php?mac=00:1A:79:b0:69:53&stream=612224&extension=ts&play_token=qnRmREfxHG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",DAZN F1 HD
+http://mag.rs4ott.com:80/play/live.php?mac=00:1A:79:b0:69:53&stream=554553&extension=ts&play_token=0B60kN9yGo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",DAZN F1 4K
+http://mag.rs4ott.com:80/play/live.php?mac=00:1A:79:b0:69:53&stream=754448&extension=ts&play_token=JJXTJiwnEq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FORMULA1",dazn f1
+http://31.220.41.120:80/W81249N7160E/HTaHJ1gNis/299?play_token=57aH2dPeKY
+
