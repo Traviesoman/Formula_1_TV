@@ -3,10 +3,32 @@
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BA:06:71&stream=457089&extension=ts&play_token=vZgTidyRLu&sn2=
 #EXTINF:-1,ES: M.FORMULA 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
-#EXTINF:-1,IT F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:2a:20:92&stream=56606&extension=ts&play_token=5OARneleIP&sn2=122014J020885
-#EXTINF:-1,FORMULA 1 LEGENDS 2004-2012
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:03:4F:A3&stream=136521&extension=ts&play_token=VI6bm4iUwb&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="PPV",Mungia vs Ryder
+http://cineplay.vip:8080/live/IrvAgui123/hcYD5KRP3k/278517.ts
+#EXTINF:-1,azteca 7
+http://51.222.241.122:8080/live/QwEliAs67/QwKinChi89/93860.ts
+#EXTINF:-1,box mungia vs ryder
+http://iptvglobal.site:80/live/javycarlos/carlosjavy/352542.ts
+#EXTINF:-1,box mungia vs ryder
+http://iptvglobal.site:80/live/javycarlos/carlosjavy/273007.ts
+#EXTINF:-1,box mungia vs ryder
+http://iptvglobal.site:80/live/javycarlos/carlosjavy/352542.ts
+#EXTINF:-1,box mungia vs ryder
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=1362154&extension=ts&play_token=Vb701uKprT
+#EXTINF:-1,box mungia vs ryder
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=1381711&extension=ts&play_token=lkpTbSzASd
+#EXTINF:-1,box mungia vs ryder
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=882041&extension=ts&play_token=jCqm1yXQzS
+#EXTINF:-1,box mungia vs ryder
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=1362153&extension=ts&play_token=tPNL8i5HEk
+#EXTINF:-1,box mungia vs ryder
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=882041&extension=ts&play_token=7o1Qx5RU2k
+#EXTINF:-1,box mungia vs ryder
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=1362231&extension=ts&play_token=09GGUz2qyg
+#EXTINF:-1,box mungia vs ryder
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=1362832&extension=ts&play_token=gql19efq0N
+#EXTINF:-1,box mungia vs ryder
+http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=1023142&extension=ts&play_token=aLLS64GgSe
 #EXTINF:-1,DAZN F1
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a4:4e:53&stream=162672&extension=ts&play_token=pRTEJlB8me
 #EXTINF:-1,XP VIAPLAY
