@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="data:image/png;base64,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" group-title="ESPAÑOL",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" group-title="ESPAÑOL"
-http://darktv.nl:80/play/live.php?mac=00:1a:79:a4:4e:53&stream=162672&extension=ts&play_token=pRTEJlB8me
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg" group-title="ESPAÑOL",F1
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/2553.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg" group-title="ESPAÑOL",movistar f1
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275660&extension=ts&play_token=b66xxrAf8K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://globaltravelescapades.com/wp-content/uploads/2023/04/hori-2.0-7-8.jpg" group-title="ESPAÑOL",ES: DAZN Movistar F1 FHD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606858.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://media.gettyimages.com/id/1247431129/photo/auto-prix-f1-bahrain-test.jpg?s=612x612&w=gi&k=20&c=3zszrD4LD1hflASyldVuK_ZpNkOMTgtUNjJ02RrE_Ns=" group-title="ESPAÑOL",DAZN F1 SD
 https://ultrapremium.cloud:8443/live/940012038tv/g717j0/60349.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/1297549469329716123/31D41C3CD90B4732D55509ABD4D345DDA4373EE9/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" group-title="ESPAÑOL",DAZN F1 HD
-http://rasaiptv.com:8080/live/c737nweve73GF6/wRt6pgzvmz875fD/124763.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.eluniversal.com.mx/resizer/4ZW_bXZXXQtSllGP_3V7cRA_1hI=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/Z74ZMAGT2BHEBF5VEUMQ6EZNCA.jpg" group-title="ESPAÑOL",DAZN F1 HD
-http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=162672&extension=ts&play_token=CWSDPva9M6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://files.antena2.com/antena2/public/2023-10/formula1tendria21equipos.jpg?VersionId=0MnC3Qu3IcRGO.NHqeUmjgvZieqVfb22" group-title="ESPAÑOL",DAZN F1 HD
-http://linextral.site:8080/live/clausierra/Gn9s3A/49905.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/XY9JjbZ.png" group-title="ESPAÑOL",DAZN F1 HD
 http://bptv.club:8080/live/5406e/5406vy/48813.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcPfVcn8kqIBtOz9YqbUbiCH9jQHurDb3rA&usqp=CAU" group-title="ESPAÑOL",DAZN F1 HD
@@ -27,10 +21,6 @@ http://lat.dongletv.com:8880/live/eq2fenta/89njfzxe/1079061.ts
 http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/211006.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT F1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:2a:20:92&stream=56606&extension=ts&play_token=5OARneleIP&sn2=122014J020885
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UK: SKY F1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=79479&extension=ts&play_token=71qwJC0VVM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:af:3a:2d&stream=889504&extension=ts&play_token=2w9WbT3VTu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",skygo f1 4K 50 FPS
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&extension=ts&play_token=kMlwxSstAF
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.blogs.es/9ad2fa/blob/original.png" group-title="HD",F1 HD
@@ -75,10 +65,6 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522112.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1 FHD
 http://mag.rs4ott.com:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577972&extension=ts&play_token=mbZeG44dKD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DAZN F1 HD
-http://mag.rs4ott.com:80/play/live.php?mac=00:1A:79:b0:69:53&stream=554553&extension=ts&play_token=0B60kN9yGo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",DAZN F1 4K
-http://mag.rs4ott.com:80/play/live.php?mac=00:1A:79:b0:69:53&stream=754448&extension=ts&play_token=JJXTJiwnEq
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
 https://ultrapremium.cloud:8443/live/940012038tv/g717j0/12397.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://corp.formula1.com/wp-content/uploads/2023/07/Sky-lock-up-1024x576-1.jpg" group-title="HD",SKY SPORTS F1
@@ -97,14 +83,6 @@ http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275667&ex
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275662&extension=ts&play_token=3RcSvXsRur
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",F1 TV 4K
 http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275659&extension=ts&play_token=zAoalfpQjH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ik.imagekit.io/tp/20220301-viaplay-formula-1-f1-logo-redbull-racing.png?tr=w-333,h-190" group-title="",F1 VIAPLAY REPLAY
-http://mag.realiptv.org:80/play/live.php?mac=00:1A:79:f7:68:57&stream=127797&extension=ts&play_token=8JPuv3wUs2&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.icreatemagazine.nl/app/uploads/2024/02/f1-kijken-2024.jpg" group-title="",F1 VIAPLAY REPLAY
-http://mag.realiptv.org:80/play/live.php?mac=00:1A:79:f7:68:57&stream=127256&extension=ts&play_token=SB8pX9GiKo&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://soymotor.com/sites/default/files/imagenes/noticia/dazn-movistar-f1-television-2021-soymtoor-2.jpg" group-title="ESPAÑOL",F1 MOVISTAR 4K
-http://mag.realiptv.org:80/play/live.php?mac=00:1A:79:f7:68:57&stream=16507&extension=ts&play_token=1sPfNqMK5s&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="HD",CANAL MAS F1 4K
-http://mag.realiptv.org:80/play/live.php?mac=00:1A:79:f7:68:57&stream=143160&extension=ts&play_token=NTVfDJkGPU&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1675692164000" group-title="ESPAÑOL",DAZN F1 FHD
 http://piorto5i6f7.ddns.net:80/YDgymI1ZUx/cGwGbANWMZ/200267
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="ESPAÑOL",MOVISTAR F1 FHD
@@ -115,22 +93,8 @@ http://piorto5i6f7.ddns.net:80/YDgymI1ZUx/cGwGbANWMZ/304177
 http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=920206&extension=ts&play_token=C3GcRfZX38
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
 http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317783&extension=ts&play_token=wxHKYvPgyF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317209&extension=ts&play_token=g6Mk7KAea2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317208&extension=ts&play_token=KCdIEH9HAQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317210&extension=ts&play_token=Qu6pCkH8xt
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TRACKER
 http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=920208&extension=ts&play_token=zUBqz2PahU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",CHECO
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317796&extension=ts&play_token=IJ2U69psNf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 TV
-http://line.premiumpowers.net:80/play/live.php?mac=00:1a:79:c8:bc:04&stream=737876&extension=ts&play_token=qRtomAuxHE&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER TRACKER
-http://line.premiumpowers.net:80/play/live.php?mac=00:1a:79:c8:bc:04&stream=737874&extension=ts&play_token=GOU2Kh5OZZ&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",PEREZ
-http://line.premiumpowers.net:80/play/live.php?mac=00:1a:79:c8:bc:04&stream=737864&extension=ts&play_token=c5PUV82QTS&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
 http://line.premiumpowers.net:80/play/live.php?mac=00:1a:79:c8:bc:04&stream=317783&extension=ts&play_token=aRGiJ4ttqH&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TV PRO 01
@@ -143,3 +107,57 @@ http://14225021914.com/live/85158976/U828a1908p/18294.ts
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=kEoHd7GnJp&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
 http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/6071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+https://premierchile.shop:8443/Manuel2023/5ahJ2GFafSJg/60349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",TRUE F1
+http://srvdns.fun:80/697549710080933/244819963788/2985210
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",CANAL F1
+http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H8Gaa2lVV6M31hA9G1DW1V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",INSIDE FORMULA 1
+http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H0JJRNwdi78uvsn0VbD5re
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",BARFHD
+http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/110220.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://fortv.cc:8080/7HrtNh4lxo/UOQ9ynVehH/135044?play_token=atdIbzOoOe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN SD
+http://460270527552165257.0222ofd.xyz:80/play/lamanion382/2939838483/165257.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN HD
+http://460270527552165419.0222ofd.xyz:80/play/lamanion382/2939838483/165419.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",F1 SKY F1 HD
+http://myzamdl.co.uk:80/play/mAr0Tel7H1-TgRwPjU6vZG9AclkaqoV69AcKwUEj9o8wCLFvIe1uvkOX9Opf5q_2QTQ8SYWXGkzdyuYXTHivids_TYcn3a-qEEB-YAl3-DfMgIuclZCo6bS_5mam7FYypdW_3n3xf49-RfomnL8-ZG3_Q3sDxQSd96pR8XvZ3Ks?ext=.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVISA TIJUANA
+http://iptu.org/ch/televisati.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://31.220.41.120:80/T04379W3276M/KITVTZXJZ9/299?play_token=yaKyoYstuU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",CHECO
+http://fortv.cc:8080/live/34580347/32765518/135058.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVIZA TIJUANA
+http://iptu.org/ch/televisati.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 SD
+http://marobox.com:80/play/live.php?mac=00:1A:79:00:00:02&stream=283910&extension=ts&play_token=lHJ6AsixOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://boxdigital.xyz:8080/live/Jona/SgThDfmWUTdW/265644.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",f1
+http://bptv.club:8080/live/9140f/9140nu/22875.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 HD
+http://bptv.club:8080/live/2307/2307/7962.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1
+http://bptv.club:8080/live/2307/2307/22875.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
+http://spacetvplay.com:8080/live/L@100.-qaS/aQZPPRT@.-PPX/59587.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",IT SKY F1 HD
+http://spacetvplay.com:8080/live/Len24/QMYQM/215426.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",TELEVISA TIJUANA
+http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345559.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",DAZN F1 HD
+http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345887.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 4K
+http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345897.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://bazarpremium.digital/live/mramj2h/mramj2h/345887.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/12397.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN LOW CONX F1
+https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/60353.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",CANAL 12 TIJUANA
+https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/59600.ts
