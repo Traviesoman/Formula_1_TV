@@ -1,205 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg" group-title="ESPAÑOL",F1
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/2553.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg" group-title="ESPAÑOL",movistar f1
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275660&extension=ts&play_token=b66xxrAf8K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://globaltravelescapades.com/wp-content/uploads/2023/04/hori-2.0-7-8.jpg" group-title="ESPAÑOL",ES: DAZN Movistar F1 FHD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606858.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://media.gettyimages.com/id/1247431129/photo/auto-prix-f1-bahrain-test.jpg?s=612x612&w=gi&k=20&c=3zszrD4LD1hflASyldVuK_ZpNkOMTgtUNjJ02RrE_Ns=" group-title="ESPAÑOL",DAZN F1 SD
-https://ultrapremium.cloud:8443/live/940012038tv/g717j0/60349.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.imgur.com/XY9JjbZ.png" group-title="ESPAÑOL",DAZN F1 HD
-http://bptv.club:8080/live/5406e/5406vy/48813.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcPfVcn8kqIBtOz9YqbUbiCH9jQHurDb3rA&usqp=CAU" group-title="ESPAÑOL",DAZN F1 HD
-https://ultrapremium.cloud:8443/live/940012038tv/g717j0/60350.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://tvonline.es/wp-content/uploads/2022/04/dazn-f1-logo.png" group-title="ESPAÑOL",DAZN CONEXION BAJA
-https://ultrapremium.cloud:8443/live/940012038tv/g717j0/60353.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ntvb.tmsimg.com/assets/p691060_b_h8_ax.jpg?w=960&h=540" group-title="ESPAÑOL",DAZN F1 HD
-http://nigria.xyz:8080/live/341693562094107/41696184601248/57247.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://img.asmedia.epimg.net/resizer/sd5PmpXXC9ynC1TjABfpB6EglRA=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/V6OJGTYWCBOHFI4LM3HOV6ACTA.jpg" group-title="ESPAÑOL",DAZN F1
-http://lat.dongletv.com:8880/live/eq2fenta/89njfzxe/1079061.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWDfpoupHYzwyuISaHiBClNLvZra4yXxsz8LbQ_esroHLGyMCIpwBgT6rRfKL6IrFRR8&usqp=CAU" group-title="ESPAÑOL",DAZN F1 SD
-http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/211006.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:2a:20:92&stream=56606&extension=ts&play_token=5OARneleIP&sn2=122014J020885
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",skygo f1 4K 50 FPS
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&extension=ts&play_token=kMlwxSstAF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.blogs.es/9ad2fa/blob/original.png" group-title="HD",F1 HD
-http://iptv.darktv.nl:80/play/live.php?mac=00:1A:79:d5:9f:d6&stream=162672&extension=ts&play_token=jWTk5STjOc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/736x/e1/a4/c3/e1a4c3400f07efd4b2b004697cd51413.jpg" group-title="ESPAÑOL",dazn f1 4k
-http://emuligl.info:8080/live/TVPRJOSE92311/X8LcDT7NXVR7/63525.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i0.wp.com/i.blogs.es/9ad2fa/blob/original.png?w=1220&ssl=1" group-title="HD",F1 HD
-http://iptvglobal.site:80/javycarlos/carlosjavy/272539.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i0.wp.com/i.blogs.es/9ad2fa/blob/original.png?w=1220&ssl=1" group-title="HD",F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=Le00eMTR52&sn2=012018J027930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 FR
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=305273&extension=ts&play_token=Nk2VAtAjAi&sn2=012018J027930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SD",IT F1 SD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AD:0F:95&stream=56606&extension=ts&play_token=51BV4E44A5&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:37:34&stream=55552&extension=ts&play_token=lCUBJXNFBe&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:AF:6E:F1&stream=55551&extension=ts&play_token=1Jm5bmPdZy&sn2=022017J027299
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
-http://tv.nousiptv.com:8080/sam76/981265/1143419
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B3:B0:0B&stream=55552&extension=ts&play_token=GWZenpEM6P&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://ik.imagekit.io/tp/20220310-f1-logo.png" group-title="SD",F1 SD
-http://693980327834165257.of1030ok.xyz:80/play/lamanion382/2939838483/165257.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="DRIVERS",DAZN
-http://emuligl.info:8080/live/TVPRJOSE92311/X8LcDT7NXVR7/191359.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C2:03:13&stream=55552&extension=ts&play_token=Gxivv4jxUt&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UK: SKY Sports F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY Sports F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ES: DAZN Movistar F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606857.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ES: DAZN Movistar F1 ᴿ HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606856.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ES: M.formula F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136127.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ES: Movistar DAZN F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522112.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UK: SKY Sports F1 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1 FHD
-http://mag.rs4ott.com:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577972&extension=ts&play_token=mbZeG44dKD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
-https://ultrapremium.cloud:8443/live/940012038tv/g717j0/12397.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://corp.formula1.com/wp-content/uploads/2023/07/Sky-lock-up-1024x576-1.jpg" group-title="HD",SKY SPORTS F1
-http://fast.bounceme.net:8080/live/4kw5GBgh7Z/Ssp6ysvGm6/8471.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://www.cdnlogo.com/logos/f/41/f1-new.svg" group-title="HD",CANAL MAS F1
-http://nigria.xyz:8080/live/341693562094107/41696184601248/55945.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgB4Q9tKk-35CsBGnpqfTwhX_S6Y33lO_KVA&usqp=CAU" group-title="HD",SKY F1 HD
-http://fast.bounceme.net:8080/live/tsvNgWxNeg/rRxs2FesBF/4374.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 SKY
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275663&extension=ts&play_token=EFJ3bLhj3c
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",F1 SKY 4K
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275667&extension=ts&play_token=dtI8C96QeT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SD",F1 SKY SD
-http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275662&extension=ts&play_token=3RcSvXsRur
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=317783&extension=ts&play_token=wxHKYvPgyF
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TRACKER
-http://watchtv.best:80/play/live.php?mac=00:1A:79:73:1F:7B&stream=920208&extension=ts&play_token=zUBqz2PahU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=kEoHd7GnJp&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/6071/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-https://premierchile.shop:8443/Manuel2023/5ahJ2GFafSJg/60349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",CANAL F1
-http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H8Gaa2lVV6M31hA9G1DW1V
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",INSIDE FORMULA 1
-http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H0JJRNwdi78uvsn0VbD5re
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",BARFHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",BARFHD
 http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/110220.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN SD
-http://460270527552165257.0222ofd.xyz:80/play/lamanion382/2939838483/165257.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN HD
-http://460270527552165419.0222ofd.xyz:80/play/lamanion382/2939838483/165419.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVISA TIJUANA
-http://iptu.org/ch/televisati.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVIZA TIJUANA
-http://iptu.org/ch/televisati.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
-http://boxdigital.xyz:8080/live/Jona/SgThDfmWUTdW/265644.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",f1
-http://bptv.club:8080/live/9140f/9140nu/22875.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 HD
-http://bptv.club:8080/live/2307/2307/7962.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1
-http://bptv.club:8080/live/2307/2307/22875.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",IT SKY F1 HD
-http://spacetvplay.com:8080/live/Len24/QMYQM/215426.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",TELEVISA TIJUANA
-http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345559.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",DAZN F1 HD
-http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345887.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 4K
-http://bazarpremium.digital/live/jose582alv/f4xL9TtMtKuX/345897.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-http://bazarpremium.digital/live/mramj2h/mramj2h/345887.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/12397.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN LOW CONX F1
-https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/60353.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",CANAL 12 TIJUANA
-https://ultrapremium.cloud:8443/live/49ruqe45zu42su67/m59me2me37m/59600.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",SKY F1 4K
-http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=112076&extension=ts&play_token=ep32RWFoLJ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
-http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
-https://nxt.plus:8443/sandragk/651120/25278
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 SD
-http://930937143634317043.ofe0229.xyz/live/chito123/1234/165257.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",CANAL MAS F1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL F1
+http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H8Gaa2lVV6M31hA9G1DW1V
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",CANAL MAS F1 HD
 http://496943186237263886.ofe0229.xyz/live/Zapata81A/Zapata81M122A/723817.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",F1 TV MAIN ENGLISH
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920203&extension=ts&play_token=zI87Z5118k&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 TV SPANISH
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920206&extension=ts&play_token=gTAuDm5FeX&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PITS
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317209&extension=ts&play_token=wW6J453mYW&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/2553.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317208&extension=ts&play_token=ScJjtK7qZE&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA CHANNEL
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317208&extension=ts&play_token=W5FOxj6ROk&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317210&extension=ts&play_token=s23dIR2egZ&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER TRACKER
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920208&extension=ts&play_token=fBfehreadH&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT LANE
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920207&extension=ts&play_token=kySu9oZ6K0&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",PEREZ
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317796&extension=ts&play_token=uPp2tDqdUT&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",ESPN F1
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=926130&extension=ts&play_token=XvYCK1Wv4Y&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ESPN F1 SP
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=926131&extension=ts&play_token=U6ZVxWZfrJ&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317210&extension=ts&play_token=1Kw00alApq&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55551&extension=ts&play_token=odvFIgWadA&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",CANAL MAS F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=457089&extension=ts&play_token=QVAG24zYVz&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",IT SKY F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:37:34&stream=56604&extension=ts&play_token=eRlfqi9BO8&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:37:34&stream=55551&extension=ts&play_token=dF42YaS6gb&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 SD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:C2:03:13&stream=55560&extension=ts&play_token=yfGkQdCtcJ&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-http://rasaiptv.com:8080/live/nhZ6n2VY/5m8EnS7Vhyge/124765.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="SD",CANAL MAS F1 SD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:00:00:06&stream=305273&extension=ts&play_token=VxB2ldEZsV&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1
-https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/20828
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",SKY F1
-http://34yertar34d-ev.11121367.xyz:8080/DnX1eiBF2Z/KhygEqda3U/366496?play_token=jnnGkjZldp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 TV
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920206&extension=ts&play_token=L7Q83FFT5Q&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=TYKonw6ivi&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317209&extension=ts&play_token=LJmLFTXKbk&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER TRACKER
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920208&extension=ts&play_token=fBfehreadH&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
+http://tv.nousiptv.com:8080/sam76/981265/1143419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 HD
+http://iptvglobal.site:80/javycarlos/carlosjavy/272539.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 SD
+http://693980327834165257.of1030ok.xyz:80/play/lamanion382/2939838483/165257.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 SKY
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275663&extension=ts&play_token=EFJ3bLhj3c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 SKY 4K
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275667&extension=ts&play_token=dtI8C96QeT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 SKY SD
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275662&extension=ts&play_token=3RcSvXsRur
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TV DATA
 http://mag.premiumpowers.net:80/play/live.php?http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317208&extension=ts&play_token=Sijl2Rl2C4&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TV DRIVER
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317210&extension=ts&play_token=cd6r5dlX8U&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TV DRIVER TRACKER
 http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920208&extension=ts&play_token=7UYBN8GSc8&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO PEREZ",PEREZ
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317796&extension=ts&play_token=5uq6bqYlED&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317209&extension=ts&play_token=wsYdog0JVC&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317208&extension=ts&play_token=ScJjtK7qZE&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",ESPN F1
-http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=926131&extension=ts&play_token=1JUr1u7zzN&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:b5:07:ee&stream=55563&extension=ts&play_token=8sn18D894j&sn2=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",VIAPLAY F1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 TV MAIN ENGLISH
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920203&extension=ts&play_token=zI87Z5118k&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",INSIDE FORMULA 1
+http://capivara.top:80/play/-AxnMT-LfOWNircTyayIwZqH0wk32JB16gtDPAvar0H0JJRNwdi78uvsn0VbD5re
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",IT SKY F1 HD
+http://spacetvplay.com:8080/live/Len24/QMYQM/215426.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1 4K
+http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=112076&extension=ts&play_token=ep32RWFoLJ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY SPORTS F1
+http://fast.bounceme.net:8080/live/4kw5GBgh7Z/Ssp6ysvGm6/8471.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/115642.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",skygo f1 4K 50 FPS
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=494214&extension=ts&play_token=kMlwxSstAF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVISA TIJUANA
+http://iptu.org/ch/televisati.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TELEVIZA TIJUANA
+http://iptu.org/ch/televisati.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UK: SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",UK: SKY Sports F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/10130.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",VIAPLAY F1
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a4:4e:53&stream=149668&extension=ts&play_token=z7hqS5ZnGT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",movistar f1
+http://portal.best-tv.me:80/play/live.php?mac=00:1A:79:6F:8B:4A&stream=275660&extension=ts&play_token=b66xxrAf8K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN
+http://emuligl.info:8080/live/TVPRJOSE92311/X8LcDT7NXVR7/191359.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://bazarpremium.digital/live/mramj2h/mramj2h/345887.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://mk3gi6qohdjrudj.russtv.net/iptv/2YYD3945CN8K86/6071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://lat.dongletv.com:8880/live/eq2fenta/89njfzxe/1079061.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
 http://darktv.nl:80/play/live.php?mac=00:1a:79:a4:4e:53&stream=162672&extension=ts&play_token=6Xxdr6SBAs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",dazn f1 4k
+http://emuligl.info:8080/live/TVPRJOSE92311/X8LcDT7NXVR7/63525.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 HD
+https://nxt.plus:8443/sandragk/651120/25278
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 SD
+http://emuligl.info:8080/live/Cambiotodoplus/w84fLZEtDQud/211006.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1 SD
+http://930937143634317043.ofe0229.xyz/live/chito123/1234/165257.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN HD
+http://460270527552165419.0222ofd.xyz:80/play/lamanion382/2939838483/165419.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN SD
+http://460270527552165257.0222ofd.xyz:80/play/lamanion382/2939838483/165257.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: DAZN Movistar F1 FHD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606858.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: DAZN Movistar F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606857.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: DAZN Movistar F1 ᴿ HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/606856.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: M.formula F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/136127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",ES: Movistar DAZN F1 HD
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/522112.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=TYKonw6ivi&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://boxdigital.xyz:8080/live/Jona/SgThDfmWUTdW/265644.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",movistar f1
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317783&extension=ts&play_token=kVrC2r61J2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317209&extension=ts&play_token=92AwF2I0bQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317208&extension=ts&play_token=DyFnAGjuv6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER TRACKER
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=920208&extension=ts&play_token=QJsTbwHb6f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PEREZ
+http://mag.premiumpowers.net:80/play/live.php?mac=00:1A:79:B7:C6:E4&stream=317796&extension=ts&play_token=dfZvqUVbgW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:4F:2F:D8&stream=55552&extension=ts&play_token=0SS7VXUqtX&sn2=012018J027930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1
+http://tecnozone.site:8090/live/CrisMoyano/CristianMo/139111.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",MOVISTAR F1 HD
+http://tecnozone.site:8090/live/CrisMoyano/CristianMo/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FN TV DATA
+http://fortv.cc:8080/live/XvXQy7/251608/135044.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TRACKER
+http://fortv.cc:8080/live/XvXQy7/251608/135046.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO",CHECO
+http://fortv.cc:8080/live/XvXQy7/251608/135058.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/142208.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://imedia.click:7777/live/8tDecXke3/976rGuWjl7/150024.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="CHECO",PEREZ
+http://imedia.click:7777/live/8tDecXke3/976rGuWjl7/150037.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1
+http://imedia.click:7777/live/8tDecXke3/976rGuWjl7/113352.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",dazn f1 fhd
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:00:D8:A6&stream=55551&extension=ts&play_token=UvMc9sKxpW&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="FHD",FR CANAL MAS FHD 
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:00:D8:A6&stream=220346&extension=ts&play_token=7PZKSAxG05&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",01 BAHREIN MARZO 2 24
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=742361.mp4&play_token=EckIGqadyr&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",02 ARABIA SAUDITA MARZO 10 24
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=743327.mp4&play_token=udF5g157AP&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F02 ARABIA SAUDITA MARZO 19 23
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=483242.mkv&play_token=HskPsySuUJ&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 02 QUALI ARABIA SAUDITA MARZO 18 23
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=483018.mp4&play_token=PLpqVh0aXV&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 04 Azerbaijan ABRIL 30 23
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=491487.mp4&play_token=FiPAaOrsYS&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 07 QUALI MONACO MAYO 28 22
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=410446.mp4&play_token=ObQB6hw2Tr&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 07 MONACO MAYO 29 22
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=410824.mkv&play_token=anQy6Dozef&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 17 SINGAPUR OCT 2 22
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=441646.mkv&play_token=r7sQ8n34ug&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 2021 ANALISIS 
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=384470.mp4&play_token=st4l0t4EDa&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="REPETICIONES",F1 16 SAKHIR DIC 6 2020
+http://162.19.37.133:8080/play/movie.php?mac=00:1A:79:00:D8:A6&stream=231511.mp4&play_token=99FZzByWSN&type=movie&sn2=062014N077720
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",SKY F1
+http://1.iptv22.is:80/X24914F9831D/rOvlZRjIA9/249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",DAZN F1
+http://1.iptv22.is:80/X24914F9831D/rOvlZRjIA9/299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 1 FHD
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/151986.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 2 FHD
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/151987.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="4K",F1 3 4K
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/151988.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 GP DAZN
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/151989.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 5 FHD
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/151991.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="ESPAÑOL",F1 6 FHD
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/160166.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",FOX SPORT RACING
+http://2.magmas5.com:8000/live/FereTV/8R6JSEMQ46/162829.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="4K",VIAPLAY F1
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=1468200&extension=ts&play_token=OS7snRtKae
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="HD",UK SKY F1 HD
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=1458661&extension=ts&play_token=RsvGNKudjM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="ESPAÑOL",F1 TV 
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=920206&extension=ts&play_token=olW5QLto1s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://queplan.mx/sites/default/files/2021-08/formula-1-tv.png" group-title="ESPAÑOL",MOVISTAR F1
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317783&extension=ts&play_token=sAsJGduwEO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317209&extension=ts&play_token=u04GvpFm5x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317208&extension=ts&play_token=GQpXIlBfKP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317210&extension=ts&play_token=8skUR2GUry
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/12/18/swmbf0fkptl6vxmwgiwq/checo" group-title="CHECO",PEREZ
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=317796&extension=ts&play_token=qZmrSKv8jx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/26/13/b1/2613b1c50323ceac01a160431ed38ec8.png" group-title="CHECO",PEREZ
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:74:08:20&stream=1388625&extension=ts&play_token=SbnbgqyiAA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 1
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=963297&extension=ts&play_token=XZ8X10tMfu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 2
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=963298&extension=ts&play_token=xvaSYAtewf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DATA
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1038568&extension=ts&play_token=EY4HQlCA5x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 DRIVER
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1038569&extension=ts&play_token=ryjk77DtrV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",F1 PIT
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1038570&extension=ts&play_token=Wef49y2RAC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://i.pinimg.com/originals/fa/cd/9c/facd9cb087c2046aadcc70250878b5ce.jpg" group-title="CHECO",CAM CHECO
+http://21-x1.com:80/play/live.php?mac=00:1A:79:00:00:00&stream=1038577&extension=ts&play_token=9rFYLEPyou
