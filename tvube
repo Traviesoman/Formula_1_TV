@@ -51,6 +51,28 @@ https://stream.zeno.fm/4dg95pxqvmzuv
 https://stream.zeno.fm/da8mg62gymzuv
 #EXTINF:-1 radio="true" group-title="MUSICA",SUPER CORRIDOS BOOM
 https://stream.zeno.fm/wubzxrrlt7huv
+#EXTINF:-1 group-title="MUSICA",TROLA MIX 1
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/262586.mp4
+#EXTINF:-1 group-title="MUSICA",HIP HOP MIX
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276229.mp4
+#EXTINF:-1 group-title="MUSICA",ELECTRONICA
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276231.mp4
+#EXTINF:-1 group-title="MUSICA",HOUSE ELECTRO MIX
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276233.mp4
+#EXTINF:-1 group-title="MUSICA",HOUSE OLD SCHOOL
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276234.mp4
+#EXTINF:-1 group-title="MUSICA",HOUSE OLD SCHOOL ES
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276235.mp4
+#EXTINF:-1 group-title="MUSICA",MIX LIVE
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276236.mp4
+#EXTINF:-1 group-title="MUSICA",PACHANGA MIX
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276238.mp4
+#EXTINF:-1 group-title="MUSICA",PACHANGA TROPICAL
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276239.mp4
+#EXTINF:-1 group-title="MUSICA",SALSA MIX
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276250.mp4
+#EXTINF:-1 group-title="MUSICA",HIP HOP
+http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276252.mp4
 #EXTINF:-1 group-title="24/7",LA HORA PICO
 http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
 #EXTINF:-1 group-title="24/7",LA FAMILIA P.LUCHE HD
@@ -177,6 +199,24 @@ http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463265.ts
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463266.ts
 #EXTINF:-1 group-title="24/7",ARCHIVOS EXTRATERRESTRES
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463322.ts
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186859.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
+#EXTINF:-1 group-title="24/7",MALCOM EL DEL MEDIO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/23974.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE HD
+http://fivetv.org:25461/live/Boliv4rT/2023BT/25195.ts
+#EXTINF:-1 group-title="24/7",EL MANDALORIAN
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
+#EXTINF:-1 group-title="24/7",DARK
+http://fivetv.org:25461/live/Boliv4rT/2023BT/182138.ts
+#EXTINF:-1 group-title="24/7",LAURA BOZO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
+#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
 #EXTINF:-1 group-title="CINE",CANTINFLAS
 http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
 #EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
@@ -341,6 +381,12 @@ http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469576.ts
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469577.ts
 #EXTINF:-1 group-title="CINE",ACCION
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/304637.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
 #EXTINF:-1 group-title="LOCALES",Canal 3 KMK TV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 group-title="LOCALES",CANAL 33 TIJUANA
