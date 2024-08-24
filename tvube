@@ -217,6 +217,20 @@ http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
 http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
 #EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
 http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
+#EXTINF:-1 group-title="24/7",XHDERBEZ
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/61130.ts
+#EXTINF:-1 group-title="24/7",NCIS LA
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155616.ts
+#EXTINF:-1 group-title="24/7",EXPONIENDO INFIELES
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/58150.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155605.ts
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/30641.ts
+#EXTINF:-1 group-title="24/7",LUISITO COMUNICA
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176971.ts
+#EXTINF:-1 group-title="24/7",FBI
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176979.ts
 #EXTINF:-1 group-title="CINE",CANTINFLAS
 http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
 #EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
@@ -385,8 +399,28 @@ http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/304637.ts
 http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
 #EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES INFANTILES
 http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49492.ts
+#EXTINF:-1 group-title="CINE",FAMILIA2
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49490.ts
+#EXTINF:-1 group-title="CINE",FAMILIA 1
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49493.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/117814.ts
 #EXTINF:-1 group-title="CINE",CANTINFLAS
 http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
+#EXTINF:-1 group-title="CINE",TRANSFORMERS
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/62778.ts
+#EXTINF:-1 group-title="CINE",MARVEL
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49495.ts
+#EXTINF:-1 group-title="CINE",ACCION 5
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177063.ts
+#EXTINF:-1 group-title="CINE",ACCION 4
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177064.ts
+#EXTINF:-1 group-title="CINE",ACCION 3
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177062.ts
+#EXTINF:-1 group-title="CINE",ACCION 2
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177061.ts
 #EXTINF:-1 group-title="LOCALES",Canal 3 KMK TV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 group-title="LOCALES",CANAL 33 TIJUANA
