@@ -3,6 +3,12 @@
 http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
 #EXTINF:-1 group-title="DEPORTES",EUROCOPA
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2220050.ts
+#EXTINF:-1 tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&w=256&q=75" group-title="VOD",DEADPOOL Y LOBEZNO
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/372203.mkv
+#EXTINF:-1 group-title="VOD",Deadpool & Wolverine
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/369300.mp4
+#EXTINF:-1 group-title="VOD",Deadpool & Wolverine C
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/370620.mkv
 #EXTINF:-1 group-title="DEPORTES",FUTBOL
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2200802.ts
 #EXTINF:-1 group-title="DEPORTES",PELEAS
