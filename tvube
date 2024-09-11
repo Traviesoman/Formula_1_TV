@@ -3,14 +3,6 @@
 http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
 #EXTINF:-1 group-title="DEPORTES",EUROCOPA
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2220050.ts
-#EXTINF:-1 tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&w=256&q=75" group-title="VOD",DEADPOOL Y LOBEZNO
-http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/372203.mkv
-#EXTINF:-1 group-title="VOD",Deadpool & Wolverine
-http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/369300.mp4
-#EXTINF:-1 group-title="VOD",HAROLD Y SU CRAYON MAGICO
-http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/371659.mkv
-#EXTINF:-1 group-title="VOD",Deadpool & Wolverine C
-http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/370620.mkv
 #EXTINF:-1 group-title="DEPORTES",FUTBOL
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2200802.ts
 #EXTINF:-1 group-title="DEPORTES",PELEAS
@@ -25,6 +17,12 @@ http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/210821.ts
 http://fivetv.org:25461/live/Boliv4rT/2023BT/186939.ts
 #EXTINF:-1 group-title="DEPORTES",LUCHA LIBRE AAA
 http://fivetv.org:25461/live/Boliv4rT/2023BT/186940.ts
+#EXTINF:-1 tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&w=256&q=75" group-title="VOD",DEADPOOL Y LOBEZNO
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/372203.mkv
+#EXTINF:-1 group-title="VOD",Deadpool & Wolverine
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/369300.mp4
+#EXTINF:-1 group-title="VOD",Deadpool & Wolverine C
+http://daleplay.club:80/movie/nhZ6n2VY/5m8EnS7Vhyge/370620.mkv
 #EXTINF:-1 group-title="MUSICA",DJ TROLA MIX
 http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/262586.mp4
 #EXTINF:-1 group-title="MUSICA",VIDEOS
@@ -81,258 +79,362 @@ http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276239.mp4
 http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276250.mp4
 #EXTINF:-1 group-title="MUSICA",HIP HOP
 http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276252.mp4
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA P.LUCHE HD
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65933.ts
-#EXTINF:-1 group-title="24/7",MR BEAN HD
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/63096.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/34966.ts
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/200378.ts
-#EXTINF:-1 group-title="24/7",NARCOS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090920.ts
-#EXTINF:-1 group-title="24/7",VECINOS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/189870.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PELUCHE
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091010.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091013.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091028.ts
+#EXTINF:-1 group-title="MUSICA",fiestamix
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/28909.ts
+#EXTINF:-1 group-title="MUSICA",FIESTAMIX 2
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/28910.ts
+#EXTINF:-1 group-title="MUSICA",FIESTAMIX 3
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/29041.ts
+#EXTINF:-1 group-title="24/7",1000 MANERAS DE MORIR
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174266.ts
+#EXTINF:-1 group-title="24/7",40 Y 20
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174307.ts
+#EXTINF:-1 group-title="24/7",ANIMALES
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282906.ts
+#EXTINF:-1 group-title="24/7",ARCHIVOS DE FBI
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186936.ts
+#EXTINF:-1 group-title="24/7",ARCHIVOS EXTRATERRESTRES
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463322.ts
+#EXTINF:-1 group-title="24/7",BREAKING BAD
+http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
+#EXTINF:-1 group-title="24/7",CERO EN CONDUCTA
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296951.ts
+#EXTINF:-1 group-title="24/7",CHAPULIN
+http://directo.ddns.me:2082/live/stkalval/7409/49647.ts
+#EXTINF:-1 group-title="24/7",CHAPULIN COLORADO
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/437993.ts
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225530.ts
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225530.ts
 #EXTINF:-1 group-title="24/7",CHESPIRITO
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090979.ts
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469574.ts
+#EXTINF:-1 group-title="24/7",CHESPIRITO
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/248684.ts
+#EXTINF:-1 group-title="24/7",CHICAGO PD
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358978.ts
+#EXTINF:-1 group-title="24/7",CSI MIAMI
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463265.ts
+#EXTINF:-1 group-title="24/7",DARK
+http://fivetv.org:25461/live/Boliv4rT/2023BT/182138.ts
+#EXTINF:-1 group-title="24/7",DISNEY
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469572.ts
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186859.ts
+#EXTINF:-1 group-title="24/7",EL CHAPO
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174187.ts
+#EXTINF:-1 group-title="24/7",EL CHAPO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139707.ts
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225483.ts
+#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/30641.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO 1
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225537.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
 http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090975.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/103841.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225530.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8 1
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225537.ts
-#EXTINF:-1 group-title="24/7",FAMILIA PELUCHE TEMP 1
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/246834.ts
-#EXTINF:-1 group-title="24/7",SPARTACUS
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358974.ts
-#EXTINF:-1 group-title="24/7",CHICAGO PD
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358978.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358977.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265628.ts
+http://directo.ddns.me:2082/live/stkalval/7409/48357.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091028.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
 #EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
 http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/103841.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225483.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225530.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO 1
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225537.ts
-#EXTINF:-1 group-title="24/7",MALCOM
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225563.ts
-#EXTINF:-1 group-title="24/7",PATRULLA FRONTERIZA
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265668.ts
-#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358971.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/103841.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8 1
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225537.ts
+#EXTINF:-1 group-title="24/7",EL MANDALORIAN
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
+#EXTINF:-1 group-title="24/7",EXPONIENDO INFIELES
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/58150.ts
+#EXTINF:-1 group-title="24/7",FAMILIA PELUCHE TEMP 1
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/246834.ts
 #EXTINF:-1 group-title="24/7",FBI
 http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358978.ts
-#EXTINF:-1 group-title="24/7",CHAPULIN COLORADO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/437993.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358977.ts
+#EXTINF:-1 group-title="24/7",FBI
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176979.ts
+#EXTINF:-1 group-title="24/7",HUMOR
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282929.ts
+#EXTINF:-1 group-title="24/7",HUMOR ES LOS COMEDIANTES
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296950.ts
+#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358971.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA P.LUCHE HD
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65933.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PELUCHE
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091010.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155605.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/200378.ts
+#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE HD
+http://fivetv.org:25461/live/Boliv4rT/2023BT/25195.ts
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
+#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/211114.ts
+#EXTINF:-1 group-title="24/7",LAURA BOZO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
+#EXTINF:-1 group-title="24/7",LAURA BOZO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265628.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 2
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/359090.ts
-#EXTINF:-1 group-title="24/7",BREAKING BAD
-http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
-#EXTINF:-1 group-title="24/7",CHAPULIN
-http://directo.ddns.me:2082/live/stkalval/7409/49647.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://directo.ddns.me:2082/live/stkalval/7409/48357.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/248684.ts
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS
 http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/291793.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265628.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091013.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265628.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS 1-5
 http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294010.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 6-11
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294011.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS 12-17
 http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294012.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS 18-21
 http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294013.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS 2
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/359090.ts
 #EXTINF:-1 group-title="24/7",LOS SIMPSONS 27-30
 http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294014.ts
-#EXTINF:-1 group-title="24/7",HUMOR ES LOS COMEDIANTES
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296950.ts
-#EXTINF:-1 group-title="24/7",CERO EN CONDUCTA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296951.ts
-#EXTINF:-1 group-title="24/7",MISTERIOS
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282897.ts
-#EXTINF:-1 group-title="24/7",ANIMALES
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282906.ts
-#EXTINF:-1 group-title="24/7",NATURALEZA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282909.ts
-#EXTINF:-1 group-title="24/7",HUMOR
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282929.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://fivetv.org:25461/live/Boliv4rT/2023BT/23852.ts
-#EXTINF:-1 group-title="24/7",THE MANDALORIAN
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
-#EXTINF:-1 group-title="24/7",LAURA BOZO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
-#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
-#EXTINF:-1 group-title="24/7",EL CHAPO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139707.ts
-#EXTINF:-1 group-title="24/7",ARCHIVOS DE FBI
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186936.ts
-#EXTINF:-1 group-title="24/7",SIMPSONS
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469571.ts
-#EXTINF:-1 group-title="24/7",DISNEY
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469572.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469574.ts
-#EXTINF:-1 group-title="24/7",CSI MIAMI
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463265.ts
-#EXTINF:-1 group-title="24/7",NCIS
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463266.ts
-#EXTINF:-1 group-title="24/7",ARCHIVOS EXTRATERRESTRES
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463322.ts
-#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186859.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
-#EXTINF:-1 group-title="24/7",MALCOM EL DEL MEDIO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/23974.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE HD
-http://fivetv.org:25461/live/Boliv4rT/2023BT/25195.ts
-#EXTINF:-1 group-title="24/7",EL MANDALORIAN
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
-#EXTINF:-1 group-title="24/7",DARK
-http://fivetv.org:25461/live/Boliv4rT/2023BT/182138.ts
-#EXTINF:-1 group-title="24/7",LAURA BOZO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
-#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
-#EXTINF:-1 group-title="24/7",XHDERBEZ
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/61130.ts
-#EXTINF:-1 group-title="24/7",NCIS LA
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155616.ts
-#EXTINF:-1 group-title="24/7",EXPONIENDO INFIELES
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/58150.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155605.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/30641.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS 6-11
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294011.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS HD
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2091015.ts
 #EXTINF:-1 group-title="24/7",LUISITO COMUNICA
 http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176971.ts
-#EXTINF:-1 group-title="24/7",FBI
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176979.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
-#EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/90087.ts
-#EXTINF:-1 group-title="CINE",PPV CINEMA 4K
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65852.ts
-#EXTINF:-1 group-title="CINE",CINECANAL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10844.ts
-#EXTINF:-1 group-title="CINE",CINEMAX
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10846.ts
-#EXTINF:-1 group-title="CINE",STUDIO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10872.ts
-#EXTINF:-1 group-title="CINE",UNIVERSAL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2081448.ts
-#EXTINF:-1 group-title="CINE",PANICO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2217005.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090937.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090921.ts
-#EXTINF:-1 group-title="CINE",MARVEL INFINITO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2133201.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157659.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157660.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265668.ts
-#EXTINF:-1 group-title="CINE",BRUCE LEE
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/284511.ts
-#EXTINF:-1 group-title="CINE",JACKIE CHAN
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/380786.ts
-#EXTINF:-1 group-title="CINE",ARNOLD
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/564063.ts
-#EXTINF:-1 group-title="CINE",PEDRO INFANTE
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265669.ts
+#EXTINF:-1 group-title="24/7",MALCOM
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225563.ts
+#EXTINF:-1 group-title="24/7",MALCOM EL DEL MEDIO
+http://fivetv.org:25461/live/Boliv4rT/2023BT/23974.ts
+#EXTINF:-1 group-title="24/7",MISTERIOS
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282897.ts
+#EXTINF:-1 group-title="24/7",MR BEAN HD
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/63096.ts
+#EXTINF:-1 group-title="24/7",NARCOS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090920.ts
+#EXTINF:-1 group-title="24/7",NATURALEZA
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282909.ts
+#EXTINF:-1 group-title="24/7",NCIS
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463266.ts
+#EXTINF:-1 group-title="24/7",NCIS LA
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155616.ts
+#EXTINF:-1 group-title="24/7",PATRULLA FRONTERIZA
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265668.ts
+#EXTINF:-1 group-title="24/7",SIMPSONS
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469571.ts
+#EXTINF:-1 group-title="24/7",SPARTACUS
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358974.ts
+#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
+#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
+http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
+#EXTINF:-1 group-title="24/7",THE MANDALORIAN
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
+#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/34966.ts
+#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358977.ts
+#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
+http://fivetv.org:25461/live/Boliv4rT/2023BT/23852.ts
+#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358977.ts
+#EXTINF:-1 group-title="24/7",VECINOS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/189870.ts
+#EXTINF:-1 group-title="24/7",XHDERBEZ
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/61130.ts
+#EXTINF:-1 group-title="24/7",CHICAGO PD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531606.ts
+#EXTINF:-1 group-title="24/7",LA HORA PICO
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/107927.ts
+#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168730.ts
+#EXTINF:-1 group-title="24/7",CSI LAS VEGAS
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/181401.ts
+#EXTINF:-1 group-title="24/7",CSI MIAMI HD
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/181402.ts
+#EXTINF:-1 group-title="24/7",NCIS LOS ANGELES
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/49181.ts
+#EXTINF:-1 group-title="24/7",EL CHAVO HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58120.ts
+#EXTINF:-1 group-title="24/7",HAGALO USTED MISMO HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58131.ts
+#EXTINF:-1 group-title="24/7",LOS SIMPSONS HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58314.ts
+#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58273.ts
+#EXTINF:-1 group-title="24/7",DOCUMENTALES
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333129.ts
+#EXTINF:-1 group-title="24/7",SIMPSONS FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333158.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282884.ts
 #EXTINF:-1 group-title="CINE",ACCION
 http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/289258.ts
-#EXTINF:-1 group-title="CINE",HARRY POTTER
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358973.ts
-#EXTINF:-1 group-title="CINE",JACKIE CHAN
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380786.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380794.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/556360.ts
-#EXTINF:-1 group-title="CINE",ARNOLD
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/564063.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49492.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/304637.ts
+#EXTINF:-1 group-title="CINE",ACCION
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469576.ts
+#EXTINF:-1 group-title="CINE",ACCION 2
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177061.ts
+#EXTINF:-1 group-title="CINE",ACCION 3
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177062.ts
+#EXTINF:-1 group-title="CINE",ACCION 4
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177064.ts
+#EXTINF:-1 group-title="CINE",ACCION 5
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177063.ts
 #EXTINF:-1 group-title="CINE",ACCION NETFLIX
 http://355517919688385019.ofkd0722.xyz:80/live/fe1219130/PMNpM8aCNAcN/894521.ts
 #EXTINF:-1 group-title="CINE",ACCION NETFLIX 2
 http://355517919688385019.ofkd0722.xyz:80/live/fe1219130/PMNpM8aCNAcN/894522.ts
-#EXTINF:-1 group-title="CINE",DISNEY PIXAR
-http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
-#EXTINF:-1 group-title="CINE",HORROR
-http://directo.ddns.me:2082/live/stkalval/7409/31710.ts
-#EXTINF:-1 group-title="CINE",CARS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724278.ts
-#EXTINF:-1 group-title="CINE",TOY STORY
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724277.ts
-#EXTINF:-1 group-title="CINE",X-MAN
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723826.ts
-#EXTINF:-1 group-title="CINE",INFANTILES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723825.ts
-#EXTINF:-1 group-title="CINE",PLANETA DE LOS SIMIOS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723824.ts
-#EXTINF:-1 group-title="CINE",STAR WARS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723823.ts
-#EXTINF:-1 group-title="CINE",PELICULAS DISNEY
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723822.ts
-#EXTINF:-1 group-title="CINE",UNIVERSE
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/389812.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278167.ts
+#EXTINF:-1 group-title="CINE",AMAZON
+http://fivetv.org:25461/live/Boliv4rT/2023BT/185031.ts
+#EXTINF:-1 group-title="CINE",AMAZON
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405854.ts
+#EXTINF:-1 group-title="CINE",ARNOLD
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/564063.ts
+#EXTINF:-1 group-title="CINE",ARNOLD
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/564063.ts
+#EXTINF:-1 group-title="CINE",BRUCE LEE
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/284511.ts
+#EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/90087.ts
 #EXTINF:-1 group-title="CINE",CANTINFLAS
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/11526.ts
-#EXTINF:-1 group-title="CINE",UNIVERSAL
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278168.ts
-#EXTINF:-1 group-title="CINE",LEGO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/297300.ts
-#EXTINF:-1 group-title="CINE",PANICO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/319427.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282884.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282885.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282886.ts
-#EXTINF:-1 group-title="CINE",LATINO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/1407.ts
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/556360.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/117814.ts
 #EXTINF:-1 group-title="CINE",CANTINFLAS
 http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090937.ts
+#EXTINF:-1 group-title="CINE",CANTINFLAS
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/11526.ts
+#EXTINF:-1 group-title="CINE",CARS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724278.ts
+#EXTINF:-1 group-title="CINE",CINECANAL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10844.ts
+#EXTINF:-1 group-title="CINE",CINEMA 20
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/210827.ts
+#EXTINF:-1 group-title="CINE",CINEMAX
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10846.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278167.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282885.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157659.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265668.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139700.ts
+#EXTINF:-1 group-title="CINE",COMEDIA 2
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090925.ts
+#EXTINF:-1 group-title="CINE",COMEDIA 2
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090925.ts
+#EXTINF:-1 group-title="CINE",DISNEY
+http://fivetv.org:25461/live/Boliv4rT/2023BT/185032.ts
+#EXTINF:-1 group-title="CINE",DISNEY
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469577.ts
 #EXTINF:-1 group-title="CINE",DISNEY PIXAR
 http://fivetv.org:25461/live/Boliv4rT/2023BT/24490.ts
+#EXTINF:-1 group-title="CINE",DISNEY PIXAR
+http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
+#EXTINF:-1 group-title="CINE",FAMILIA
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405848.ts
+#EXTINF:-1 group-title="CINE",FAMILIA
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139699.ts
+#EXTINF:-1 group-title="CINE",FAMILIA 1
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49493.ts
+#EXTINF:-1 group-title="CINE",FAMILIA2
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49490.ts
+#EXTINF:-1 group-title="CINE",FANTASIA SAGAS
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090928.ts
+#EXTINF:-1 group-title="CINE",HARRY POTTER
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358973.ts
+#EXTINF:-1 group-title="CINE",HORROR
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405841.ts
+#EXTINF:-1 group-title="CINE",HORROR
+http://directo.ddns.me:2082/live/stkalval/7409/31710.ts
+#EXTINF:-1 group-title="CINE",INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723825.ts
+#EXTINF:-1 group-title="CINE",JACKIE CHAN
+http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/380786.ts
+#EXTINF:-1 group-title="CINE",JACKIE CHAN
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380786.ts
+#EXTINF:-1 group-title="CINE",LATINO
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/1407.ts
+#EXTINF:-1 group-title="CINE",LEGO
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/297300.ts
+#EXTINF:-1 group-title="CINE",MARVEL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090921.ts
+#EXTINF:-1 group-title="CINE",MARVEL
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49495.ts
+#EXTINF:-1 group-title="CINE",MARVEL
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380794.ts
+#EXTINF:-1 group-title="CINE",MARVEL 2
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139694.ts
+#EXTINF:-1 group-title="CINE",MARVEL 4
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139696.ts
+#EXTINF:-1 group-title="CINE",MARVEL 5
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139697.ts
+#EXTINF:-1 group-title="CINE",MARVEL 6
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139698.ts
+#EXTINF:-1 group-title="CINE",MARVEL INFINITO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2133201.ts
+#EXTINF:-1 group-title="CINE",MARVEL SAGA INFINITO
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2133201.ts
+#EXTINF:-1 group-title="CINE",MY TIME
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405838.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 1
+http://fivetv.org:25461/live/Boliv4rT/2023BT/176198.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 2
+http://fivetv.org:25461/live/Boliv4rT/2023BT/176199.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 3
+http://fivetv.org:25461/live/Boliv4rT/2023BT/176200.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 4
+http://fivetv.org:25461/live/Boliv4rT/2023BT/176201.ts
+#EXTINF:-1 group-title="CINE",PANICO
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2217005.ts
+#EXTINF:-1 group-title="CINE",PANICO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2217005.ts
+#EXTINF:-1 group-title="CINE",PANICO
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/319427.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT
+http://fivetv.org:25461/live/Boliv4rT/2023BT/185034.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405857.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
+#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
+#EXTINF:-1 group-title="CINE",PEDRO INFANTE
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265669.ts
+#EXTINF:-1 group-title="CINE",PELICULAS DISNEY
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723822.ts
+#EXTINF:-1 group-title="CINE",PLANETA DE LOS SIMIOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723824.ts
+#EXTINF:-1 group-title="CINE",PPV C 2
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6076.ts
+#EXTINF:-1 group-title="CINE",PPV CINEMA 01
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6077.ts
+#EXTINF:-1 group-title="CINE",PPV CINEMA 4K
+http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65852.ts
 #EXTINF:-1 group-title="CINE",PPV LATINOS 1
 http://fivetv.org:25461/live/Boliv4rT/2023BT/75171.ts
 #EXTINF:-1 group-title="CINE",PPV LATINOS 2
@@ -345,90 +447,296 @@ http://fivetv.org:25461/live/Boliv4rT/2023BT/75175.ts
 http://fivetv.org:25461/live/Boliv4rT/2023BT/75177.ts
 #EXTINF:-1 group-title="CINE",PPV LATINOS 6
 http://fivetv.org:25461/live/Boliv4rT/2023BT/75178.ts
-#EXTINF:-1 group-title="CINE",MARVEL 2
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139694.ts
-#EXTINF:-1 group-title="CINE",MARVEL 4
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139696.ts
-#EXTINF:-1 group-title="CINE",MARVEL 5
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139697.ts
-#EXTINF:-1 group-title="CINE",MARVEL 6
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139698.ts
-#EXTINF:-1 group-title="CINE",FAMILIA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139699.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139700.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139701.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 1
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176198.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 2
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176199.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 3
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176200.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 4
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176201.ts
-#EXTINF:-1 group-title="CINE",SCREAM
-http://fivetv.org:25461/live/Boliv4rT/2023BT/181929.ts
+#EXTINF:-1 group-title="CINE",PPVC 10
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6068.ts
+#EXTINF:-1 group-title="CINE",PPVC 11
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6067.ts
+#EXTINF:-1 group-title="CINE",PPVC 14
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6064.ts
+#EXTINF:-1 group-title="CINE",PPVC 15
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6063.ts
+#EXTINF:-1 group-title="CINE",PPVC 16
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6062.ts
+#EXTINF:-1 group-title="CINE",PPVC 18
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6060.ts
+#EXTINF:-1 group-title="CINE",PPVC 19
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6059.ts
+#EXTINF:-1 group-title="CINE",PPVC 6
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6072.ts
+#EXTINF:-1 group-title="CINE",PPVC 9
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6069.ts
+#EXTINF:-1 group-title="CINE",PPVC12
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6066.ts
+#EXTINF:-1 group-title="CINE",PPVC13
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6065.ts
+#EXTINF:-1 group-title="CINE",PPVC17
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6061.ts
+#EXTINF:-1 group-title="CINE",PPVC5
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6073.ts
+#EXTINF:-1 group-title="CINE",PPVC8
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6070.ts
 #EXTINF:-1 group-title="CINE",SAGAS
 http://fivetv.org:25461/live/Boliv4rT/2023BT/181930.ts
-#EXTINF:-1 group-title="CINE",AMAZON
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185031.ts
-#EXTINF:-1 group-title="CINE",DISNEY
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185032.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185034.ts
+#EXTINF:-1 group-title="CINE",SCREAM
+http://fivetv.org:25461/live/Boliv4rT/2023BT/181929.ts
+#EXTINF:-1 group-title="CINE",STAR WARS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723823.ts
 #EXTINF:-1 group-title="CINE",STAR+
 http://fivetv.org:25461/live/Boliv4rT/2023BT/185035.ts
+#EXTINF:-1 group-title="CINE",STUDIO
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10872.ts
+#EXTINF:-1 group-title="CINE",TERROR
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469575.ts
+#EXTINF:-1 group-title="CINE",TERROR
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157660.ts
+#EXTINF:-1 group-title="CINE",TERROR
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282886.ts
+#EXTINF:-1 group-title="CINE",TERROR
+http://fivetv.org:25461/live/Boliv4rT/2023BT/139701.ts
+#EXTINF:-1 group-title="CINE",TERROR HD
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090934.ts
+#EXTINF:-1 group-title="CINE",TERROR HD
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090934.ts
+#EXTINF:-1 group-title="CINE",TOY STORY
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724277.ts
+#EXTINF:-1 group-title="CINE",TRANSFORMERS
+http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/62778.ts
 #EXTINF:-1 group-title="CINE",TU CINE 2
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405837.ts
-#EXTINF:-1 group-title="CINE",MY TIME
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405838.ts
-#EXTINF:-1 group-title="CINE",HORROR
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405841.ts
-#EXTINF:-1 group-title="CINE",FAMILIA
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405848.ts
-#EXTINF:-1 group-title="CINE",AMAZON
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405854.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405857.ts
+#EXTINF:-1 group-title="CINE",UNIVERSAL
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/2081448.ts
+#EXTINF:-1 group-title="CINE",UNIVERSAL
+http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2081448.ts
+#EXTINF:-1 group-title="CINE",UNIVERSAL
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278168.ts
+#EXTINF:-1 group-title="CINE",UNIVERSE
+http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/389812.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO DC
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23941.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO EL CONJURO
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41045.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO HARRY POTTER
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23947.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO MARVEL
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23939.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO MISION IMPOSIBLE
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41046.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO PIXAR
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/30266.ts
+#EXTINF:-1 group-title="CINE",UNIVERSO XMAN
+http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41080.ts
 #EXTINF:-1 group-title="CINE",VIP 04
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405862.ts
 #EXTINF:-1 group-title="CINE",VIP 05
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405863.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469575.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469576.ts
-#EXTINF:-1 group-title="CINE",DISNEY
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469577.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/304637.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES INFANTILES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49492.ts
-#EXTINF:-1 group-title="CINE",FAMILIA2
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49490.ts
-#EXTINF:-1 group-title="CINE",FAMILIA 1
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49493.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/117814.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
+#EXTINF:-1 group-title="CINE",X-MAN
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723826.ts
+#EXTINF:-1 group-title="CINE",CINEMA 14
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/210821.ts
+#EXTINF:-1 group-title="CINE",CINEMA 13
+http://maiolve.club:80/live/jeschav/n8YmxHpeht/210820.ts
+#EXTINF:-1 group-title="CINE",DC UNIVERSE HD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177323.ts
+#EXTINF:-1 group-title="CINE",DISNEY FAMILY HD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177324.ts
+#EXTINF:-1 group-title="CINE",PIXAR HD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177339.ts
+#EXTINF:-1 group-title="CINE",LEGO
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177331.ts
+#EXTINF:-1 group-title="CINE",DREAMWORKS
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177326.ts
+#EXTINF:-1 group-title="CINE",JOHN WICK
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531600.ts
+#EXTINF:-1 group-title="CINE",DURO DE MATAR
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531601.ts
+#EXTINF:-1 group-title="CINE",MATRIX
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531616.ts
+#EXTINF:-1 group-title="CINE",ESTRENOS 2024
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531637.ts
+#EXTINF:-1 group-title="CINE",TERMINATOR
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531638.ts
+#EXTINF:-1 group-title="CINE",LATINO
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531671.ts
+#EXTINF:-1 group-title="CINE",KUN FU PANDA
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531680.ts
+#EXTINF:-1 group-title="CINE",PIRATAS DE CARIBE
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531712.ts
+#EXTINF:-1 group-title="CINE",HARRY POTTER
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531713.ts
+#EXTINF:-1 group-title="CINE",CIENCIA FICCION
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531714.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 1
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168559.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 2
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168560.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 3
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168561.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 4
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168562.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 5
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168563.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 6
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168564.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 7
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168565.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 10 KIDS
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168566.ts
+#EXTINF:-1 group-title="CINE",NETFLIX 11 KIDS
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168567.ts
+#EXTINF:-1 group-title="CINE",NETFLIX AVENTURA
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168568.ts
+#EXTINF:-1 group-title="CINE",NETFLIX LAT 18
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168569.ts
+#EXTINF:-1 group-title="CINE",NETFLIX LAT 20
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168570.ts
+#EXTINF:-1 group-title="CINE",H O MAX
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168613.ts
+#EXTINF:-1 group-title="CINE",H O MAX 2
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168614.ts
+#EXTINF:-1 group-title="CINE",H O MAX 3
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168615.ts
+#EXTINF:-1 group-title="CINE",H O MAX 5
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168617.ts
+#EXTINF:-1 group-title="CINE",H O MAX 6
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168618.ts
+#EXTINF:-1 group-title="CINE",CIENCIA FICCION HD
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168732.ts
+#EXTINF:-1 group-title="CINE",HORROR HD
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168734.ts
+#EXTINF:-1 group-title="CINE",LA INDIA MARIA
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168754.ts
 #EXTINF:-1 group-title="CINE",TRANSFORMERS
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/62778.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49495.ts
-#EXTINF:-1 group-title="CINE",ACCION 5
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177063.ts
-#EXTINF:-1 group-title="CINE",ACCION 4
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177064.ts
-#EXTINF:-1 group-title="CINE",ACCION 3
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177062.ts
-#EXTINF:-1 group-title="CINE",ACCION 2
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177061.ts
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168757.ts
+#EXTINF:-1 group-title="CINE",H O MAX 7
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168619.ts
+#EXTINF:-1 group-title="CINE",H O MAX 8
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168620.ts
+#EXTINF:-1 group-title="CINE",H O MAX 9
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168621.ts
+#EXTINF:-1 group-title="CINE",H O MAX 10
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168622.ts
+#EXTINF:-1 group-title="CINE",H O MAX 11
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168623.ts
+#EXTINF:-1 group-title="CINE",H O MAX 12
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168624.ts
+#EXTINF:-1 group-title="CINE",H O MAX 13
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168625.ts
+#EXTINF:-1 group-title="CINE",H O MAX 14
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168626.ts
+#EXTINF:-1 group-title="CINE",H O MAX 15
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168627.ts
+#EXTINF:-1 group-title="CINE",MARVEL HD
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168728.ts
+#EXTINF:-1 group-title="CINE",DC UNIVERSE HD
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168731.ts
+#EXTINF:-1 group-title="CINE",ACCION FHD
+http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/36252.ts
+#EXTINF:-1 group-title="CINE",COMEDIA HD
+http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/36267.ts
+#EXTINF:-1 group-title="CINE",ESTRENOS 1
+http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/44794.ts
+#EXTINF:-1 group-title="CINE",COMEDIA
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50575.ts
+#EXTINF:-1 group-title="CINE",DC UNIVERSE
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50577.ts
+#EXTINF:-1 group-title="CINE",DISNEY FAMILY HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50578.ts
+#EXTINF:-1 group-title="CINE",PIXAR HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50579.ts
+#EXTINF:-1 group-title="CINE",DREAMWORKS FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50580.ts
+#EXTINF:-1 group-title="CINE",HAPPY MADISON FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50582.ts
+#EXTINF:-1 group-title="CINE",HORROR FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50583.ts
+#EXTINF:-1 group-title="CINE",LEGO FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50584.ts
+#EXTINF:-1 group-title="CINE",MARVEL FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50586.ts
+#EXTINF:-1 group-title="CINE",MOVIECENTER KIDS FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50622.ts
+#EXTINF:-1 group-title="CINE",DISNEY LIVE ACTION FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50595.ts
+#EXTINF:-1 group-title="CINE",MARVEL STUDIO FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58068.ts
+#EXTINF:-1 group-title="CINE",CIENCIA FICCION HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333120.ts
+#EXTINF:-1 group-title="CINE",MARVEL FHD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333121.ts
+#EXTINF:-1 group-title="CINE",CINE ESTELAR HD
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333122.ts
+#EXTINF:-1 group-title="CINE",PPV 1
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34477.ts
+#EXTINF:-1 group-title="CINE",PPV 2
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34478.ts
+#EXTINF:-1 group-title="CINE",PPV 3
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34479.ts
+#EXTINF:-1 group-title="CINE",PPV 5
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34481.ts
+#EXTINF:-1 group-title="CINE",PPV 6
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34482.ts
+#EXTINF:-1 group-title="CINE",PPV 7
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34483.ts
+#EXTINF:-1 group-title="CINE",PPV 8
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34484.ts
+#EXTINF:-1 group-title="CINE",PPV 9
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34485.ts
+#EXTINF:-1 group-title="CINE",PPV 10
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34486.ts
+#EXTINF:-1 group-title="CINE",PPV 11
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34487.ts
+#EXTINF:-1 group-title="CINE",PPV 12
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34488.ts
+#EXTINF:-1 group-title="CINE",PPV 13
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34489.ts
+#EXTINF:-1 group-title="CINE",PPV 14
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34490.ts
+#EXTINF:-1 group-title="CINE",PPV 15
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34491.ts
+#EXTINF:-1 group-title="CINE",PPV 16
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34492.ts
+#EXTINF:-1 group-title="CINE",PPV 17
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34493.ts
+#EXTINF:-1 group-title="CINE",PPV 18
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34494.ts
+#EXTINF:-1 group-title="CINE",PPV 19
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34495.ts
+#EXTINF:-1 group-title="CINE",PPV 20
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34496.ts
+#EXTINF:-1 group-title="CINE",PPV 21
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34497.ts
+#EXTINF:-1 group-title="CINE",PPV 24
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34500.ts
+#EXTINF:-1 group-title="CINE",PPV 25
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34501.ts
+#EXTINF:-1 group-title="CINE",PPV 26
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34502.ts
+#EXTINF:-1 group-title="CINE",PPV 27
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34503.ts
+#EXTINF:-1 group-title="CINE",PPV 28
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34504.ts
+#EXTINF:-1 group-title="CINE",PPV 30
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34506.ts
+#EXTINF:-1 group-title="CINE",PPV 31
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34507.ts
+#EXTINF:-1 group-title="CINE",PPV 32
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34508.ts
+#EXTINF:-1 group-title="CINE",PPV 33
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34509.ts
+#EXTINF:-1 group-title="CINE",PPV 34
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34510.ts
+#EXTINF:-1 group-title="CINE",PPV 35
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34511.ts
+#EXTINF:-1 group-title="CINE",PPV 36
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34512.ts
+#EXTINF:-1 group-title="CINE",PPV 37
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34513.ts
+#EXTINF:-1 group-title="CINE",STARZ
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34517.ts
+#EXTINF:-1 group-title="CINE",STAARZ COMEDY
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34519.ts
+#EXTINF:-1 group-title="CINE",ENCORE
+http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34524.ts
 #EXTINF:-1 group-title="LOCALES",Canal 3 KMK TV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 group-title="LOCALES",CANAL 33 TIJUANA
