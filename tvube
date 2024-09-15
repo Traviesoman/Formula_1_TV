@@ -63,6 +63,24 @@ https://stream.zeno.fm/rngsfrvcbnruv
 https://stream.zeno.fm/rngsfrvcbnruv.pls
 #EXTINF:-1 radio="true" group-title="MUSICA",LA GOLOZA TRAVIESA
 https://stream.zeno.fm/v52aezws8hhvv
+#EXTINF:-1 group-title="PAGO POR EVENTO",UFC 306 2
+http://home-playtv.com:8080/live/Granav69/JWSn3QxpaR6D/560174.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",DAZN BOX
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560005.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560006.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",PBC BOX
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281782.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",BOX 3
+http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281785.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560005.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO II
+http://2.magmas5.com:8000/live/LatVod/@fsec9084@/238889.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",PBC BOX II
+http://zeustv.vip:8080/live/1avpbs05/95994949gt/1015723.ts
+#EXTINF:-1 group-title="PAGO POR EVENTO",BOX II
+http://zeustv.vip:8080/live/1avpbs05/95994949gt/1060306.ts
 #EXTINF:-1 radio="true" group-title="MUSICA",80'S BOOM
 https://stream.zeno.fm/g5wmvzhaanzuv
 #EXTINF:-1 group-title="MUSICA",GANSTA BOOM
