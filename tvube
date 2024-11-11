@@ -1,807 +1,555 @@
 #EXTM3U
-#EXTINF:-1 group-title="DEPORTES",DAZN F1 HD
-http://darktv.nl:80/play/live.php?mac=00:1A:79:C2:8F:E2&stream=56337&extension=ts&play_token=cR2nE0dNpn
-#EXTINF:-1 group-title="DEPORTES",EUROCOPA
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2220050.ts
-#EXTINF:-1 group-title="DEPORTES",FUTBOL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2200802.ts
-#EXTINF:-1 group-title="DEPORTES",PELEAS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157666.ts
-#EXTINF:-1 group-title="DEPORTES",LUCHA LIBRE AAA
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157655.ts
-#EXTINF:-1 group-title="DEPORTES",DAZN FORMULA 1
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/253223.ts
-#EXTINF:-1 group-title="DEPORTES",14
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/210821.ts
-#EXTINF:-1 group-title="DEPORTES",LUCHA LIBRE AAA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186939.ts
-#EXTINF:-1 group-title="DEPORTES",LUCHA LIBRE AAA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186940.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",CANELO VS BERLANGA
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2237062.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",CANELO VS B 2
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/Df3gDsEJTGGYjpHFt_KJPg/stream/7a9677dd-249c-43f3-a868-46922a2216df:TUL/variant/e18e3546b58cd697448d4f1322f39989/bandwidth/1927200.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
-#EXTINF:-1 group-title="PAGO POR EVENTO",CANELO 3
-http://cdn1host.online:2999/live/korrigan17/25AUFBdqOi/261.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205277.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",CANELAS BOX
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205279.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205280.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",CANELO
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205265.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205267.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205268.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/205270.ts
-#EXTINF:-1 tvg-logo="https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F9TFSqghEHrlBMRR63yTx80Orxva.jpg&w=256&q=75" group-title="VOD",el cuervo
-http://maiolve.club:80/movie/jeschav/n8YmxHpeht/2234911.mp4
-#EXTINF:-1 group-title="VOD",EL CUERVO HD
-http://maiolve.club:80/movie/jeschav/n8YmxHpeht/2236941.mp4
-#EXTINF:-1 group-title="MUSICA",DJ TROLA MIX
-http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/262586.mp4
-#EXTINF:-1 group-title="MUSICA",VIDEOS
-http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276229.mp4
-#EXTINF:-1 group-title="MUSICA",Remix CUMBIA
-http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276228.mp4
-#EXTINF:-1 group-title="MUSICA",TROPICAL
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456480.ts
-#EXTINF:-1 group-title="MUSICA",SALSA
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456482.ts
-#EXTINF:-1 group-title="MUSICA",ESPANOL
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456487.ts
-#EXTINF:-1 group-title="MUSICA",ROCK LATINO
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456488.ts
-#EXTINF:-1 group-title="MUSICA",EXITOS
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456490.ts
-#EXTINF:-1 radio="true" group-title="MUSICA",RADIO BOOM MIX
-https://stream.zeno.fm/rngsfrvcbnruv
-#EXTINF:-1 radio="true" group-title="MUSICA",RADIO BOOM MIX BACK
-https://stream.zeno.fm/rngsfrvcbnruv.pls
-#EXTINF:-1 radio="true" group-title="MUSICA",LA GOLOZA TRAVIESA
-https://stream.zeno.fm/v52aezws8hhvv
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC 306 2
-http://home-playtv.com:8080/live/Granav69/JWSn3QxpaR6D/560174.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",DAZN BOX
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560005.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560006.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",PBC BOX
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281782.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX 3
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281785.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560005.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO II
-http://2.magmas5.com:8000/live/LatVod/@fsec9084@/238889.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",PBC BOX II
-http://zeustv.vip:8080/live/1avpbs05/95994949gt/1015723.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX II
-http://zeustv.vip:8080/live/1avpbs05/95994949gt/1060306.ts
-#EXTINF:-1 radio="true" group-title="MUSICA",80'S BOOM
-https://stream.zeno.fm/g5wmvzhaanzuv
-#EXTINF:-1 group-title="MUSICA",GANSTA BOOM
-https://stream.zeno.fm/1g06v884hqzuv
-#EXTINF:-1 radio="true" group-title="MUSICA",LA GRUPERRONA
-https://stream.zeno.fm/h9td06qd5qruv
-#EXTINF:-1 radio="true" group-title="MUSICA",ROCK EN TU IDIOMA
-https://stream.zeno.fm/4dg95pxqvmzuv
-#EXTINF:-1 radio="true" group-title="MUSICA",SALSA BOOM
-https://stream.zeno.fm/da8mg62gymzuv
-#EXTINF:-1 radio="true" group-title="MUSICA",SUPER CORRIDOS BOOM
-https://stream.zeno.fm/wubzxrrlt7huv
-#EXTINF:-1 group-title="MUSICA",TROLA MIX 1
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/262586.mp4
-#EXTINF:-1 group-title="MUSICA",HIP HOP MIX
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276229.mp4
-#EXTINF:-1 group-title="MUSICA",ELECTRONICA
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276231.mp4
-#EXTINF:-1 group-title="MUSICA",HOUSE ELECTRO MIX
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276233.mp4
-#EXTINF:-1 group-title="MUSICA",HOUSE OLD SCHOOL
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276234.mp4
-#EXTINF:-1 group-title="MUSICA",HOUSE OLD SCHOOL ES
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276235.mp4
-#EXTINF:-1 group-title="MUSICA",MIX LIVE
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276236.mp4
-#EXTINF:-1 group-title="MUSICA",PACHANGA MIX
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276238.mp4
-#EXTINF:-1 group-title="MUSICA",PACHANGA TROPICAL
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276239.mp4
-#EXTINF:-1 group-title="MUSICA",SALSA MIX
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276250.mp4
-#EXTINF:-1 group-title="MUSICA",HIP HOP
-http://offshore.lat:8080/movie/eusebioxdd/hShzYZdKbZ/276252.mp4
-#EXTINF:-1 group-title="MUSICA",fiestamix
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/28909.ts
-#EXTINF:-1 group-title="MUSICA",FIESTAMIX 2
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/28910.ts
-#EXTINF:-1 group-title="MUSICA",FIESTAMIX 3
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/29041.ts
-#EXTINF:-1 group-title="24/7",1000 MANERAS DE MORIR
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174266.ts
-#EXTINF:-1 group-title="24/7",40 Y 20
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174307.ts
-#EXTINF:-1 group-title="24/7",ANIMALES
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282906.ts
-#EXTINF:-1 group-title="24/7",ARCHIVOS DE FBI
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186936.ts
-#EXTINF:-1 group-title="24/7",ARCHIVOS EXTRATERRESTRES
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463322.ts
-#EXTINF:-1 group-title="24/7",BREAKING BAD
-http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
-#EXTINF:-1 group-title="24/7",CERO EN CONDUCTA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296951.ts
-#EXTINF:-1 group-title="24/7",CHAPULIN
-http://directo.ddns.me:2082/live/stkalval/7409/49647.ts
-#EXTINF:-1 group-title="24/7",CHAPULIN COLORADO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/437993.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225530.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225530.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090979.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469574.ts
-#EXTINF:-1 group-title="24/7",CHESPIRITO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/248684.ts
-#EXTINF:-1 group-title="24/7",CHICAGO PD
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358978.ts
-#EXTINF:-1 group-title="24/7",CSI MIAMI
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463265.ts
-#EXTINF:-1 group-title="24/7",DARK
-http://fivetv.org:25461/live/Boliv4rT/2023BT/182138.ts
-#EXTINF:-1 group-title="24/7",DISNEY
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469572.ts
-#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186859.ts
-#EXTINF:-1 group-title="24/7",EL CHAPO
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/174187.ts
-#EXTINF:-1 group-title="24/7",EL CHAPO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139707.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225483.ts
-#EXTINF:-1 group-title="24/7",EL CHAPULIN COLORADO
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/30641.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO 1
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225537.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090975.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://directo.ddns.me:2082/live/stkalval/7409/48357.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091028.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/103841.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186860.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/103841.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO DEL 8 1
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/225537.ts
-#EXTINF:-1 group-title="24/7",EL MANDALORIAN
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
-#EXTINF:-1 group-title="24/7",EXPONIENDO INFIELES
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/58150.ts
-#EXTINF:-1 group-title="24/7",FAMILIA PELUCHE TEMP 1
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/246834.ts
-#EXTINF:-1 group-title="24/7",FBI
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358978.ts
-#EXTINF:-1 group-title="24/7",FBI
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176979.ts
-#EXTINF:-1 group-title="24/7",HUMOR
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282929.ts
-#EXTINF:-1 group-title="24/7",HUMOR ES LOS COMEDIANTES
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/296950.ts
-#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358971.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA P.LUCHE HD
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65933.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PELUCHE
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091010.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155605.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/200378.ts
-#EXTINF:-1 group-title="24/7",LA FAMILIA PLUCHE HD
-http://fivetv.org:25461/live/Boliv4rT/2023BT/25195.ts
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://play.steeltv.org:8080/live/12605/YNHPV/107927.ts
-#EXTINF:-1 group-title="24/7",LA PANTERA ROSA
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/211114.ts
-#EXTINF:-1 group-title="24/7",LAURA BOZO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
-#EXTINF:-1 group-title="24/7",LAURA BOZO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186867.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186869.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/291793.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265628.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2091013.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265628.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 1-5
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294010.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 12-17
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294012.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 18-21
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294013.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 2
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/359090.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 27-30
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294014.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS 6-11
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/294011.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS HD
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2091015.ts
-#EXTINF:-1 group-title="24/7",LUISITO COMUNICA
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/176971.ts
-#EXTINF:-1 group-title="24/7",MALCOM
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/225563.ts
-#EXTINF:-1 group-title="24/7",MALCOM EL DEL MEDIO
-http://fivetv.org:25461/live/Boliv4rT/2023BT/23974.ts
-#EXTINF:-1 group-title="24/7",MISTERIOS
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282897.ts
-#EXTINF:-1 group-title="24/7",MR BEAN HD
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/63096.ts
-#EXTINF:-1 group-title="24/7",NARCOS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090920.ts
-#EXTINF:-1 group-title="24/7",NATURALEZA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282909.ts
-#EXTINF:-1 group-title="24/7",NCIS
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/463266.ts
-#EXTINF:-1 group-title="24/7",NCIS LA
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/155616.ts
-#EXTINF:-1 group-title="24/7",PATRULLA FRONTERIZA
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265668.ts
-#EXTINF:-1 group-title="24/7",SIMPSONS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/1bc1f5800dcbe1ec3ea0d4dbefc064c537c0c6e08d66bb6cd783250277cc0ab2.jpg" group-title="24/7",100 MEXICANOS DIJERON
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1316784.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmZTk0M2EtZmUwMi00OTk0LTk2ODEtMDMyYjcyMDQxYWY1XkEyXkFqcGc@._V1_.jpg" group-title="24/7",AL DERECHO Y AL DERBEZ
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/9070.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BM2VmZTk0M2EtZmUwMi00OTk0LTk2ODEtMDMyYjcyMDQxYWY1XkEyXkFqcGc@._V1_.jpg" group-title="24/7",AL DERECHO Y AL DERVEZ II
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9070.ts
+#EXTINF:-1 tvg-logo="https://www.elsoldemexico.com.mx/gossip/ays23-alienigenas-ancestrales-.jpg/ALTERNATES/LANDSCAPE_1140/Alien%C3%ADgenas%20ancestrales%20.jpg" group-title="24/7",ALIENIGENAS ANCESTRALES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1625698.ts
+#EXTINF:-1 tvg-logo="https://media.gq.com.mx/photos/5bfdcc8f4958a1bc759a27bd/4:3/w_900,h_675,c_limit/bob%20esponja.jpg" group-title="24/7",BOB ESPONJA
+http://alfatv.lat:2082/live/Gerardo1107@/ncc8HerREv84/541333.ts
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/18/04/04/22/52/3191575.jpg" group-title="24/7",BREAKING BAD
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/9113.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVgqwV47exqeXGYyy6PWixj00cUVS5eq9BQ&s" group-title="24/7",CAZADORES DE MITOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1654718.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtAQH8IINR9NWoxI1Wh_xd62fGa75reISCA&s" group-title="24/7",CERO EN CONDUCTA
+http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/296951.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fsk00V/Chespirito1991.png" group-title="24/7",CHESPIRITO
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/72871.ts
+#EXTINF:-1 tvg-logo="https://www.paredro.com/wp-content/uploads/2014/11/chespirito-.jpg" group-title="24/7",CHESPIRITO II
+http://tvlatino.club:2082/live/Patiperu133/FwG84e6PtJfB/304514.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/0b6aa3172f181d41d2176c85c61bcedd9e6db2db1b9725cf9cef0443c1b3d440.jpg" group-title="24/7",CHESPIRITO III
+http://novared.pro:8080/live/nj7654pared/milton7654nj/234866.ts
+#EXTINF:-1 tvg-logo="https://www.muycomputer.com/wp-content/uploads/2019/04/NuestroPlaneta.jpg" group-title="24/7",DOCUMENTALES 1 UHD
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/162548.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzewNTrY1Fzaaqv8CKSRx2E7IlApoEwoTbw&s" group-title="24/7",DOCUMENTALES 2
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/162548.ts
+#EXTINF:-1 tvg-logo="https://www.educaciontrespuntocero.com/wp-content/uploads/2020/04/be25fad6d927597f3415496b3ba1b038640622418-1.jpg" group-title="24/7",DOCUMENTALES 7
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1430979.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4PIq8mI-rGDmFO-3PD0VfT-aCln7dICmc5g&s" group-title="24/7",DOCUMENTALES PLUS
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/162549.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWI52V1DibNnkbJO9KArr9Hx4qTrwFtQyzQ&s" group-title="24/7",DRAGON BALL SUPER
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1372351.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81Z-WeVM-sS._AC_UF894,1000_QL80_.jpg" group-title="24/7",Dragon Ball Super 2
+http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/438.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91P6kYDXLOL.jpg" group-title="24/7",DRAGON BALL SUPER 3
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/49939.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/748/698/png-transparent-super-dragonball-z-illustration-dragon-ball-heroes-goku-beerus-majin-buu-videl-dragon-ball-super-hd-computer-wallpaper-fictional-character-cartoon-thumbnail.png" group-title="24/7",DRAGON BALL SUPER III
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/7876.ts
+#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/126371731/s332/el-chapulin-colorado" group-title="24/7",EL CHAPULIN COLORADO
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149698.ts
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/11/10/42/410953.jpg" group-title="24/7",EL CHAVO DEL 8
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/56884.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsNsA1uw3crK1DP68Kv1MssAeVydgDpJq1_D_iub3t8782KosMoR5LEWRZH9A4FgHD87o&usqp=CAU" group-title="24/7",EL CHAVO DEL 8 II
+http://play.steeltv.org:8080/live/12605/YNHPV/216295.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51vVKvBMbtL._AC_UF894,1000_QL80_.jpg" group-title="24/7",EL CHAVO DEL 8 III
+http://play.steeltv.org:8080/live/12605/YNHPV/531614.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/0/06/Chavoposter.jpg/revision/latest?cb=20211011204936&path-prefix=es" group-title="24/7",EL CHAVO DEL 8 IV
+http://novared.pro:8080/live/nj7654pared/milton7654nj/401813.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQll2ln9c7FcuMXDQwv1DCIIFXY8rssvwSiYg&s" group-title="24/7",EL CHAVO DEL 8 TV
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/48357.ts
+#EXTINF:-1 tvg-logo="https://cdn.podimo.com/images/ef68459d-0768-473b-9aa4-4d2db7f85ff9_400x400.png" group-title="24/7",EL CUARTO MILENIO
+http://648112256199491456.ofnm1026.xyz:80/live/JcJc524D/Appmmdmmp121/932851.ts
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/videos/video:mcp:4298716/89b1f96186562a73f51470acbb783a15" group-title="24/7",EL PRIVILEGIO DE MANDAR
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7385.ts
+#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/306875789/s718/la-escuelita-vip.jpg" group-title="24/7",ESCUELITA VIP 2
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9094.ts
+#EXTINF:-1 tvg-logo="https://www.infobae.com/new-resizer/VCfTSVduDKsVoT_1op5N-t-eqbQ=/arc-anglerfish-arc2-prod-infobae/public/GYSHQIOE35DMPME4HRIHTBCRJQ.jpg" group-title="24/7",EXTRA NORMAL HD
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1710386.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFjZDZkZTctNDBiMy00YzJlLWFkYTAtYzRiYmZjNzgwYTgxXkEyXkFqcGc@._V1_.jpg" group-title="24/7",FAMILIA PELUCHE
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8524.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS9ppTg3s3OBofteWVVvnEi3tEHHMqUTtd-w&s" group-title="24/7",GUERRA DE CHISTES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1395046.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D8KggCqUwAAm9Gl.jpg" group-title="24/7",HUEVO CARTOONS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1665662.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="24/7",Humor es Los Comediantes
+http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/296950.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRmMWVmNzUtZjFlYy00MzFkLThhOTctOWE2OTRkNjMzMTY1XkEyXkFqcGc@._V1_.jpg" group-title="24/7",HXDERBEZ
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9025.ts
+#EXTINF:-1 tvg-logo="https://milapsuslinguae.wordpress.com/wp-content/uploads/2017/01/maxresdefault.jpg?w=1280" group-title="24/7",JAJAJA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1395058.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_K7SDQBjp0JSsjPmNqSOJQEQxxYjkNvUjSQ&s" group-title="24/7",KILOS MORTALES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1651354.ts
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_705303-MLM50915287702_072022-O.webp" group-title="24/7",LA CASA DE LA RISA 1
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9111.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWQzYjU5MzYtNGY3NC00ZGYzLThhN2QtNDRlYmIzMWI5YzU4XkEyXkFqcGc@._V1_.jpg" group-title="24/7",LA FAMILIA P-LUCHE
+http://novared.pro:8080/live/nj7654pared/milton7654nj/401818.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51BMzh0YHTL._AC_UF894,1000_QL80_.jpg" group-title="24/7",LA FAMILIA P-LUCHE II
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/8524.ts
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/The-Simpsons-TV-Series.jpg" group-title="24/7",LOS SIMPSONS
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/174070.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/wiki-doblaje-espana/images/1/18/Los_Simpson.png/revision/latest?cb=20230902035123&path-prefix=es" group-title="24/7",LOS SIMPSONS HD
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/8108.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Li4mLEIX7jM/maxresdefault.jpg" group-title="24/7",LOS SIMPSONS II
+http://play.steeltv.org:8080/live/12605/YNHPV/531605.ts
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/the-simpsons-5.svg" group-title="24/7",LOS SIMPSONS III
+http://novared.pro:8080/live/nj7654pared/milton7654nj/357949.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/8/80/The_Simpsons_-_poster_%28Spanish%29.jpg/revision/latest?cb=20221228015317" group-title="24/7",LOS SIMPSONS X
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/7881.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDqU6zDeDxAJ_kjPlh3SAQLMfc0YcnxYCJw&s" group-title="24/7",MALCOM
+http://alfatv.lat:2082/live/Gerardo1107@/ncc8HerREv84/541314.ts
+#EXTINF:-1 tvg-logo="https://isakyn.wordpress.com/wp-content/uploads/2015/07/docu.jpg?w=584" group-title="24/7",MASTER DOCUMENTALES
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/128888.ts
+#EXTINF:-1 tvg-logo="https://assets.openmoviemap.com/images/productions/560/104.jpg" group-title="24/7",MR. BEAN
+http://spacetvplay.com:8080/live/Tvgo/jvrn5bUNBKR9/177113.ts
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/251919393202173-nm_200.jpg" group-title="24/7",NATGEO NATURALEZA
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9024.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81QzqBVEq4L._AC_UF1000,1000_QL80_.jpg" group-title="24/7",NATGEO PLANETAS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8559.ts
+#EXTINF:-1 tvg-logo="https://museodeprensa.udp.cl/cms/wp-content/uploads/2020/02/sabado-gigante1.jpg" group-title="24/7",SABADO GIGANTE
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/623920.ts
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/preset/preview/large/2/2/3/1/1322_00d9f.png" group-title="24/7",SIMPSONS
 http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469571.ts
-#EXTINF:-1 group-title="24/7",SPARTACUS
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358974.ts
-#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
-#EXTINF:-1 group-title="24/7",THE GOOD DOCTOR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/186870.ts
-#EXTINF:-1 group-title="24/7",THE MANDALORIAN
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139703.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/34966.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358977.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://fivetv.org:25461/live/Boliv4rT/2023BT/23852.ts
-#EXTINF:-1 group-title="24/7",UNA FAMILIA DE 10
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/358977.ts
-#EXTINF:-1 group-title="24/7",VECINOS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/189870.ts
-#EXTINF:-1 group-title="24/7",XHDERBEZ
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/61130.ts
-#EXTINF:-1 group-title="24/7",CHICAGO PD
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531606.ts
-#EXTINF:-1 group-title="24/7",LA HORA PICO
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/107927.ts
-#EXTINF:-1 group-title="24/7",JUEGO DE TRONOS
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168730.ts
-#EXTINF:-1 group-title="24/7",CSI LAS VEGAS
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/181401.ts
-#EXTINF:-1 group-title="24/7",CSI MIAMI HD
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/181402.ts
-#EXTINF:-1 group-title="24/7",NCIS LOS ANGELES
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/49181.ts
-#EXTINF:-1 group-title="24/7",EL CHAVO HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58120.ts
-#EXTINF:-1 group-title="24/7",HAGALO USTED MISMO HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58131.ts
-#EXTINF:-1 group-title="24/7",LOS SIMPSONS HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58314.ts
-#EXTINF:-1 group-title="24/7",DRAGON BALL SUPER HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58273.ts
-#EXTINF:-1 group-title="24/7",DOCUMENTALES
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333129.ts
-#EXTINF:-1 group-title="24/7",SIMPSONS FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333158.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282884.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/289258.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49492.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/304637.ts
-#EXTINF:-1 group-title="CINE",ACCION
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469576.ts
-#EXTINF:-1 group-title="CINE",ACCION 2
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177061.ts
-#EXTINF:-1 group-title="CINE",ACCION 3
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177062.ts
-#EXTINF:-1 group-title="CINE",ACCION 4
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177064.ts
-#EXTINF:-1 group-title="CINE",ACCION 5
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/177063.ts
-#EXTINF:-1 group-title="CINE",ACCION NETFLIX
-http://355517919688385019.ofkd0722.xyz:80/live/fe1219130/PMNpM8aCNAcN/894521.ts
-#EXTINF:-1 group-title="CINE",ACCION NETFLIX 2
-http://355517919688385019.ofkd0722.xyz:80/live/fe1219130/PMNpM8aCNAcN/894522.ts
-#EXTINF:-1 group-title="CINE",AMAZON
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185031.ts
-#EXTINF:-1 group-title="CINE",AMAZON
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405854.ts
-#EXTINF:-1 group-title="CINE",ARNOLD
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/564063.ts
-#EXTINF:-1 group-title="CINE",ARNOLD
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/564063.ts
-#EXTINF:-1 group-title="CINE",BRUCE LEE
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/284511.ts
-#EXTINF:-1 group-title="CINE",CANAL PELICULAS 4K
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/90087.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/556360.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/117814.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/28069.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090937.ts
-#EXTINF:-1 group-title="CINE",CANTINFLAS
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/11526.ts
-#EXTINF:-1 group-title="CINE",CARS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724278.ts
-#EXTINF:-1 group-title="CINE",CINECANAL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10844.ts
-#EXTINF:-1 group-title="CINE",CINEMA 20
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/210827.ts
-#EXTINF:-1 group-title="CINE",CINEMAX
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10846.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278167.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282885.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157659.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/265668.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139700.ts
-#EXTINF:-1 group-title="CINE",COMEDIA 2
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090925.ts
-#EXTINF:-1 group-title="CINE",COMEDIA 2
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090925.ts
-#EXTINF:-1 group-title="CINE",DISNEY
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185032.ts
-#EXTINF:-1 group-title="CINE",DISNEY
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469577.ts
-#EXTINF:-1 group-title="CINE",DISNEY PIXAR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/24490.ts
-#EXTINF:-1 group-title="CINE",DISNEY PIXAR
-http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
-#EXTINF:-1 group-title="CINE",FAMILIA
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405848.ts
-#EXTINF:-1 group-title="CINE",FAMILIA
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139699.ts
-#EXTINF:-1 group-title="CINE",FAMILIA 1
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49493.ts
-#EXTINF:-1 group-title="CINE",FAMILIA2
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49490.ts
-#EXTINF:-1 group-title="CINE",FANTASIA SAGAS
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090928.ts
-#EXTINF:-1 group-title="CINE",HARRY POTTER
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/358973.ts
-#EXTINF:-1 group-title="CINE",HORROR
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405841.ts
-#EXTINF:-1 group-title="CINE",HORROR
-http://directo.ddns.me:2082/live/stkalval/7409/31710.ts
-#EXTINF:-1 group-title="CINE",INFANTILES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723825.ts
-#EXTINF:-1 group-title="CINE",JACKIE CHAN
-http://galaxypro.online:8080/live/Monicamaroto04/Camila0401/380786.ts
-#EXTINF:-1 group-title="CINE",JACKIE CHAN
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380786.ts
-#EXTINF:-1 group-title="CINE",LATINO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/1407.ts
-#EXTINF:-1 group-title="CINE",LEGO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/297300.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2090921.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/49495.ts
-#EXTINF:-1 group-title="CINE",MARVEL
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/380794.ts
-#EXTINF:-1 group-title="CINE",MARVEL 2
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139694.ts
-#EXTINF:-1 group-title="CINE",MARVEL 4
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139696.ts
-#EXTINF:-1 group-title="CINE",MARVEL 5
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139697.ts
-#EXTINF:-1 group-title="CINE",MARVEL 6
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139698.ts
-#EXTINF:-1 group-title="CINE",MARVEL INFINITO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2133201.ts
-#EXTINF:-1 group-title="CINE",MARVEL SAGA INFINITO
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2133201.ts
-#EXTINF:-1 group-title="CINE",MY TIME
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405838.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 1
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176198.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 2
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176199.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 3
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176200.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 4
-http://fivetv.org:25461/live/Boliv4rT/2023BT/176201.ts
-#EXTINF:-1 group-title="CINE",PANICO
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2217005.ts
-#EXTINF:-1 group-title="CINE",PANICO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2217005.ts
-#EXTINF:-1 group-title="CINE",PANICO
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/319427.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185034.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405857.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
-#EXTINF:-1 group-title="CINE",PARAMOUNT MOVIES INFANTILES
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
-#EXTINF:-1 group-title="CINE",PEDRO INFANTE
-http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/265669.ts
-#EXTINF:-1 group-title="CINE",PELICULAS DISNEY
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723822.ts
-#EXTINF:-1 group-title="CINE",PLANETA DE LOS SIMIOS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723824.ts
-#EXTINF:-1 group-title="CINE",PPV C 2
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6076.ts
-#EXTINF:-1 group-title="CINE",PPV CINEMA 01
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6077.ts
-#EXTINF:-1 group-title="CINE",PPV CINEMA 4K
-http://tv.soccerplus.link:8000/live/mariagarcia/5146496994/65852.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 1
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75171.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 2
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75173.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 3
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75174.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 4
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75175.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 5
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75177.ts
-#EXTINF:-1 group-title="CINE",PPV LATINOS 6
-http://fivetv.org:25461/live/Boliv4rT/2023BT/75178.ts
-#EXTINF:-1 group-title="CINE",PPVC 10
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6068.ts
-#EXTINF:-1 group-title="CINE",PPVC 11
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6067.ts
-#EXTINF:-1 group-title="CINE",PPVC 14
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6064.ts
-#EXTINF:-1 group-title="CINE",PPVC 15
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6063.ts
-#EXTINF:-1 group-title="CINE",PPVC 16
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6062.ts
-#EXTINF:-1 group-title="CINE",PPVC 18
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6060.ts
-#EXTINF:-1 group-title="CINE",PPVC 19
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6059.ts
-#EXTINF:-1 group-title="CINE",PPVC 6
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6072.ts
-#EXTINF:-1 group-title="CINE",PPVC 9
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6069.ts
-#EXTINF:-1 group-title="CINE",PPVC12
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6066.ts
-#EXTINF:-1 group-title="CINE",PPVC13
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6065.ts
-#EXTINF:-1 group-title="CINE",PPVC17
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6061.ts
-#EXTINF:-1 group-title="CINE",PPVC5
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6073.ts
-#EXTINF:-1 group-title="CINE",PPVC8
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/6070.ts
-#EXTINF:-1 group-title="CINE",SAGAS
-http://fivetv.org:25461/live/Boliv4rT/2023BT/181930.ts
-#EXTINF:-1 group-title="CINE",SCREAM
-http://fivetv.org:25461/live/Boliv4rT/2023BT/181929.ts
-#EXTINF:-1 group-title="CINE",STAR WARS
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723823.ts
-#EXTINF:-1 group-title="CINE",STAR+
-http://fivetv.org:25461/live/Boliv4rT/2023BT/185035.ts
-#EXTINF:-1 group-title="CINE",STUDIO
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/10872.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/469575.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2157660.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/282886.ts
-#EXTINF:-1 group-title="CINE",TERROR
-http://fivetv.org:25461/live/Boliv4rT/2023BT/139701.ts
-#EXTINF:-1 group-title="CINE",TERROR HD
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090934.ts
-#EXTINF:-1 group-title="CINE",TERROR HD
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2090934.ts
-#EXTINF:-1 group-title="CINE",TOY STORY
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724277.ts
-#EXTINF:-1 group-title="CINE",TRANSFORMERS
-http://tv-cool.com:25461/live/T3cnoMolly/tWR7gfVNydSp/62778.ts
-#EXTINF:-1 group-title="CINE",TU CINE 2
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405837.ts
-#EXTINF:-1 group-title="CINE",UNIVERSAL
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/2081448.ts
-#EXTINF:-1 group-title="CINE",UNIVERSAL
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2081448.ts
-#EXTINF:-1 group-title="CINE",UNIVERSAL
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/278168.ts
-#EXTINF:-1 group-title="CINE",UNIVERSE
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/389812.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO DC
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23941.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO EL CONJURO
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41045.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO HARRY POTTER
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23947.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO MARVEL
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/23939.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO MISION IMPOSIBLE
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41046.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO PIXAR
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/30266.ts
-#EXTINF:-1 group-title="CINE",UNIVERSO XMAN
-http://xdplayer.tv:8080/live/panchoelgueta/pXFlvrVQu2/41080.ts
-#EXTINF:-1 group-title="CINE",VIP 04
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405862.ts
-#EXTINF:-1 group-title="CINE",VIP 05
-http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405863.ts
-#EXTINF:-1 group-title="CINE",X-MAN
-http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723826.ts
-#EXTINF:-1 group-title="CINE",CINEMA 14
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/210821.ts
-#EXTINF:-1 group-title="CINE",CINEMA 13
-http://maiolve.club:80/live/jeschav/n8YmxHpeht/210820.ts
-#EXTINF:-1 group-title="CINE",DC UNIVERSE HD
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177323.ts
-#EXTINF:-1 group-title="CINE",DISNEY FAMILY HD
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177324.ts
-#EXTINF:-1 group-title="CINE",PIXAR HD
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177339.ts
-#EXTINF:-1 group-title="CINE",LEGO
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177331.ts
-#EXTINF:-1 group-title="CINE",DREAMWORKS
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177326.ts
-#EXTINF:-1 group-title="CINE",JOHN WICK
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531600.ts
-#EXTINF:-1 group-title="CINE",DURO DE MATAR
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531601.ts
-#EXTINF:-1 group-title="CINE",MATRIX
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531616.ts
-#EXTINF:-1 group-title="CINE",ESTRENOS 2024
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531637.ts
-#EXTINF:-1 group-title="CINE",TERMINATOR
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531638.ts
-#EXTINF:-1 group-title="CINE",LATINO
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531671.ts
-#EXTINF:-1 group-title="CINE",KUN FU PANDA
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531680.ts
-#EXTINF:-1 group-title="CINE",PIRATAS DE CARIBE
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531712.ts
-#EXTINF:-1 group-title="CINE",HARRY POTTER
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531713.ts
-#EXTINF:-1 group-title="CINE",CIENCIA FICCION
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531714.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 1
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168559.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 2
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168560.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 3
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168561.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 4
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168562.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 5
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168563.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 6
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168564.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 7
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168565.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 10 KIDS
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168566.ts
-#EXTINF:-1 group-title="CINE",NETFLIX 11 KIDS
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168567.ts
-#EXTINF:-1 group-title="CINE",NETFLIX AVENTURA
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168568.ts
-#EXTINF:-1 group-title="CINE",NETFLIX LAT 18
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168569.ts
-#EXTINF:-1 group-title="CINE",NETFLIX LAT 20
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168570.ts
-#EXTINF:-1 group-title="CINE",H O MAX
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168613.ts
-#EXTINF:-1 group-title="CINE",H O MAX 2
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168614.ts
-#EXTINF:-1 group-title="CINE",H O MAX 3
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168615.ts
-#EXTINF:-1 group-title="CINE",H O MAX 5
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168617.ts
-#EXTINF:-1 group-title="CINE",H O MAX 6
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168618.ts
-#EXTINF:-1 group-title="CINE",CIENCIA FICCION HD
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168732.ts
-#EXTINF:-1 group-title="CINE",HORROR HD
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168734.ts
-#EXTINF:-1 group-title="CINE",LA INDIA MARIA
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168754.ts
-#EXTINF:-1 group-title="CINE",TRANSFORMERS
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168757.ts
-#EXTINF:-1 group-title="CINE",H O MAX 7
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168619.ts
-#EXTINF:-1 group-title="CINE",H O MAX 8
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168620.ts
-#EXTINF:-1 group-title="CINE",H O MAX 9
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168621.ts
-#EXTINF:-1 group-title="CINE",H O MAX 10
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168622.ts
-#EXTINF:-1 group-title="CINE",H O MAX 11
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168623.ts
-#EXTINF:-1 group-title="CINE",H O MAX 12
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168624.ts
-#EXTINF:-1 group-title="CINE",H O MAX 13
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168625.ts
-#EXTINF:-1 group-title="CINE",H O MAX 14
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168626.ts
-#EXTINF:-1 group-title="CINE",H O MAX 15
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168627.ts
-#EXTINF:-1 group-title="CINE",MARVEL HD
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168728.ts
-#EXTINF:-1 group-title="CINE",DC UNIVERSE HD
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/168731.ts
-#EXTINF:-1 group-title="CINE",ACCION FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXP6gxKeE_mgcicTL5wdmhQwwxd2MTR5HZMw&s" group-title="24/7",TACANOS EXTREMOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1651353.ts
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/07/09/14/34/1532536.jpg?coixp=57&coiyp=52" group-title="24/7",THE BOYS
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/9069.ts
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/88/80/26/88802646-9bc0-8215-f001-fea9b192ffa7/mza_6493557136974204203.jpg/1200x1200bf-60.jpg" group-title="24/7",VIVIR CON GATOS
+http://626008417455464717.ofnm1026.xyz:80/live/zh410999/hcPmPqU@gT/956661.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM-alZMl5yL3zPL97isdj-EA8bx7MtGw1qVw&s" group-title="24/7",VIVIR CON PERROS
+http://626008417455464717.ofnm1026.xyz:80/live/zh410999/hcPmPqU@gT/959584.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/proxy/CDqTmSSG-HE9s-MwaF-PIP8raMaH_IMaF0ZCje-cq6u_EPSLy8QZFFmL9BqbMGljBdAWuTw6PtxpsYwI-niWY8vINk_mOKVbOPJevxi5hR65CvvKL-ChY_665ZuBu9NVVO2-7IRYzW2HGi7amN3DVwEiJ0uvp8ql5RO7jw" group-title="24/7",XH DERBEZ
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1579424.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGRmMWVmNzUtZjFlYy00MzFkLThhOTctOWE2OTRkNjMzMTY1XkEyXkFqcGc@._V1_.jpg" group-title="24/7",XHDERBEZ II
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/9025.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51Nk9FKvwqL._AC_UF894,1000_QL80_.jpg" group-title="MAGIA",David Blaine - Street Magic [DVD]
+http://78.47.245.146:81/jack/Movie/2013/David.Blaine.Real.Or.Magic/David.Blaine.Real.Or.Magic.2013.1080p.WEB-DL.x264.AAC5.1-YIFY.NightMovie.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51xe3NHRWkL._AC_UF894,1000_QL80_.jpg" group-title="MAGIA",David Blaine Real Or Magic TV Show
+http://78.47.245.146:81/jack/Movie/2013/David.Blaine.Real.Or.Magic/David.Blaine.Real.Or.Magic.2013.720p.WEB-DL.x264.AAC-YIFY.NightMovie.mp4
+#EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/312389436/s332/temporada-2" group-title="SERIES EDITH",911
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8591.ts
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/epik/imagenes/2019/02/16/portada/1550308021_326818_1550308238_noticia_normal.jpg" group-title="SERIES EDITH",EXPONIENDO INFIELES 2
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1605664.ts
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/05/17/16/12/4196633.jpg" group-title="SERIES EDITH",MONK
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7814.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU0M2VlMjMtOTM2MC00OWJmLWI1ZjgtNzBiZGY2NThkMGY3XkEyXkFqcGc@._V1_.jpg" group-title="SERIES EDITH",40 Y 20
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1413533.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3ODMxMzM5NF5BMl5BanBnXkFtZTgwMDM1NjU0OTE@._V1_QL75_UX190_CR0,6,190,281_.jpg" group-title="SERIES EDITH",BONES
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7555.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61HtVcB7oHL._AC_UF894,1000_QL80_.jpg" group-title="SERIES EDITH",BROOKLYN
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7882.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71p5YGjbbCL._AC_UF350,350_QL50_.jpg" group-title="SERIES EDITH",CASTLE
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7584.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71HBFX6utcL.jpg" group-title="SERIES EDITH",CHICAGO FIRE
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9085.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDgwYjlhMGItMDQ3YS00OGQyLWFiMTQtYzkwNTUzNjE4NzIwXkEyXkFqcGc@._V1_.jpg" group-title="SERIES EDITH",CHICAGO FIRE 2
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9292.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2ZhMTljMTAtNGUxNC00NDMxLThiMDEtYjBiNzU3OGNmNmVlXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg" group-title="SERIES EDITH",CHICAGO PD
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8656.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/mentescriminales/images/6/6d/Season_12.jpg/revision/latest?cb=20210501025634&path-prefix=es" group-title="SERIES EDITH",CRIMINAL MINDS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9000.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/618aIeRO2fL._AC_UF894,1000_QL80_.jpg" group-title="SERIES EDITH",CRIMINAL MINDS 2
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8576.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2ViMTAyNDMtYjZiOC00YjM1LWI3ODItZDk1ZGE4MzFlMzZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="SERIES EDITH",CSI LAS VEGAS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8955.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91WNH8j5F8L._AC_UF894,1000_QL80_.jpg" group-title="SERIES EDITH",CSI MIAMI
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/9294.ts
+#EXTINF:-1 tvg-logo="https://oceano.mx/img/obra/media/15000.jpg" group-title="SERIES EDITH",CUELLO BLANCO
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7985.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSS9xi2ZKDh3D4Fs1OhUp-TUaNevv1WAX4-A&s" group-title="SERIES EDITH",DR HOUSE
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7866.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/4/41/The-mentalist.jpg/revision/latest?cb=20210314161515&path-prefix=es" group-title="SERIES EDITH",EL MENTALISTA
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7877.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EGuDnWnepJOpmUTOc9cVClhOsWOET-jvbw&s" group-title="SERIES EDITH",FBI
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/10770.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfB4hKRma7vc-ln2VJH521MQpn5bnS4aC4VQ&s" group-title="SERIES EDITH",HARRY POTTER
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8741.ts
+#EXTINF:-1 tvg-logo="https://www.sdpnoticias.com/resizer/v2/QJXFHWCCXNGYVAAMSVILA2Q3NE.jpg?smart=true&auth=b28f0543a4a8a4a1e79389edb38ec41c6f916a2813c26528282d1d7b3285e9d1&width=718&height=1024" group-title="SERIES EDITH",LA LEY Y EL ORDEN
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7644.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/9136U-QAfJL._AC_UF894,1000_QL80_.jpg" group-title="SERIES EDITH",LA LEY Y EL ORDEN AMAZON
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7975.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6o3QlS6iQDgoMZmoc9KFGzMoqsXjBFzNX5gSTYZoeZnvzqdaeh8QkfANS-11gyFVrWDCIs6K=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES EDITH",MUJERES ASESINAS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7974.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmE4MmNjZjUtNTEyNy00NTZiLWE4NTktYjM2NjBhYzQ1N2IzXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg" group-title="SERIES EDITH",SUITS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7976.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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cehaeJ/lP0YveA6+uPS5Iv8A8PW+U938/Uy15wokaNL25SmNiEQ4MMNhg9OAH4qtxXLqstpiN7TvP3S8qw+dwUWDdFGMnOcHDMN4GS09R26jmp9Brsmjy9qOnfDy1YtCFy8OY2eXc1820jdOCRwew9D+I8vNXbPTFxDS+pO8T0+E/vVrxvWyyz18SclS/iBitcCMgN4ntwVJx8K1OTL5vszGzY7cRG6KXjeke5o5EQlkLOjB+uOKunD+GYtJXlzt7/w17XmzWF0mIgICAgICAgICAgICAgICAgICAgICDYbAqnwi7IEwThpduO8nafng+i5/FMHntLevftvHyZUnazpPda/DsAkHLT0JBGQT2JHqvnlb2rvET15T9frDbSLbdXd6LDosE8PtH/k0fmfQK1eTml2i2efCPugy27n32OXTEmopoM3lwa0vY7mAMAg/ULDj+gpSI1FO+dph7itPRnto12SUhKmRnoTJmJjRh+X+Yaha/BdNrJntY7dmvv2+z3JNe9BHHJyrru138XgICAgICAgICAgICAgICAgICAgICAgIP6Dg5ag6ctCqfGbbgz2mXMAd/END9HL5rrtP5jUXx+6f6/6bdZ3jdDNotKmpO5Y0zVGHD3ktePulvBuD/Dj1V74XbHOlp5uekc/Hv3+bWvvvzYWi1mLRJh0xTnbrnMLCccjjOPoFPqNNj1FYrkjeInd5EzHR4o0V0eKYsYkuOpJ4lT1rFY2jo8fheggICAgICAgICAgICAgICAgICAgICAgICC0bJqqyl2REm6k8NYyM4Nz5NJ/ElU7jmntm1kUxxvM1jf8AtPjnavNqF/bQYlysMhKjdl85wRq4jgdeHouxwvhNdJ69p3t48o/LC9+00ZdlGICAgICAgICAgICAgICAgICAgICAgICAgICD6mYeZcS5cdwHO7nTPXCx7Fe12tufvHyWQICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIP/2Q==" group-title="CINE",ACCION FHD
 http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/36252.ts
-#EXTINF:-1 group-title="CINE",COMEDIA HD
+#EXTINF:-1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/B626BCSI2VMZVNULSNWJFXVXSI.jpg" group-title="CINE",ACTIVIDAD PARANORMAL
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1765441.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUp6tE4z4MHrNAfGHkWuioMvMfx-A7I4St4w&s" group-title="CINE",AMAZON
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405854.ts
+#EXTINF:-1 tvg-logo="https://www.mubis.es/media/users/3724/265430/desaparece-la-muneca-anabelle-del-museo-de-los-warren-original.jpg" group-title="CINE",ANABELLE
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/675783.ts
+#EXTINF:-1 tvg-logo="https://www.elsoldezacatecas.com.mx/cultura/f0dmc6-retrato-de-antonio-aguilar/ALTERNATES/LANDSCAPE_768/Retrato%20de%20Antonio%20Aguilar" group-title="CINE",ANTONIO AGUILAR
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1732699.ts
+#EXTINF:-1 tvg-logo="https://www.apple.com/newsroom/images/tile-images/Apple-introduces-apple-tv-plus-03252019.jpg.landing-big_2x.jpg" group-title="CINE",APPLE TV ESTRENOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1722624.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YfeTMH_yDI7tloUKjdoMF5Fw-bcaeI-ZkA&s" group-title="CINE",BOURNE SAGA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1381003.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-photo/bruce-lee-fighting-pose-600nw-2426142521.jpg" group-title="CINE",BRUCE LEE
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1732700.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a4/a2/63/a4a2638f922a7ff22f07b37f001bb08b.jpg" group-title="CINE",CANTINFLAS 3
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/149693.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/89/1f/8f/891f8f6c04aab00de781584603f770d7.jpg" group-title="CINE",CANTINFLAS 4
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/159339.ts
+#EXTINF:-1 tvg-logo="https://www.marthadebayle.com/wp-content/uploads/2018/08/cantinflas.jpg" group-title="CINE",CANTINFLAS HD
+http://tilinki.com:25461/live/yght11525/WoYWN/113742.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="CINE",CARS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1724278.ts
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FsE1ZFtaUAAFsKa.jpg" group-title="CINE",CHABELO MOVIES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1573868.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsYJ7nSdkHjQaBhi_X1XCtZpTNckcxmAEeA&s" group-title="CINE",CIENCIA FICCION
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531714.ts
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="CINE",CINE LATINO 01
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2205.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="CINE",CINE LATINO 02
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2206.ts
+#EXTINF:-1 tvg-logo="https://wp-shoot.s3.amazonaws.com/wp-content/uploads/2022/03/cinelatino.png" group-title="CINE",CINE LATINO 03
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2207.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtv6u0Pn7Zs9mYjL6GGGIml5Ah3ZjsN4PtjM4u5CqAlPt7SMXjpfyzpAJsOVnqHiht1fo&usqp=CAU" group-title="CINE",CINE LATINO 04
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2208.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxG0vzSkbOvrPH-m67_T3YSxn_eZQ4l-hlgbw13klwxzJDaG8-gBm8a0sZQazZt3TsEfM&usqp=CAU" group-title="CINE",CINE LATINO 05
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2209.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqFfGliy2wsOnW_G72OdorSFn5_A0DtbKhUOP-xGbk7pVMxnjyFPhxTxMrKHW1lHV8wE&usqp=CAU" group-title="CINE",CINE LATINO 06
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2210.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0HkVvPuT8asWPNQT0LRqz_QXvFnwTFLjNo0zUFhQYwvfZcsk05xAqi06qlvIWmQlY2E&usqp=CAU" group-title="CINE",CINE LATINO 08
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2212.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-E2Rd2biDTgZ9VUbID5kaQG139fTHrFso8OKh_P-QTcUXbr4ENz1lB3NpKEEBPmoutM0&usqp=CAU" group-title="CINE",CINE LATINO 11
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2215.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="CINE",CINE LATINO 12
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2216.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/564/311/png-transparent-san-diego-latino-film-festival-cinelatino-television-channel-logo-legendary-film-logo-television-text-logo.png" group-title="CINE",CINE LATINO 13
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2217.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/564/311/png-transparent-san-diego-latino-film-festival-cinelatino-television-channel-logo-legendary-film-logo-television-text-logo.png" group-title="CINE",CINE LATINO 15
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2219.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/564/311/png-transparent-san-diego-latino-film-festival-cinelatino-television-channel-logo-legendary-film-logo-television-text-logo.png" group-title="CINE",CINE LATINO 22
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/2225.ts
+#EXTINF:-1 tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/Cinepop_logo_500x500px_Blanc.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.8.1" group-title="CINE",CINE POP
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/167505.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ9jScHEB0CNP_-t5VvHhfgkf6HEBIhW2Qzfzk6Fqiqv-zhNdu2Vr2ao2Ivm3dhIEAf8&usqp=CAU" group-title="CINE",CINE POP10
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/167513.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ9jScHEB0CNP_-t5VvHhfgkf6HEBIhW2Qzfzk6Fqiqv-zhNdu2Vr2ao2Ivm3dhIEAf8&usqp=CAU" group-title="CINE",CINE POP6
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/167510.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiJ9jScHEB0CNP_-t5VvHhfgkf6HEBIhW2Qzfzk6Fqiqv-zhNdu2Vr2ao2Ivm3dhIEAf8&usqp=CAU" group-title="CINE",CINE POP9
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/167512.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2MpWXjyaBItWcK3ooiMzQTsE3ZolNkOIUA&s" group-title="CINE",CINE RUN
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/162971.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Grx2F2iS2Tk/maxresdefault.jpg" group-title="CINE",CINEMA 1 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338276.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtacbDWDVAcXdBL_tT7QOW_rr71XUykOWFw&s" group-title="CINE",CINEMA 10 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338285.ts
+#EXTINF:-1 tvg-logo="https://en.kingofsat.net/jpg/skycinema2.jpg" group-title="CINE",CINEMA 2 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338277.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17so-OlupJxhvPgWFGC2f_o_RV224Q7t0-A&s" group-title="CINE",CINEMA 4 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338279.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_JMvZRcqpCLBVnpZSf7tvbI_nxCaCdm7-g&s" group-title="CINE",CINEMA 6 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338281.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/V7XdB-Cq8S0/hqdefault.jpg" group-title="CINE",CINEMA 7 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338282.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoK7vDcrAewjnd6jEn5FZP3RYL94zIFGZZww&s" group-title="CINE",CINEMA 8 4K
+http://castlempire.site:80/live/davidtorrado3/636bdk/338283.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/a5/7f/05/a57f058551ce03b9a672103cb52ffc7b.jpg" group-title="CINE",CINEMA COMEDIA 2
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1125666.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/shutterstock/photos/1660820458/display_1500/stock-vector-ppv-pay-per-view-type-of-pay-television-or-webcast-service-that-enables-a-viewer-to-pay-to-watch-1660820458.jpg" group-title="CINE",CINEMA PPV 02
+http://br055.shop:8880/live/Danielhy829/Daniel-829h/2466.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLRexA9wbxT112NNH7MclzKc6Qz5gjsvEaw&s" group-title="CINE",CINEMA VIP 4
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/405862.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1NPLQXgO-K9lCswUFM_fDde9cQ5bcHuKCiA&s" group-title="CINE",CINEMA VIP 5
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/405863.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmZC1ydB1-rCEkhMWO0ElZc8KQEUhTYYD6bg&s" group-title="CINE",COMEDIA HD
 http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/36267.ts
-#EXTINF:-1 group-title="CINE",ESTRENOS 1
+#EXTINF:-1 tvg-logo="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000017753/d7a05a89def8bab8a39acf5748aa3c0db714ea1c2d61e0f13e0f5d5034cc726b" group-title="CINE",DC UNIVERSE HD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177323.ts
+#EXTINF:-1 tvg-logo="https://s1.elespanol.com/2015/01/23/el-cultural/el_cultural_5510547_219264498_1024x576.jpg" group-title="CINE",DENZEL WASHINGTON
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1763328.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aIMUkV3tOfLWCsw816XgE0L1ktqgy8iXnx_57XZsSV-3FHXHsPL1nhHuOhADQaOVjJX7uqMWPg=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",DISNEY
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/49822.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nLnauSxLeW64X3YozEryQEYTxYOWLNOIt17pj3g7fCluc=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",DISNEY + PELICULAS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723822.ts
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aIMUkV3tOfLWCsw816XgE0L1ktqgy8iXnx_57XZsSV-3FHXHsPL1nhHuOhADQaOVjJX7uqMWPg=s900-c-k-c0x00ffffff-no-rj" group-title="CINE",DISNEY FAMILY HD
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177324.ts
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/prisaradiomx/RPQW6QORPVMTJP53OPVK22GEKY.jpg" group-title="CINE",DISNEY PIXAR
+http://directo.ddns.me:2082/live/stkalval/7409/30390.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8d/98/ae/8d98ae8bbf0b5981375a7a35810f6086.jpg" group-title="CINE",DISNEY PIXAR 2
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/31708.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFT7DPjQxKVi1rlLw6GITdfhPCdS18xR2COA&s" group-title="CINE",DRAGON BALL MOVIES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1720725.ts
+#EXTINF:-1 tvg-logo="https://www.serfadu.com/wp-content/uploads/2020/10/cabecera-post-dreamworks-fb.jpg" group-title="CINE",DREAMWORKS 2
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/177326.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBe91-bhrOauDRxguDrONd6dvfA6WC4DXjg&s" group-title="CINE",EL SANTO
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1573379.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRDqU99xKNzhGx0WbpFA9spdj8psxRcO0xw&s" group-title="CINE",ESTRENOS 1
 http://systemvip265404.ddns.me:80/live/fNfzRGCMTN/MzGkkMB9Bz/44794.ts
-#EXTINF:-1 group-title="CINE",COMEDIA
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50575.ts
-#EXTINF:-1 group-title="CINE",DC UNIVERSE
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50577.ts
-#EXTINF:-1 group-title="CINE",DISNEY FAMILY HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50578.ts
-#EXTINF:-1 group-title="CINE",PIXAR HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50579.ts
-#EXTINF:-1 group-title="CINE",DREAMWORKS FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50580.ts
-#EXTINF:-1 group-title="CINE",HAPPY MADISON FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50582.ts
-#EXTINF:-1 group-title="CINE",HORROR FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50583.ts
-#EXTINF:-1 group-title="CINE",LEGO FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50584.ts
-#EXTINF:-1 group-title="CINE",MARVEL FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50586.ts
-#EXTINF:-1 group-title="CINE",MOVIECENTER KIDS FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50622.ts
-#EXTINF:-1 group-title="CINE",DISNEY LIVE ACTION FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/50595.ts
-#EXTINF:-1 group-title="CINE",MARVEL STUDIO FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/58068.ts
-#EXTINF:-1 group-title="CINE",CIENCIA FICCION HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333120.ts
-#EXTINF:-1 group-title="CINE",MARVEL FHD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333121.ts
-#EXTINF:-1 group-title="CINE",CINE ESTELAR HD
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/333122.ts
-#EXTINF:-1 group-title="CINE",PPV 1
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34477.ts
-#EXTINF:-1 group-title="CINE",PPV 2
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34478.ts
-#EXTINF:-1 group-title="CINE",PPV 3
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34479.ts
-#EXTINF:-1 group-title="CINE",PPV 5
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34481.ts
-#EXTINF:-1 group-title="CINE",PPV 6
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34482.ts
-#EXTINF:-1 group-title="CINE",PPV 7
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34483.ts
-#EXTINF:-1 group-title="CINE",PPV 8
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34484.ts
-#EXTINF:-1 group-title="CINE",PPV 9
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34485.ts
-#EXTINF:-1 group-title="CINE",PPV 10
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34486.ts
-#EXTINF:-1 group-title="CINE",PPV 11
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34487.ts
-#EXTINF:-1 group-title="CINE",PPV 12
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34488.ts
-#EXTINF:-1 group-title="CINE",PPV 13
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34489.ts
-#EXTINF:-1 group-title="CINE",PPV 14
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34490.ts
-#EXTINF:-1 group-title="CINE",PPV 15
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34491.ts
-#EXTINF:-1 group-title="CINE",PPV 16
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34492.ts
-#EXTINF:-1 group-title="CINE",PPV 17
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34493.ts
-#EXTINF:-1 group-title="CINE",PPV 18
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34494.ts
-#EXTINF:-1 group-title="CINE",PPV 19
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34495.ts
-#EXTINF:-1 group-title="CINE",PPV 20
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34496.ts
-#EXTINF:-1 group-title="CINE",PPV 21
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34497.ts
-#EXTINF:-1 group-title="CINE",PPV 24
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34500.ts
-#EXTINF:-1 group-title="CINE",PPV 25
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34501.ts
-#EXTINF:-1 group-title="CINE",PPV 26
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34502.ts
-#EXTINF:-1 group-title="CINE",PPV 27
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34503.ts
-#EXTINF:-1 group-title="CINE",PPV 28
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34504.ts
-#EXTINF:-1 group-title="CINE",PPV 30
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34506.ts
-#EXTINF:-1 group-title="CINE",PPV 31
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34507.ts
-#EXTINF:-1 group-title="CINE",PPV 32
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34508.ts
-#EXTINF:-1 group-title="CINE",PPV 33
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34509.ts
-#EXTINF:-1 group-title="CINE",PPV 34
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34510.ts
-#EXTINF:-1 group-title="CINE",PPV 35
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34511.ts
-#EXTINF:-1 group-title="CINE",PPV 36
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34512.ts
-#EXTINF:-1 group-title="CINE",PPV 37
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34513.ts
-#EXTINF:-1 group-title="CINE",STARZ
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34517.ts
-#EXTINF:-1 group-title="CINE",STAARZ COMEDY
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34519.ts
-#EXTINF:-1 group-title="CINE",ENCORE
-http://dnsplay.xyz:80/live/jwpvyanu/mj7UJy52t4/34524.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/49/e2/d7/49e2d72c9a05d3ee6cf346bc891ced9f.jpg" group-title="CINE",FAMILIA
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405848.ts
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b3f6e64-5dce-4f85-974c-075334fe81ca/d2p2uh5-02713344-b4f6-4bda-9c4b-14002ba98f4a.png/v1/fill/w_900,h_675,q_80,strp/harry_potter_logo_by_sprntrlfan_livvi_d2p2uh5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvOWIzZjZlNjQtNWRjZS00Zjg1LTk3NGMtMDc1MzM0ZmU4MWNhXC9kMnAydWg1LTAyNzEzMzQ0LWI0ZjYtNGJkYS05YzRiLTE0MDAyYmE5OGY0YS5wbmciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.SGYCKzryClxTXQbJ00iaNt4X51sgQPiJv4ueCELp8p0" group-title="CINE",HARRY POTTER
+http://spacetvplay.com:8080/live/miralatin2243/JJKTU/531713.ts
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/screenshot/default/estrenos-hbo-max-abril-2022_fqmn.jpg" group-title="CINE",HBO MAX ESTRENOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723068.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bfMiYfCmR5s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC6iOqk4yDDcOCEKPImCnCcDumtrQ" group-title="CINE",HBO MAX INFANTIL
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723069.ts
+#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/04/posesion-infernal-despertar-3011962.jpg?tf=1200x675" group-title="CINE",HBO MAX TERROR
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723114.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-illustration/super-hit-movies-wallpaper-background-260nw-1897959580.jpg" group-title="CINE",HITS
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/138483.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPW5EO5qi-q0qk0veqcdRL-kZ-8hQNOSBzTg&s" group-title="CINE",INDIANA JONES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1405781.ts
+#EXTINF:-1 tvg-logo="https://img.remediosdigitales.com/d89ce5/pelis-navidad/450_1000.jpeg" group-title="CINE",INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723825.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1maQnQ9B1hjL-fIyml3taWQUvWvVs2lzQRw&s" group-title="CINE",INFRAMUNDO SAGA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1421288.ts
+#EXTINF:-1 tvg-logo="https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/03/22/2023032210434678181.jpg" group-title="CINE",JACKIE CHAN
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1575038.ts
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/f3/62/f9/f362f94b04fef9dbce2d0a1189f25d13.jpg" group-title="CINE",JET LI
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1574034.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2CfrEfBzzxh289JwHNPYD8O8cfS3aUQCGuw&s" group-title="CINE",JURASSIC PARK
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1381002.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzvvQK5VG0MWQAMItNlnjgQqWPihUHIHg9hA&s" group-title="CINE",KEANU REVEES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1376279.ts
+#EXTINF:-1 tvg-logo="https://www.excelsiorcalifornia.com/wp-content/uploads/2023/09/maxresdefault.jpg?w=620" group-title="CINE",LA MONJA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1381912.ts
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/b7/ae/59dfc62a074c0669fe7f51300a20/la-risa-en-vacaciones-actores.jpg" group-title="CINE",LA RISA EN VACACIONES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1440738.ts
+#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Word-Logos/acci%C3%B3n-design-fluffy-name.png" group-title="CINE",MASTER ACCION
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/126394.ts
+#EXTINF:-1 tvg-logo="https://target.scene7.com/is/image/Target/Artboard2-200623-1592923569759?wid=668&qlt=80&fmt=pjpeg" group-title="CINE",MASTER DC COMICS
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/121400.ts
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/happy_madison_productions-164271615874673-nm_200.jpg" group-title="CINE",MASTER HAPPY MADISON
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/125270.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_C0NhhTAaXsJYcFXNzwvPN6uyKQ9hhWzO4Q&s" group-title="CINE",MASTER PIXAR
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/126611.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiUWQk0qxJAjKtmnQ2SGze6-XuPGkxigK1Q&s" group-title="CINE",MASTER SCI-FI
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/126571.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRf0HKkLUnAszlCsQ-FFxknQiAotMS_N4Vmw&s" group-title="CINE",MASTER SUSPENSO
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/127026.ts
+#EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/306844516/s718/maestros-del-terror.jpg" group-title="CINE",MASTER TERROR
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/120972.ts
+#EXTINF:-1 tvg-logo="https://cinepremiere.com.mx/wp-content/uploads/2019/01/misionimposible.jpg" group-title="CINE",MISION IMPOSIBLE
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1405709.ts
+#EXTINF:-1 group-title="CINE",MOVIES 4K 02
+http://galaxypro.online:8080/live/CARLOSN6111/rK8VZN379DWg/657211.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AMwJ4a9ny7k/maxresdefault.jpg" group-title="CINE",MOVIES 4K 03
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/657212.ts
+#EXTINF:-1 group-title="CINE",MOVIES 4K 04
+http://galaxypro.online:8080/live/CARLOSN6111/rK8VZN379DWg/657213.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OT6-hZL7tq0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCYeCAyUebocI52j6VEDoY-nWmTXA" group-title="CINE",MOVIES 4K 07
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/657216.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lqE5GVK1Rqg/hqdefault.jpg" group-title="CINE",MOVIES 4K 08
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/657217.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkZ-KSQNbUGV6ti63dqNR7TfKZ0vD62l-RA&s" group-title="CINE",MOVIES 4K 09
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/657218.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX ACCION
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1671775.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX COMEDIA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1670585.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX CRIMEN
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1718752.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX ESTRENOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1719479.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX ESTRENOS 2024
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1726914.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX INFANTILES 2024
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1726913.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX TERROR
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1668573.ts
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940" group-title="CINE",NETFLIX WESTERN
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1671095.ts
+#EXTINF:-1 tvg-logo="https://www.pxlagency.com/assets/images/projects/paramount-movies/paramount-movies-header.jpg" group-title="CINE",PARAMOUNT MOVIES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725213.ts
+#EXTINF:-1 tvg-logo="https://vanguardia.com.mx/binrepository/1424x801/112c0/1200d801/none/11604/NHDU/paramount-plus-series-22022021_VG3576022_MG525226.jpg" group-title="CINE",PARAMOUNT MOVIES INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1725214.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/b/b3/CineCinema_Acci%C3%B2n_2002.svg/revision/latest/scale-to-width-down/250?cb=20210720110928" group-title="CINE",PELICULAS DE ACCION 2
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/138469.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Disney_cinema_logo.png" group-title="CINE",PELICULAS DISNEY
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723822.ts
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CDFF38C4E0D5966152BA4087F85154710B102E4DD7A8ABA5A80EC815A7F581CE/scale?width=1200&aspectRatio=1.78&format=webp" group-title="CINE",PIRATAS DEL CARIBE 2
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1380869.ts
+#EXTINF:-1 tvg-logo="https://www.elhumanista.net/media/2017/08/54e65f1468e0c.jpg" group-title="CINE",PLANETA DE LOS SIMIOS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723824.ts
+#EXTINF:-1 tvg-logo="https://cdn.forbes.com.mx/2014/07/Planeta-Simios.jpg" group-title="CINE",PLANETA DE LOS SIMIOS 2
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1362114.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljAz_G7jVrHHavWXWOng_WFlRZBDw4x48mkbfpmzuC2LKqXhpFDIufUL--EeWTqkwTsI&usqp=CAU" group-title="CINE",PRIME VIDEO 2024
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1720243.ts
+#EXTINF:-1 tvg-logo="https://blob.diariodelistmo.com/images/2024/04/12/crop-w1460-h1100-amazon-prime-video-%C2%BFcuanto-debes-pagar-para-no-ver-anuncios-focus-0-0-300-240.jpg" group-title="CINE",PRIME VIDEO COMEDIA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1720710.ts
+#EXTINF:-1 tvg-logo="https://www.reasonwhy.es/media/cache/destacada/amazon-prime-video-plataformas.jpg" group-title="CINE",PRIME VIDEO ESTRENOS 2024
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1721669.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdGkrGyQhezzoZv2gJlAH6MrQmHf6gFmCyQrU5HCdh4NxlR4pBbZwLU_tmaA7LdzdPnNk&usqp=CAU" group-title="CINE",PRIME VIDEO TERROR
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1720468.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFnmmC9bbYEncOjcGWuU0YmpExXmKUTCowLA&s" group-title="CINE",PRIME VIDEOS INFANTILES
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1721670.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/814vKenZLcL._AC_UF894,1000_QL80_.jpg" group-title="CINE",QUE PASO AYER SAGA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1419763.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlk3SsD7btZFMIAKjFgyD6qVQA_XAHt3-wA&s" group-title="CINE",SAW
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1765316.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/b/b4/Shrek-poster-1.jpg/revision/latest?cb=20210205040615&path-prefix=es" group-title="CINE",SHREK
+http://castlempire.site:80/live/davidtorrado3/636bdk/361807.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/2560px-Star_Wars_Logo.svg.png" group-title="CINE",STAR WARS
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723823.ts
+#EXTINF:-1 tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/starz-encore-action.png" group-title="CINE",STARZ ENCORE  ACCION
+http://castlempire.site:80/live/davidtorrado3/636bdk/190474.ts
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb910a1a-747a-4419-80c4-eb71ab028e2d/dfpn7ym-b5505ba6-1a61-4bd9-8992-1458c62fde4a.png/v1/fill/w_1280,h_589,q_80,strp/starz_cinema_without_the_star_by_awesomesuzy11_dfpn7ym-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTg5IiwicGF0aCI6IlwvZlwvYmI5MTBhMWEtNzQ3YS00NDE5LTgwYzQtZWI3MWFiMDI4ZTJkXC9kZnBuN3ltLWI1NTA1YmE2LTFhNjEtNGJkOS04OTkyLTE0NThjNjJmZGU0YS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.l-1TBz_NekQ9s25rF5UhKfKOKC_H-iGKzQ_bhf6Nfmw" group-title="CINE",STARZ HD
+http://castlempire.site:80/live/davidtorrado3/636bdk/190479.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/91gANPtj-7L._AC_UF894,1000_QL80_.jpg" group-title="CINE",TAKEN SAGA
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1406140.ts
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/876/489/png-transparent-horror-youtube-horror-text-logo-terror.png" group-title="CINE",TERROR 2024
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1731951.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/M8mHk6lvvrnaflKDha_U6LR167o2UcWQQW_EN84NyJF18NB5wHo5yvJmlUXmE79wExTsJ_LuLa-Qglfbg8E" group-title="CINE",TOM CRUISE
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1287086.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgaq9FkvzqauGVtKFqw9PIPPiqIGRWSs0JsA&s" group-title="CINE",TOY STORY SAGA
+http://mstrtv.com:25461/live/Eleuterio1/aaf379a747cb2afbadd3da968ee51242/198660.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtxJP44QvwPrL33ReI3HZ8RkZiryJCjvEisg&s" group-title="CINE",TRANSFORMES HD
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1380873.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDg98HW1WyhakPZw_e_VdybHgybZoqJSW1kA&s" group-title="CINE",VICENTE FERNANDEZ
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1573547.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0iHQbVQZUfsMnSQhAAY5caVTT7ONQ05ZiFg&s" group-title="CINE",VIERNES 13
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1764390.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&s" group-title="CINE",VIP 04
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405862.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE2ux0JAMiY5b1mAB6G8CVk0g8oG3xOUCZug&s" group-title="CINE",VIP 05
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/405863.ts
+#EXTINF:-1 tvg-logo="https://www.photoshop-bootcamp.com/wp-content/uploads/2018/06/X-Men-Logo.jpg" group-title="CINE",X-MAN
+http://moontools.me:8080/live/YanireGutierrez/VbvzYyz5uP/1723826.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/AEW_Dynamite_logo_%28simplified%29.jpg" group-title="DEPORTES",AEW
+http://tilinki.com:25461/live/yght11525/WoYWN/61037.ts
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=y44drrjcqtxa18g3arxjz58ge_image-header_pEs_1723117975000&quality=70" group-title="DEPORTES",amazon dazn f1
+http://alfatv.lat:2082/live/Gerardo1107@/ncc8HerREv84/550104.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiOaR5l7dr3fA4owTg6Va3mpmhmE-vylQnxQ&s" group-title="DEPORTES",DOCUMENTALES F1
+http://systemvip265404.ddns.me:80/live/0186450/0546810/44985.ts
+#EXTINF:-1 tvg-logo="https://img.remediosdigitales.com/36abc9/lauda-33-days/1366_2000.jpg" group-title="DEPORTES",DOCUMENTALES F1 2
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/8556.ts
+#EXTINF:-1 tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2024/10/23/dodgers-vs-yankees-rivalidad-alla.jpg" group-title="DEPORTES",DODGER VS YANKEES
+http://funtvcr.com:8080/live/DalePlay/WXAPYB@8a/53721.ts
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81BtB2FX4AL._AC_UF894,1000_QL80_.jpg" group-title="DEPORTES",DRIVE TO SURVIVE F1
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/8556.ts
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg" group-title="DEPORTES",F1
+http://br055.shop:8880/live/Danielhy829/Daniel-829h/139111.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGj3yQfnVQapQd9BWjrwccgMbmJibrz7BxEQ&s" group-title="DEPORTES",F1 HD
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/151986.ts
+#EXTINF:-1 tvg-logo="https://cdn.warp.la/wp-content/uploads/2023/12/GALA-FIA-C-1024x585.jpg" group-title="DEPORTES",F1 TEMP 2023
+http://api.nerdtv.xyz:80/live/Anita1901/Nerdtv2021/7880.ts
+#EXTINF:-1 tvg-logo="https://media.contentapi.ea.com/content/dam/gin/images/2023/02/f123-gametile-16x9.jpg.adapt.crop1x1.767w.jpg" group-title="DEPORTES",FORMULA 1 CARRERAS
+http://api.nerdtv.xyz:80/live/gcarlos1/070420/7880.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMuOVjvw2b5ISbTZS-LhCiZWacASdxA_3Qg&s" group-title="DEPORTES",IMPACT WRESTLING
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/151041.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/WWE_PPV_Logo.png" group-title="DEPORTES",PPV WWE
+http://premierchile.shop:8080/live/38xega86me49sa76w/47wuma84duwe57/20533.ts
+#EXTINF:-1 tvg-logo="https://www.thesmackdownhotel.com/images/wrestling/events/wwe/wrestlemania-10.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 10
+http://galaxypro.online:8080/movie/CARLOSN6111/rK8VZN379DWg/613244.mp4
+#EXTINF:-1 tvg-logo="https://www.406northlane.com/wp-content/uploads/2014/02/WrestleMania-12-logo.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 12
+http://galaxypro.online:8080/movie/CARLOSN6111/rK8VZN379DWg/613245.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71XpX4X-XFL._AC_UF1000,1000_QL80_.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 35
+http://cineplus-hd.com:80/play/movie.php?mac=00:1A:79:00:19:75&stream=703363.mp4&play_token=YBsTpQNOaP&type=movie&sn2=
+#EXTINF:-1 tvg-logo="https://www.debate.com.mx/img/2021/01/17/wwe_anuncia_cambio_de_sede_para_wrestlemania_37_por_covid-19_crop1610907341374.jpg?__scale=w:1200,h:1200,t:2" group-title="DEPORTES",WWE WRESTLEMANIA 37
+http://galaxypro.online:8080/movie/CARLOSN6111/rK8VZN379DWg/613243.mp4
+#EXTINF:-1 tvg-logo="https://dosdossolodos.com/wp-content/uploads/2021/10/wwe-wrestlemania-1024x576.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 38 I
+http://tvlatino.club:2082/movie/34687808872/mDDLm248b7Fd/400447.mkv
+#EXTINF:-1 tvg-logo="https://www.sopitas.com/wp-content/uploads/2022/03/wrestlemania-38-logo.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 38 II
+http://tvlatino.club:2082/movie/34687808872/mDDLm248b7Fd/400435.mkv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3ZYCoNF53OKx5lS02aQ7nG_a1p0x0jWRiQ&s" group-title="DEPORTES",WWE WRESTLEMANIA 39
+http://galaxypro.online:8080/movie/WilmerGuaman/Wil1975/613219.mp4
+#EXTINF:-1 tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-01/20230721_WM40_16x9--0613f4d63a10d5a379a11f4362a6493f.jpg?h=75c4f08c&itok=OcStWxFD" group-title="DEPORTES",WWE WRESTLEMANIA 40
+http://tvlatino.club:2082/movie/34687808872/mDDLm248b7Fd/374091.mkv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6ig5Dk8pVeA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDU5Qe05l-dBLwcZeTrg9jKH8q2Ww" group-title="DEPORTES",WWE WRESTLEMANIA 40 1
+http://yo.ikitv.site:8080/play/movie.php?mac=00:1A:79:43:B0:E2&stream=768662.mp4&play_token=qwc6KPLzow&type=movie&sn2=062014N017493
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/F-8AAOSwOOFmIcBr/s-l1200.jpg" group-title="DEPORTES",WWE WRESTLEMANIA 40 2
+http://yo.ikitv.site:8080/play/movie.php?mac=00:1A:79:43:B0:E2&stream=768663.mp4&play_token=6TUmROeQJZ&type=movie&sn2=062014N017493
+#EXTINF:-1 tvg-logo="https://i0.wp.com/sextoanillo.com/wp-content/uploads/2021/05/1216.jpg?resize=1170%2C684&ssl=1" group-title="DEPORTES",WWE WRESTLEMANIA BACKLASH 2022
+http://yo.ikitv.site:8080/play/movie.php?mac=00:1A:79:43:B0:E2&stream=405083.mkv&play_token=GmVrPPgjs9&type=movie&sn2=062014N017493
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Logo66-2000.gif/220px-Logo66-2000.gif" group-title="LOCALES",66 MEXICALI
+http://alfatv.lat:2082/live/Gerardo1107@/ncc8HerREv84/310172.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_myGLAYTj9JqcIV6Lt2TVn1MejbdGd8yHsw&s" group-title="LOCALES",AZTECA 1
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/492880.ts
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/azteca7_logo_antes.jpg" group-title="LOCALES",AZTECA 7
+http://galaxypro.online:8080/live/WilmerGuaman/Wil1975/93860.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Azteca_Siete_%281998%29.svg/revision/latest/scale-to-width-down/250?cb=20210516230451&path-prefix=es" group-title="LOCALES",AZTECA 7 2
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/93860.ts
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LOCALES",AZTECA 7 FHD
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/492892.ts
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/869/427/png-clipart-xewt-tdt-televisa-tijuana-san-diego-logo-others-miscellaneous-television.png" group-title="LOCALES",CANAL 12 TIJUANA
+http://tvlatino.club:2082/live/Patiperu133/FwG84e6PtJfB/492913.ts
 #EXTINF:-1 group-title="LOCALES",Canal 3 KMK TV
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
-#EXTINF:-1 group-title="LOCALES",CANAL 33 TIJUANA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqo_ON1IHZ8DgfFz_PWoJMBvlFqlvVBZz7_w&s" group-title="LOCALES",CANAL 33 TIJUANA
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1 group-title="LOCALES",CANAL 12 TIJUANA
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/165131.ts
-#EXTINF:-1 group-title="LOCALES",MEXICALI 66
-http://xpz.com.mx:80/live/rhin0xCPwow/yXtqbNNtmzaqU/2159384.ts
-#EXTINF:-1 group-title="LOCALES",TELEVISA TIJUANA
-http://offshore.lat:8080/live/eusebioxdd/hShzYZdKbZ/382922.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC 306 LATINO
-http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/419257.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",DAZN BOX
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560003.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO LATINO
-http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/419288.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",AZTECA 7 BOX
-http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/419286.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX TELEVISA
-http://offshore.lat:8080/live/Richardtorres/dgtR8sgkQr9y/419287.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC 306
-http://vip2102.112421.net:2050/PQWflyKEmT/XzCXO1ejPi/410593
-#EXTINF:-1 group-title="PAGO POR EVENTO",UFC 306 2
-http://vip2102.112421.net:2050/PQWflyKEmT/XzCXO1ejPi/4116195
-#EXTINF:-1 group-title="PAGO POR EVENTO",DAZN BOX
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560005.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX CANELO
-http://spacetvplay.com:8080/live/miralatin2243/JJKTU/560006.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",PBC BOX
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281782.ts
-#EXTINF:-1 group-title="PAGO POR EVENTO",BOX 3
-http://live.budtvlight.com:25461/live/bud-202190/f047d1d23a/281785.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqo_ON1IHZ8DgfFz_PWoJMBvlFqlvVBZz7_w&s" group-title="LOCALES",CANAL 33 TIJUANA 2
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5_m.png" group-title="LOCALES",CANAL 5
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/279661.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Canal_de_las_Estrellas_2013.png/revision/latest?cb=20200305231311&path-prefix=es" group-title="LOCALES",CANAL DE LAS ESTRELLAS
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/469582.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUur0wbpNT8GzzPC2TEaScnnJfPE34jlcVA&s" group-title="LOCALES",EL NU9VE
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/243055.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Galavisi%C3%B3n_2003.png/revision/latest?cb=20200716184028&path-prefix=es" group-title="LOCALES",GALAVISION
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/224341.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="LOCALES",TELEMUNDO
+http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/23582.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="LOCALES",TELEMUNDO
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/139075.ts
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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://fastly.4sqi.net/img/general/200x200/9453427_Xmk6xkaW6F6PGxKlBqIeFVMnREIUChYknHokE2inp1E.jpg" group-title="LOCALES",TELEVISA ENSENADA
+https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WUiMuDgr6bDsZN3Kh69E1Ji7UetizdJx2JQfDdc2K45bguaqVD6d6tJGm45qL3xNOev9" group-title="LOCALES",TELEVISA TIJUANA
+http://tvlatino.club:2082/live/34687808872/mDDLm248b7Fd/492913.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Univision_logo.svg" group-title="LOCALES",UNIVISION
+http://galaxypro.online:8080/live/CuentaUsuario2912/Tr31ntA2024/224326.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCVzFwLkW94/maxresdefault.jpg" group-title="MUSICA",CUMBIA DRIVE MIX
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/148547.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lCVzFwLkW94/maxresdefault.jpg" group-title="MUSICA",CUMBIA DRIVE MIX 2
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161033.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000638333395-37uiy0-t500x500.jpg" group-title="MUSICA",DJ ALEX REGUETON CUMBIA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161031.ts
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/d510/live/f6b97c00-2c33-11ef-97df-d9f749a11c1d.jpg.webp" group-title="MUSICA",DJ AVICII
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161028.ts
+#EXTINF:-1 tvg-logo="https://www.lamega.com.co/_next/image?url=https%3A%2F%2Ffiles.lamega.com.rcnra-dev.com%2Fassets%2Fpublic%2Fstyles%2Fdesktop_680x400%2Fpublic%2Fmedia%2Fimage%2Fimage%2F2022-11%2FCamila%2520Guti%25C3%25A9rrez.png%3Fh%3Dd0a99739%26itok%3DBehwhyHA&w=1920&q=75" group-title="MUSICA",DJ CAMILA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/153634.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvvfLmmLqEG-HAif4nNOSMT3_lkL0aO_tfw&s" group-title="MUSICA",DJ FER PALACIOS
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161033.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPvvfLmmLqEG-HAif4nNOSMT3_lkL0aO_tfw&s" group-title="MUSICA",DJ FER PALACIOS REGUETON
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161027.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzyHigVaYEvGjjkkR-gnm39uKaGaXfR_FCSA&s" group-title="MUSICA",DJ KOROLOVA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/153636.ts
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6761610000e5eb20720b03e765d645dd50533d" group-title="MUSICA",DJ LINDA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/153631.ts
+#EXTINF:-1 tvg-logo="https://beatnightmx.com/wp-content/uploads/2019/09/MALAA.jpg" group-title="MUSICA",DJ MALAA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/161029.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000129009836-sgfwbe-t240x240.jpg" group-title="MUSICA",DJ NICO
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/153639.ts
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000129009836-sgfwbe-t240x240.jpg" group-title="MUSICA",DJ NICO REGUETON CUMBIA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/153638.ts
+#EXTINF:-1 tvg-logo="https://robertoramasso.com/wp-content/uploads/dj-sol-contrataciones.jpg" group-title="MUSICA",DJ SOL
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/148546.ts
+#EXTINF:-1 tvg-logo="https://robertoramasso.com/wp-content/uploads/como-contratar-a-dj-sol.jpg" group-title="MUSICA",DJ SOL REGUETON CUMBIA
+http://2.magmas5.com:8000/live/XxXxXXXxX/04Il0O395xc22/148242.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/bbzltrlhGLo/hqdefault.jpg" group-title="MUSICA",DJ TROLA MIX
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/262586.mp4
+#EXTINF:-1 tvg-logo="https://www.elsoldepuebla.com.mx/local/mjq9oi-conoce-la-lista-de-los-conciertos-que-llegan-a-puebla-para-el-2022/alternates/LANDSCAPE_560/Conoce%20la%20lista%20de%20los%20conciertos%20que%20llegan%20a%20Puebla%20para%20el%202022" group-title="MUSICA",MIX CONCIERTOS
+http://mundod.ddns.me:2082/live/azplay008/MudWiXBELo/48305.ts
+#EXTINF:-1 radio="true" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgnIbTdqtYVCCjLFKG3BWhybqtCfkTL9Tlw&s" group-title="MUSICA",RADIO BOOM MIX BACK
+https://stream.zeno.fm/rngsfrvcbnruv.pls
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/43GBKiLcd9E/maxresdefault.jpg" group-title="MUSICA",Remix CUMBIA
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276228.mp4
+#EXTINF:-1 tvg-logo="https://mx.radio.net/300/tropical100mix.png?version=73555d33ee63accf29ff502526cdf670" group-title="MUSICA",TROPICAL
+http://tvlatino.club:2082/live/Edgar23/wCPgh4ZyJFMc/456480.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCNMX_gPapOpyB-fKwVPE0ccebv2QkUPdBA&s" group-title="MUSICA",VIDEOS
+http://offshore.lat:8080/movie/mauman22/pxdyrvHX3zUj/276229.mp4
+#EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/55ee21e5-4295-4107-859a-a97decf2eebf/435bdd03-00d2-453d-9cd8-3a68dac9743c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" group-title="VOD CINE",El espacio salvaje
+https://fs2.cnubis.com/108E?download_token=1201afd5ff58ee1d0a5de6b735cf4eafcdc397f4e17cc72d01ee19802c9ad7e3&.mp4
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/djhqderty/image/upload/c_limit,w_600/f_auto/q_auto/v1/astroingeo/f8pxxzqxhxmxxtkgbvcc?_a=BBDAADAD0" group-title="VOD CINE",Fisica Cuantica
+https://fs2.cnubis.com/SKv?download_token=6b79994799ce8d7d2de977a1f1424ac3b15145756de166607e2d2bfe01ef286a&.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Z7ZN6nzv0UQ/sddefault.jpg" group-title="VOD CINE",El universo: Curiosidades
+https://fs2.cnubis.com/8Aj?download_token=4302bc4dbd49cde6bd3b3b723abdc983cf77e27e87be68ebdc4378c0ae3b8c42&.mp4
+#EXTINF:-1 tvg-logo="https://occ-0-8407-444.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABYFba1fWxP6B10H4pwM7pCAQcyO44jJ4gLsM6gyYe5T-4Sycae3LOEU8tcLefCOjwlyxHiLDiiB-41ArNr_cS1huAT0Dg8v2Ft-g.jpg?r=669" group-title="VOD CINE",Ancient aliens: 1- Los visitantes
+https://fs2.cnubis.com/3hi?download_token=edac843da452c9ccd705467c18f8a4243525ab5e2fc0e7aed2503ef5bb767d79&.mp4
+#EXTINF:-1 tvg-logo="https://basededatos.atrae.org/media/works/tJw6JNjglltIiuG9JzEHIcgyNuh.jpg" group-title="VOD CINE",Los últimos espartanos
+https://fs2.cnubis.com/6ru?download_token=e73702e6e262cf0ff0d455eadb2e99781dd51ebcab7b7c735603f17e666b4b65&.mp4
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/imagenes/documenta2-vida-secreta-bebes/1515002806674.JPG" group-title="VOD CINE",La vida secreta de los bebes
+https://fs2.cnubis.com/31x?download_token=3fb1a9a67adcdcbbd5ba7bd850e1e81aff929bf60d007acbc4cbbc07824e224b&.mp4
+#EXTINF:-1 tvg-logo="https://resources.sanborns.com.mx/imagenes-sanborns-ii/1200/9788466647694.jpg?scale=500&qlty=75" group-title="VOD CINE",La biblia del Diablo
+https://fs2.cnubis.com/6p9?download_token=75c3c5a208532d838d3649b6d8fc3548c2a74e99cb51a02ec06a5149d5912119&.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/N_ZPdwYLKZs/sddefault.jpg" group-title="VOD CINE",El universo: Misterios inexplicables
+https://fs2.cnubis.com/5DW?download_token=8903c1956cdaaf87d2348e2d7c94004710e0ffd8bea22bfd7d11f27ffa071c49&.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/8d7c71021415ad428c21c8eeb79a2408caf06a890ab9ab283d43faa5a3adc34d._BR-6_AC_SX720_FMjpg_.jpg" group-title="VOD CINE",Paranormal witness: 3- Poltergeist
+https://fs2.cnubis.com/33q?download_token=a38778e0884568f1cc38fd37b445958bcc715a64d25bbd0aa17bc4b6d8d8007a&.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/suX8NYv9ixA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCs8QHxyxhsNFbFMurGyBdkQ4Z7Aw" group-title="VOD CINE",Paranormal witness (T3): Apariciones en hospitales
+https://fs2.cnubis.com/29Z7?download_token=cd8198beb8bd9e0af3c745204265999db7e289199173eb926ac7834545023665&.mp4
+#EXTINF:-1 tvg-logo="https://filosofia.nueva-acropolis.es/wp-content/uploads/2011/04/ciencias1-1280x720.jpg" group-title="VOD CINE",La ciencia de la magia
+https://fs2.cnubis.com/1j9R?download_token=fcd3432cf710973cd45dec5c8a26b139e668d953e1cf7c3d82b2d52706724f3c&.mp4
+#EXTINF:-1 tvg-logo="https://www.documaniatv.com/uploads/thumbs/60d7ad309-1.webp" group-title="VOD CINE",Instintos humanos: 2- Deseos profundos
+https://fs2.cnubis.com/4ha?download_token=e70ecd6a4922ab0960801e3a61fcee169dc29a8ef854e863cd1b4752c8d5a09c&.mp4
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/IXQNRVNQF5GCBEAY7V3CN2K7MM.jpg" group-title="VOD CINE",Tabu: Prostitucion
+https://fs2.cnubis.com/7uf?download_token=61598be300c63a24f37d004ae0de646481e685ba4af739b1440371794cfb29b5&.mp4
+#EXTINF:-1 tvg-logo="https://www.penguinlibros.com/mx/3013222-home_default/lujuria-libro-2-pecados-placenteros-2.webp" group-title="VOD CINE",La ciencia de la lujuria
+https://fs2.cnubis.com/T6v?download_token=3b632b203c3fcd7a5413729fce5174e0aff4cff4c0b55f35d0271089eb0038c9&.mp4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0DPRU5xotZY3VLzhbp_7cD4Cds_Tv_XWhIw&s" group-title="VOD CINE",Historias de ovnis: Conspiracion extraterrestre
+https://fs2.cnubis.com/8W4?download_token=c8e728f6e6a0d43c899688789347bb6b9ab59c2e3f7e3e1426cb187801a34410&.mp4
